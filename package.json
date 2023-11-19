@@ -1,0 +1,35 @@
+{
+	"name": "antiq-scraper",
+	"version": "1.0.0",
+	"description": "",
+	"main": "server.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "./start_env"
+	},
+	"author": "",
+	"license": "ISC",
+	"type": "module",
+	"dependencies": {
+		"@prisma/client": "^5.6.0",
+		"@types/axios": "^0.14.0",
+		"@types/body-parser": "^1.19.5",
+		"@types/express": "^4.17.21",
+		"@types/mysql": "^2.15.24",
+		"@types/pg": "^8.10.9",
+		"axios": "^1.6.2",
+		"body-parser": "^1.20.2",
+		"express": "^4.18.2",
+		"fs": "^0.0.1-security",
+		"mysql": "^2.18.1",
+		"pg": "^8.11.3",
+		"prettier": "^3.1.0",
+		"prisma": "^5.6.0",
+		"prisma-client": "^0.0.0",
+		"typescript": "^5.2.2",
+		"uuid": "^9.0.1"
+	},
+	"devDependencies": {
+		"nodemon": "^3.0.1"
+	}
+}

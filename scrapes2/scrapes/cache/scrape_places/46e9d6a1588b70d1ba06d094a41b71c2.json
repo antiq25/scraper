@@ -1,0 +1,2242 @@
+{
+    "query": "\"Home Depot in Vancouver BC\"",
+    "places": [
+        {
+            "place_id": "ChIJ1UqE_kJxhlQRLLaGyoo6Pkg",
+            "name": "The Home Depot",
+            "description": "Chain home improvement retailer for tools, appliances & other products (some offer truck rentals).",
+            "reviews": 2449,
+            "website": "https://stores.homedepot.ca/bc/vancouver/home-improvement-vancouver-bc-7042.html?utm_source=google&utm_medium=organic&utm_campaign=local&utm_content=7042",
+            "owner": {
+                "id": "108026241841953074682",
+                "name": "The Home Depot (Owner)",
+                "link": "https://www.google.com/maps/contrib/108026241841953074682"
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNqPgREkHXb2tXimYP98hywnE-tRKjHkbUmWoDl=w408-h306-k-no",
+            "main_category": "Home improvement store",
+            "categories": [
+                "Home improvement store",
+                "Flooring store",
+                "Garden center",
+                "Hardware store",
+                "Kitchen furniture store",
+                "Lighting store",
+                "Paint store",
+                "Roofing supply store"
+            ],
+            "rating": 4.1,
+            "workday_timing": "6 a.m.-9 p.m.",
+            "closed_on": [],
+            "phone": "(604) 608-1423",
+            "address": "The Home Depot, 900 Terminal Ave, Vancouver, BC V6A 4G4",
+            "review_keywords": [
+                {
+                    "keyword": "tools",
+                    "count": 57
+                },
+                {
+                    "keyword": "rental",
+                    "count": 31
+                },
+                {
+                    "keyword": "plants",
+                    "count": 29
+                },
+                {
+                    "keyword": "cashier",
+                    "count": 20
+                },
+                {
+                    "keyword": "big box",
+                    "count": 19
+                },
+                {
+                    "keyword": "garden centre",
+                    "count": 19
+                },
+                {
+                    "keyword": "employee",
+                    "count": 19
+                },
+                {
+                    "keyword": "lumber",
+                    "count": 16
+                },
+                {
+                    "keyword": "contractor",
+                    "count": 15
+                },
+                {
+                    "keyword": "aisles",
+                    "count": 14
+                }
+            ],
+            "link": "https://www.google.com/maps/place/The+Home+Depot/data=!4m7!3m6!1s0x54867142fe844ad5:0x483e3a8aca86b62c!8m2!3d49.2688889!4d-123.0836111!16s%2Fg%2F1tfjqd4f!19sChIJ1UqE_kJxhlQRLLaGyoo6Pkg?authuser=0&hl=en&rclk=1",
+            "status": "Closed  Opens 8 a.m. Sun",
+            "price_range": "$",
+            "reviews_per_rating": {
+                "1": 191,
+                "2": 82,
+                "3": 270,
+                "4": 768,
+                "5": 1138
+            },
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ1UqE_kJxhlQRLLaGyoo6Pkg&q=The+Home+Depot&authuser=0&hl=en&gl=CA",
+            "coordinates": {
+                "latitude": 49.2688889,
+                "longitude": -123.0836111
+            },
+            "plus_code": "7W98+HH Vancouver, British Columbia",
+            "detailed_address": {
+                "ward": "Strathcona",
+                "street": "900 Terminal Ave",
+                "city": "Vancouver",
+                "postal_code": "V6A 4G4",
+                "state": "British Columbia",
+                "country_code": "CA"
+            },
+            "time_zone": "America/Vancouver",
+            "cid": "5205662587064596012",
+            "data_id": "0x54867142fe844ad5:0x483e3a8aca86b62c",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [
+                {
+                    "link": "https://www.google.ca/storefront/homepage?sfr=compass&lsf=seller:6472097,store:10699551398454748967,s:m&hl=en&gl=ca&sts=13&sts=13",
+                    "source": "Search items at this store"
+                }
+            ],
+            "about": [
+                {
+                    "id": "service_options",
+                    "name": "Service options",
+                    "options": [
+                        {
+                            "name": "Curbside pickup",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Delivery",
+                            "enabled": true
+                        },
+                        {
+                            "name": "In-store pickup",
+                            "enabled": true
+                        },
+                        {
+                            "name": "In-store shopping",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "accessibility",
+                    "name": "Accessibility",
+                    "options": [
+                        {
+                            "name": "Wheelchair-accessible entrance",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Wheelchair-accessible parking lot",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "offerings",
+                    "name": "Offerings",
+                    "options": [
+                        {
+                            "name": "Assembly service",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Repair services",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "payments",
+                    "name": "Payments",
+                    "options": [
+                        {
+                            "name": "Checks",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Credit cards",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Debit cards",
+                            "enabled": true
+                        },
+                        {
+                            "name": "NFC mobile payments",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Credit cards",
+                            "enabled": true
+                        }
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipNqPgREkHXb2tXimYP98hywnE-tRKjHkbUmWoDl=w397-h298-k-no"
+                },
+                {
+                    "about": "Latest",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipMsp6P2YsW9sdk3TEdINVAwWh6Cs9kZIbAfKHQv=w397-h298-k-no"
+                },
+                {
+                    "about": "Videos",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipMcNSrJxRvRhO8BE6XB3qXbPigBbQxz3a8NotI6=w224-h298-k-no"
+                },
+                {
+                    "about": "Inside",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipPjUa5Z2filJ7t_sDayTY86OcEjwNXCpSuCl7DR=w224-h298-k-no"
+                },
+                {
+                    "about": "Street View & 360deg",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_hYxGRBdH_tu2qQB_cXGIw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=320.09177&pitch=0&thumbfov=100"
+                }
+            ],
+            "hours": [
+                {
+                    "day": "Monday",
+                    "times": [
+                        "6 a.m.-9 p.m."
+                    ]
+                },
+                {
+                    "day": "Tuesday",
+                    "times": [
+                        "6 a.m.-9 p.m."
+                    ]
+                },
+                {
+                    "day": "Wednesday",
+                    "times": [
+                        "6 a.m.-9 p.m."
+                    ]
+                },
+                {
+                    "day": "Thursday",
+                    "times": [
+                        "6 a.m.-9 p.m."
+                    ]
+                },
+                {
+                    "day": "Friday",
+                    "times": [
+                        "6 a.m.-9 p.m."
+                    ]
+                },
+                {
+                    "day": "Saturday",
+                    "times": [
+                        "7 a.m.-7 p.m."
+                    ]
+                },
+                {
+                    "day": "Sunday",
+                    "times": [
+                        "8 a.m.-6 p.m."
+                    ]
+                }
+            ],
+            "featured_reviews": [
+                {
+                    "review_id": "I had received such a caring and Knowledgeable service from Della at this location. Even though it wasn't her expertise , she went out of the way to help me find all the items; those I was looking under a lot of stress to get a problem fixed at our house. Keep up the good work Della! You are very nice human being!",
+                    "reviewer_name": "Yash Chawla",
+                    "rating": 5,
+                    "review_text": "I had received such a caring and Knowledgeable service from Della at this location. Even though it wasn't her expertise , she went out of the way to help me find all the items; those I was looking under a lot of stress to get a problem fixed at our house. Keep up the good work Della! You are very nice human being!",
+                    "published_at": "2 weeks ago",
+                    "published_at_date": "2023-11-04T01:53:11.803000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 17,
+                    "total_number_of_photos_by_reviewer": 1,
+                    "reviewer_url": "https://www.google.com/maps/contrib/105359857916668274809/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjW20mzsy4v7MSeITh9kSGApG7jP8N8G_snWt8ZoS6D7YPU=s120-c-rp-mo-ba2-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipOsRUi0T8-KSmT8kXPjMJeU5Vs5KxK_8dWEAS1F=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": "Well organized and maintained, also, one of the most cleanest washroom/restrooms for their customers. The drawback of Home Depot is most products prices seemed higher than competitors although they claim price match. And another disadvantage or disappointment Home Depot does not have a good loyalty program such, neither any good sale/promotion offers.",
+                    "reviewer_name": "A. Munaf Mughal",
+                    "rating": 4,
+                    "review_text": "Well organized and maintained, also, one of the most cleanest washroom/restrooms for their customers. The drawback of Home Depot is most products prices seemed higher than competitors although they claim price match. And another disadvantage or disappointment Home Depot does not have a good loyalty program such, neither any good sale/promotion offers.",
+                    "published_at": "a year ago",
+                    "published_at_date": "2022-08-22T16:42:04.409000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 117,
+                    "total_number_of_photos_by_reviewer": 834,
+                    "reviewer_url": "https://www.google.com/maps/contrib/111130731388480526342/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUqoexprrGB3Otha7kc-kAnIlUUoN0--7UpA0GbAd_St1rE=s120-c-rp-mo-ba5-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipPBhityMKxXirYosN6Rv4HVDpcC_RaRAb4FQqv4=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipOc8ZCsIUzjSfbD__zXl2_Qnur4CtwoZlYOyURl=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipOrLRCVjFzQEnsTfMi_YrR6XAILd4wyIXnrrJ1Q=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipNRrphDwI_6DhcfEJjk0z_ZBwA3WhcVJMBMB5wL=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipN3O2Ukv3LBQywScXIi253jAb8jB4WxnHWBFT74=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipM29F4KbcIzdaIbol7y81lrEYPyWHLdj3byPbab=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipM2lPd79ZRu1A-QcTPZtcSbIdDqylnd6rT3hpSs=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPfhcjHTA6p2Gk7TGM83-LqY1MlFBZjKuDAGzae=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipOeydnxA8tJhM_IXYH8dSnDCrbnbTt3iS7xhbz-=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipP-ak8f9jSN3rhglV2ijDDXzBshhdRI4ahJmCPi=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": "It's a review on a carpet cleaner rental. Overall the experience was good. The cleaner does good job, compact and easy to use. Quick to rent. But they don't really clean this machine and pretty stinky. I needed to rinse and clear water to run the old water out first then finally use.",
+                    "reviewer_name": "nana Ha",
+                    "rating": 4,
+                    "review_text": "It's a review on a carpet cleaner rental. Overall the experience was good. The cleaner does good job, compact and easy to use. Quick to rent. But they don't really clean this machine and pretty stinky. I needed to rinse and clear water to run the old water out first then finally use.",
+                    "published_at": "a month ago",
+                    "published_at_date": "2023-09-25T15:16:39.366000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 18,
+                    "total_number_of_photos_by_reviewer": 13,
+                    "reviewer_url": "https://www.google.com/maps/contrib/105976695810557487231/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKAXXHJhfVPBYHbqKlAvmE4xmLvwuLovWhWT1JJTflQ=s120-c-rp-mo-ba2-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Another amazing experience at Home Depot Terminal (Vancouver). I had a very complicated return, 3 items, and 3 different scenarios, but Nifemi handled it perfectly! She investigated, got to the bottom of it, and was a rockstar through it all. A manager had to come in and help, and he was great as well. This is not my closest Home Depot, but I will go out of my way to come here. Every single staff member I deal with is awesome, with a huge care meter and so willing to help. You can tell this store is managed well!",
+                    "reviewer_name": "Tami C",
+                    "rating": 5,
+                    "review_text": "Another amazing experience at Home Depot Terminal (Vancouver). I had a very complicated return, 3 items, and 3 different scenarios, but Nifemi handled it perfectly! She investigated, got to the bottom of it, and was a rockstar through it all. A manager had to come in and help, and he was great as well. This is not my closest Home Depot, but I will go out of my way to come here. Every single staff member I deal with is awesome, with a huge care meter and so willing to help. You can tell this store is managed well!",
+                    "published_at": "a month ago",
+                    "published_at_date": "2023-09-23T21:03:08.303000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 16,
+                    "total_number_of_photos_by_reviewer": 2,
+                    "reviewer_url": "https://www.google.com/maps/contrib/101021887015643767364/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIcR1tVee5RusIFoiDUzihD8eHwe3iPgw5D_4uf3jx5=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Went to Home Depot to purchase a new fridge. Start to finish, it was quick and easy. They have a wide selection to choose from.\n\nThe only down side was when we received our Fridge, there was 2 small dents; one on each side of the french doors.\nSid Moosavi, that works in appliances was the one that helped us from the time of purchase. He was very helpful and resolved the issue immediately.\n\nI enjoyed the experience of purchasing with Home Depot.\n10/10 would recommend and will definitely purchase at this location again.",
+                    "reviewer_name": "Lexus Lozano",
+                    "rating": 5,
+                    "review_text": "Went to Home Depot to purchase a new fridge. Start to finish, it was quick and easy. They have a wide selection to choose from.\n\nThe only down side was when we received our Fridge, there was 2 small dents; one on each side of the french doors.\nSid Moosavi, that works in appliances was the one that helped us from the time of purchase. He was very helpful and resolved the issue immediately.\n\nI enjoyed the experience of purchasing with Home Depot.\n10/10 would recommend and will definitely purchase at this location again.",
+                    "published_at": "4 months ago",
+                    "published_at_date": "2023-07-01T01:48:25.380000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 7,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/101446701047577395871/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjV9XxdiClBGco8tkJTPa8r252qcWS-1qGk08-_Ro_-ZH04=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Great place to train a pup. Ya they got good hardware and tools too  @homedepot contact me for licensing lol.",
+                    "reviewer_name": "Victor Chang",
+                    "rating": 5,
+                    "review_text": "Great place to train a pup. Ya they got good hardware and tools too  @homedepot contact me for licensing lol.",
+                    "published_at": "3 months ago",
+                    "published_at_date": "2023-08-01T06:10:44.025000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 50,
+                    "total_number_of_photos_by_reviewer": 167,
+                    "reviewer_url": "https://www.google.com/maps/contrib/108636036350741212796/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVupbfzrsBO8AciaXihwTl9kASay9JH0t3RlD_nJre4xiiS=s120-c-rp-mo-ba4-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipNGUGh64tC_kj6w8MkDSjsl9qtGxtRu0OjLDrp-=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": "Kinda disappointed with the painting department on my recent visit.\n\nUsually, on an average visit, if you stand by a section in the store for more than a few simple minutes, staff will ask to help...\n\nI was in the section reading labels, standing looking puzzled I'm sure. I was attempting to find the correct product to use to seal my basement wall. There are many options for various uses and surfaces.\n\nThis department is busy. There was at least 5 different staff who saw me, as I was there for over 20 mins, reading labels.\n\nNot one asked to help. ... I could have asked but, guess I was waiting on them ",
+                    "reviewer_name": "Sara brown",
+                    "rating": 1,
+                    "review_text": "Kinda disappointed with the painting department on my recent visit.\n\nUsually, on an average visit, if you stand by a section in the store for more than a few simple minutes, staff will ask to help...\n\nI was in the section reading labels, standing looking puzzled I'm sure. I was attempting to find the correct product to use to seal my basement wall. There are many options for various uses and surfaces.\n\nThis department is busy. There was at least 5 different staff who saw me, as I was there for over 20 mins, reading labels.\n\nNot one asked to help. ... I could have asked but, guess I was waiting on them ",
+                    "published_at": "3 months ago",
+                    "published_at_date": "2023-08-12T20:41:43.751000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 24,
+                    "total_number_of_photos_by_reviewer": 11,
+                    "reviewer_url": "https://www.google.com/maps/contrib/108909978770463129668/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVEdQZ2e3VpRDJbph86jPmmuiEAoCvhNJA5g24hXM4ZtQ=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipP-iiaY3NzX9-txDm0Z5cCSNKf8LjVdwRb9hndZ=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": "I came looking for a shop vac. Asked the first person I saw who sent me to the wrong department. The next staff member tried to send me to the kitchen and bath section. I had to ask him to look it up on his phone. Finally found the right section after 15 minutes of time wasted. A good reminder of how undertrained the staff are at big box retail. This is why I should choose a small independent store any day. Home Depot happened to be open an hour earlier. My mistake for not waiting.",
+                    "reviewer_name": "Jonah Eckert",
+                    "rating": 1,
+                    "review_text": "I came looking for a shop vac. Asked the first person I saw who sent me to the wrong department. The next staff member tried to send me to the kitchen and bath section. I had to ask him to look it up on his phone. Finally found the right section after 15 minutes of time wasted. A good reminder of how undertrained the staff are at big box retail. This is why I should choose a small independent store any day. Home Depot happened to be open an hour earlier. My mistake for not waiting.",
+                    "published_at": "3 months ago",
+                    "published_at_date": "2023-08-06T17:13:20.820000Z",
+                    "response_from_owner_text": "Thank you for bringing this to our attention, we would like to hear more about this experience.  Please reach out to us by private message at https://thd.co/3iepTKq  or DM us on Instagram so that we can continue the conversation. ",
+                    "response_from_owner_ago": "3 months ago",
+                    "response_from_owner_date": "2023-08-07T18:06:31.866000Z",
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 55,
+                    "total_number_of_photos_by_reviewer": 26,
+                    "reviewer_url": "https://www.google.com/maps/contrib/111585107568510405641/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUxYoiGq8g1yZr7b4hgSWeCppePsUrqr5JJohb6u-K-7Ek=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJdQ1jud1zhlQRrzO3fVYUkyg",
+            "name": "The Home Depot",
+            "description": "Chain home improvement retailer for tools, appliances & other products (some offer truck rentals).",
+            "reviews": 1668,
+            "website": "https://stores.homedepot.ca/bc/vancouver/home-improvement-vancouver-bc-7259.html%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dlocal%26utm_content%3D7259",
+            "owner": {
+                "id": "111134212134648607693",
+                "name": "The Home Depot (Owner)",
+                "link": "https://www.google.com/maps/contrib/111134212134648607693"
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPGS3xsP4UBC2-T-D2r2_jNFHMO4nJWkGUijJA-=w408-h306-k-no",
+            "main_category": "Home improvement store",
+            "categories": [
+                "Home improvement store",
+                "Flooring store",
+                "Garden center",
+                "Hardware store",
+                "Kitchen furniture store",
+                "Lighting store",
+                "Paint store",
+                "Roofing supply store"
+            ],
+            "rating": 4.1,
+            "workday_timing": "7 a.m.-9 p.m.",
+            "closed_on": [],
+            "phone": "(604) 675-1260",
+            "address": "The Home Depot, 2388 Cambie St, Vancouver, BC V5Z 2T8",
+            "review_keywords": [
+                {
+                    "keyword": "parking",
+                    "count": 69
+                },
+                {
+                    "keyword": "tools",
+                    "count": 39
+                },
+                {
+                    "keyword": "paint",
+                    "count": 31
+                },
+                {
+                    "keyword": "plants",
+                    "count": 18
+                },
+                {
+                    "keyword": "plumbing",
+                    "count": 13
+                },
+                {
+                    "keyword": "HD",
+                    "count": 12
+                },
+                {
+                    "keyword": "building materials",
+                    "count": 12
+                },
+                {
+                    "keyword": "employee",
+                    "count": 11
+                },
+                {
+                    "keyword": "condo",
+                    "count": 9
+                },
+                {
+                    "keyword": "self-checkout",
+                    "count": 7
+                }
+            ],
+            "link": "https://www.google.com/maps/place/The+Home+Depot/data=!4m7!3m6!1s0x548673ddb9630d75:0x289314567db733af!8m2!3d49.2641853!4d-123.1140747!16s%2Fg%2F1td425fx!19sChIJdQ1jud1zhlQRrzO3fVYUkyg?authuser=0&hl=en&rclk=1",
+            "status": "Closed  Opens 8 a.m. Sun",
+            "price_range": "$",
+            "reviews_per_rating": {
+                "1": 105,
+                "2": 54,
+                "3": 190,
+                "4": 525,
+                "5": 794
+            },
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJdQ1jud1zhlQRrzO3fVYUkyg&q=The+Home+Depot&authuser=0&hl=en&gl=CA",
+            "coordinates": {
+                "latitude": 49.2641853,
+                "longitude": -123.11407469999999
+            },
+            "plus_code": "7V7P+M9 Vancouver, British Columbia",
+            "detailed_address": {
+                "ward": "East Vancouver",
+                "street": "2388 Cambie St",
+                "city": "Vancouver",
+                "postal_code": "V5Z 2T8",
+                "state": "British Columbia",
+                "country_code": "CA"
+            },
+            "time_zone": "America/Vancouver",
+            "cid": "2923702944802485167",
+            "data_id": "0x548673ddb9630d75:0x289314567db733af",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [
+                {
+                    "id": "service_options",
+                    "name": "Service options",
+                    "options": [
+                        {
+                            "name": "Delivery",
+                            "enabled": true
+                        },
+                        {
+                            "name": "In-store pickup",
+                            "enabled": true
+                        },
+                        {
+                            "name": "In-store shopping",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "accessibility",
+                    "name": "Accessibility",
+                    "options": [
+                        {
+                            "name": "Wheelchair-accessible elevator",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Wheelchair-accessible entrance",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Wheelchair-accessible parking lot",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "offerings",
+                    "name": "Offerings",
+                    "options": [
+                        {
+                            "name": "Assembly service",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Repair services",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "payments",
+                    "name": "Payments",
+                    "options": [
+                        {
+                            "name": "Checks",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Credit cards",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Debit cards",
+                            "enabled": true
+                        },
+                        {
+                            "name": "NFC mobile payments",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Credit cards",
+                            "enabled": true
+                        }
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipPMUPuMLai0nogBJIje34CqVmNGokqWn3taF5I_=w397-h298-k-no"
+                },
+                {
+                    "about": "Latest",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipNn3MiOIE-6P7MhL3dPYOt-RTEKOsm7os5Wn7i6=w224-h298-k-no"
+                },
+                {
+                    "about": "Videos",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipNAMHS7QSKnyIqSXROPG2E6NZ4OI2vNaPE2MoEq=w224-h398-k-no"
+                },
+                {
+                    "about": "Inside",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipNaektUQrjEciSYJtEOAVorsZmwaEh7b4MtYUT-=w397-h298-k-no"
+                },
+                {
+                    "about": "Street View & 360deg",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Uwt4RuVDyAYHVOitXm2n-A&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=55.923794&pitch=0&thumbfov=100"
+                }
+            ],
+            "hours": [
+                {
+                    "day": "Monday",
+                    "times": [
+                        "7 a.m.-9 p.m."
+                    ]
+                },
+                {
+                    "day": "Tuesday",
+                    "times": [
+                        "7 a.m.-9 p.m."
+                    ]
+                },
+                {
+                    "day": "Wednesday",
+                    "times": [
+                        "7 a.m.-9 p.m."
+                    ]
+                },
+                {
+                    "day": "Thursday",
+                    "times": [
+                        "7 a.m.-9 p.m."
+                    ]
+                },
+                {
+                    "day": "Friday",
+                    "times": [
+                        "7 a.m.-9 p.m."
+                    ]
+                },
+                {
+                    "day": "Saturday",
+                    "times": [
+                        "8 a.m.-8 p.m."
+                    ]
+                },
+                {
+                    "day": "Sunday",
+                    "times": [
+                        "8 a.m.-8 p.m."
+                    ]
+                }
+            ],
+            "featured_reviews": [
+                {
+                    "review_id": "Another Clean Home Depot! Everything is well arranged and their staff were helpful! Was a bit confused where the entrance was but found it after. I always go to their Richmond location which, is as clean and well arranged as this location as well. The person who helped me was really helpful and considerate. I just forgot his name. :( Keep it up team!",
+                    "reviewer_name": "Jay A",
+                    "rating": 5,
+                    "review_text": "Another Clean Home Depot! Everything is well arranged and their staff were helpful! Was a bit confused where the entrance was but found it after. I always go to their Richmond location which, is as clean and well arranged as this location as well. The person who helped me was really helpful and considerate. I just forgot his name. :( Keep it up team!",
+                    "published_at": "7 months ago",
+                    "published_at_date": "2023-03-24T17:04:15.659000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 63,
+                    "total_number_of_photos_by_reviewer": 259,
+                    "reviewer_url": "https://www.google.com/maps/contrib/102892011182605489743/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWiKOSVsd8SXbUWsBeRIzHPERanq3cOSFs_Mu2gG7nCSbiU=s120-c-rp-mo-ba4-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipON8Ot1ZsBwFTbUMCe3amwpckRzxt3IJelTfwM7=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipOhJgDfIR7s0qUVoKhv2nY3PYh0Raseg_UWf13G=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipMZXB728H52Qye3DQUvyXgmddoJ7dabOMfHfgys=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": "Customer service at place is .\n\nWanted to get colors for our first wooden paint project, the person was really helpful and gave so much detailed knowledge about different types of colors and  what and when to use. Wish could remember his name. But he was at the colour section and made everything so easy. Thanks to him this project is coming out really good\nWe forgot one of the paint bottle at the payment counter but the lady Name Dolly came all the way to parking lot to give the forgotten color. That kind is service is really rear this days. Thanks again The Home Depot Cambie. For such a great experience.",
+                    "reviewer_name": "ricky popat",
+                    "rating": 5,
+                    "review_text": "Customer service at place is .\n\nWanted to get colors for our first wooden paint project, the person was really helpful and gave so much detailed knowledge about different types of colors and  what and when to use. Wish could remember his name. But he was at the colour section and made everything so easy. Thanks to him this project is coming out really good\nWe forgot one of the paint bottle at the payment counter but the lady Name Dolly came all the way to parking lot to give the forgotten color. That kind is service is really rear this days. Thanks again The Home Depot Cambie. For such a great experience.",
+                    "published_at": "2 months ago",
+                    "published_at_date": "2023-08-30T06:40:22.061000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 3,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/109113648616067457504/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKBbDCexGLyF0t7_0hqjSfTRxurtAfw_h9qXzZJeC0=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "This morning when I arrived just before the store opened at 7am a young man was watering the plants outside, smiled and wished me good morning. Then when the store opened he let me know I could go in. When I walked into the store I was greeted with friendly helpful staff. This was a testament to the staff working at this store and it was a great start to my day. Thank you!",
+                    "reviewer_name": "Dean Gregory",
+                    "rating": 5,
+                    "review_text": "This morning when I arrived just before the store opened at 7am a young man was watering the plants outside, smiled and wished me good morning. Then when the store opened he let me know I could go in. When I walked into the store I was greeted with friendly helpful staff. This was a testament to the staff working at this store and it was a great start to my day. Thank you!",
+                    "published_at": "3 months ago",
+                    "published_at_date": "2023-08-15T03:46:08.149000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 4,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/104263031530853357971/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJD2qLJd3bTUnKehiPpCUzUkMKu6H8W-epZklEmMRYX=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Your service is garbage. Why post items as available both in-store and/or online when they are not available for either?\n\nI went to the store and could not find what I needed, I was told the computer showed 3 in store but they could not find them. I was advised other stores have it and that I should look for it elsewhere.\n\nI purchased a circular saw online for store pick up the next day and my order was accepted but the next day it was cancelled. The next day, I online purchased a tool kit (offered on the website for delivery) and I paid extra for same-day delivery. Again my order was accepted and later it was cancelled. I guess I'll keep my money then!\n\nWhy offer products and services you can not provide. Just mark them as unavailable everywhere and don't waste anyone's time.",
+                    "reviewer_name": "Martha Salazar",
+                    "rating": 1,
+                    "review_text": "Your service is garbage. Why post items as available both in-store and/or online when they are not available for either?\n\nI went to the store and could not find what I needed, I was told the computer showed 3 in store but they could not find them. I was advised other stores have it and that I should look for it elsewhere.\n\nI purchased a circular saw online for store pick up the next day and my order was accepted but the next day it was cancelled. The next day, I online purchased a tool kit (offered on the website for delivery) and I paid extra for same-day delivery. Again my order was accepted and later it was cancelled. I guess I'll keep my money then!\n\nWhy offer products and services you can not provide. Just mark them as unavailable everywhere and don't waste anyone's time.",
+                    "published_at": "2 months ago",
+                    "published_at_date": "2023-08-29T15:56:42.848000Z",
+                    "response_from_owner_text": "Thank you for bringing this to our attention, we would like to hear more about this.  Please reach out to us by private message at www.facebook.com/homedepotcanada or @homedepotcanada on Twitter so that we can continue the conversation. ",
+                    "response_from_owner_ago": "2 months ago",
+                    "response_from_owner_date": "2023-08-29T17:24:37.596000Z",
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 4,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/106716947752936566245/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWGEqoZOUxQvr2A8_k7Wn8ogqxKrxHCFe62yCGFGuzyww=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "I had the opportunity to deal with a fantastic employee at this location, her name is Ana B. and she is in appliances, I needed a new washing machine but had to tackle a small adjustment at my apartment to accommodate this new washer. She connected me with a tradesman and got me signed up for a HD credit card which provided incentives for using it, she literally handled everything. I'd love to find out how I can let her employer know how great and informed she was but this seems to be the only platform ...\n.",
+                    "reviewer_name": "Patricia Hyssop",
+                    "rating": 5,
+                    "review_text": "I had the opportunity to deal with a fantastic employee at this location, her name is Ana B. and she is in appliances, I needed a new washing machine but had to tackle a small adjustment at my apartment to accommodate this new washer. She connected me with a tradesman and got me signed up for a HD credit card which provided incentives for using it, she literally handled everything. I'd love to find out how I can let her employer know how great and informed she was but this seems to be the only platform ...\n.",
+                    "published_at": "3 months ago",
+                    "published_at_date": "2023-08-09T03:57:23.495000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 5,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/111964998051804821985/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjW3CDnFCKDUvu1-X8a7CzFw4cJC25nKHkvf-q2AaIoLVQ=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "I really like this Home Depot store. It's smaller and don't have all the products compared to  the other locations but is so convenient and close of many other things. On the same complex you can find Winners, Save-on-foods and lots of other small stores. Some staff are really helpful but some of them aren't that friendly with people trying some DIY like myself. The parking cost $3 for the first hour and they don't refund it anymore (no matter how much you spend).",
+                    "reviewer_name": "Moises Schini",
+                    "rating": 4,
+                    "review_text": "I really like this Home Depot store. It's smaller and don't have all the products compared to  the other locations but is so convenient and close of many other things. On the same complex you can find Winners, Save-on-foods and lots of other small stores. Some staff are really helpful but some of them aren't that friendly with people trying some DIY like myself. The parking cost $3 for the first hour and they don't refund it anymore (no matter how much you spend).",
+                    "published_at": "5 years ago",
+                    "published_at_date": "2018-03-01T02:47:29.510000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 180,
+                    "total_number_of_photos_by_reviewer": 995,
+                    "reviewer_url": "https://www.google.com/maps/contrib/108109607850204326708/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXZpYf2YdO9D1RB4IbKQ_LHpvWlp00gVDyejc3Ru49ZQg=s120-c-rp-mo-ba5-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipP8al0LgQwLeF84SgErWuys1N0Pc09fKWJNbBKc=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipOLktmMp3LR4JIt_wM6iO2KAJa9JLPkZX4iZQ7R=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipM7br1odWI__Hen6-oMMFkVDzupuSyOmhlEpEP_=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipN3Hj5rw3DJC5zgVrrYJn_gqlxClhoOiZ47OdXA=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipOEHswBd_tVxRmpI2UEMDelh7eA3qUSpQdwI6mI=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPFwcWswkYIVX5KJCQzxycJ3NoAYZtJHDlIWL04=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPWFwPLdVr3LKOzwFf0UemMMCjPXLNQVux6q-gk=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipOPeHAkoz19Yq5q9CuhkpsSUqgkoPXRumBZcdTm=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPrnw7aoeORLW-ss_qBXEzLV5XhVne2B-rcApeF=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipO4trtbIE_KF5IuXvPjRe4SUS5kvuihehypZcUL=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipMK6zKvcQTPRGkn_jLNU0I77zhIZO3cW01jpXzS=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipMWZyV7dbDg1-keZ3C7BF103eETNGxkDQ4WiLaZ=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipMEXJ43QNHrCba1SorgS1uCTXVZSDhwmULv-9Qt=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipP8gzgJxSSWwIYh7JQQeb7rdfzRf_xA6Zf6WUkk=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPOmHZ-noMEUoHZSGhsCJvhGKiENgZYRrKas09d=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipMDfDwdtAyN7vOVx04SxCmnliFe0knDgAflf0v3=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipOzS7XpgD0dCwZeSidOAUpCpotqGND1ojY_Ohjn=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipNAHLD56m9gqyGbmY6NF2jtZsgNsWgSnlOL3_yb=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPyt2CqaYYWFYxoRvQDQy0wmrEUD_2JyFSwC6Qt=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipNwMFgusfMMHYa_dXUrb6ZIH8YLngB1BiMYk-Br=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipMCXw_Kxcn9UKvzNPfwKHxRifQ6eoImk3X5Shlz=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipN1YcEuFiJLTAUlHkumvWAz6kUYNpzU66OuUA_A=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipOseZg38-oufKWgMKZDB0ZeupWzr5gRFK1-6LKN=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPRcubA2IU4gCt_wCPe2aXwYCUeoM6O1Zdm1ocW=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipMkq64CC0itg2Ft_iUYStIGn7gAHGq66K64kIt0=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipNPX8ZQOFUWcdOha5y6jvApvrHQfq8PaIEGqr6G=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipNBS_QrgF6qwK9SyPz7-6OeBu7nW-QwNHNk_hsr=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipP7l2eylaMRcn_1dd8d4P2W6KN-dY6ThO_PDQ0z=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipMjOWsO0g-pLOPs7yyDWxnk31HbxRa5Q_a4RpWj=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPqQLcEBPrJSNcSywCSTKuimK4ov1BCjOa78eMY=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipMPhfKb2aTlUQkOnbEkA9Xp6Tkpq9fouSSNO5ga=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipMDeia10_dtnqmAoMi-B8KU2fFhHJl3ymdZia2Y=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipOoZzNagFge3Ip_qY5Ozpaqyu2BbH_cPpY41H5g=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipOZo8XAEZaFeOgOPh161XfgDp7zK5puz2JGpyn6=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipNurgsAtzZ78eUWVjDE4kn1IiQxkq6s8PzYSF5c=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipMDAxxqS_6_x75_sGlHfBLX_z-IAbKeVc01saXD=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipNcPGExtza9GtUUGmZKNs-HbCjzexjEqFJDnxoA=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipOTxKtS9HzYVqyFtFFSkRg6hhka516At6MUdQ-Q=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPEThbZdekAMlMalowgawuUHRAmgu8vKxHtZXwS=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipO3a_UcD6lNX8If42ezuyuMETi4wXYCSVxtxPiH=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipNAlDjdBU47PrYrNZ6-Pvr2EV2k0YFlZvNCCRRF=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipMX_h3h00K1jTOv3-WcFK6xAzicAtnlST5teHGZ=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipN6u13bVZsXlb33EFyMtbS7E5PTqamzJ0WaBvez=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipOcfRNycRwDvVbk5ld8f-COM6PxOFUlpUF4T_FC=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipNDrZv46leNkpP09R4dujCJzNVmBy9GoHJmITx8=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipMW5Xj1Hy0NKTQdyXZJyjUJasmBSgq0hqVtVpSy=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPmi1kLqfWHWjCUegZzljdjp6Hmdg1IE3aJpzg1=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPbDPNO0lkvj6iQFr9Z5725KgfQmHUfVHCpRKK9=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": "Love this branch! We've been coming here for over 3 times now and every staff we met was friendly, patient and super helpful!!!\n\nWe were able to replace our blinds and find drywall materials with staff's help. Will come back for other purposes too. Thank you to the staff who helped us! :)",
+                    "reviewer_name": "Leah N",
+                    "rating": 5,
+                    "review_text": "Love this branch! We've been coming here for over 3 times now and every staff we met was friendly, patient and super helpful!!!\n\nWe were able to replace our blinds and find drywall materials with staff's help. Will come back for other purposes too. Thank you to the staff who helped us! :)",
+                    "published_at": "8 months ago",
+                    "published_at_date": "2023-03-05T01:42:29.694000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 17,
+                    "total_number_of_photos_by_reviewer": 12,
+                    "reviewer_url": "https://www.google.com/maps/contrib/110212751532468587364/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVR7HuWerTXYBTxS9vjHLVnqxYG0fhkVurWjeipd5m8FRA=s120-c-rp-mo-ba2-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipOFi8QKaYyp5GvzaHJJaK2IfjmmByTksYw3C73w=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": "Today I had the worst customer service experience of my life at this location. I give Mr.Kireeti a 0/10 review in terms of taking care of the customer avoid him at all times. After giving me a hard time picking up my order he refused to call another supervisor and told me he is the boss here and he's not going to give me my pre paid order keeping me waiting for 50 minutes he still did not apologize. I love shopping at The Home Depot but unfortunately after my interaction with Mr.Kireeti I feel sorry for the company that has chosen such unprofessional and childish person to represent their business. Not only I'm not satisfied but I'm disappointed in the training process and how the management team is being such bad role models for the other employees.",
+                    "reviewer_name": "Masih A",
+                    "rating": 1,
+                    "review_text": "Today I had the worst customer service experience of my life at this location. I give Mr.Kireeti a 0/10 review in terms of taking care of the customer avoid him at all times. After giving me a hard time picking up my order he refused to call another supervisor and told me he is the boss here and he's not going to give me my pre paid order keeping me waiting for 50 minutes he still did not apologize. I love shopping at The Home Depot but unfortunately after my interaction with Mr.Kireeti I feel sorry for the company that has chosen such unprofessional and childish person to represent their business. Not only I'm not satisfied but I'm disappointed in the training process and how the management team is being such bad role models for the other employees.",
+                    "published_at": "3 weeks ago",
+                    "published_at_date": "2023-10-27T03:28:02.605000Z",
+                    "response_from_owner_text": "Thank you for bringing this to our attention, we would like to hear more about this experience.  Please reach out to us by private message at https://thd.co/3iepTKq or DM @homedepotcanada on Twitter or Instagram so that we can continue the conversation. -DS",
+                    "response_from_owner_ago": "3 weeks ago",
+                    "response_from_owner_date": "2023-10-27T15:49:17.794000Z",
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 2,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/112463569601661356980/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJ8U4Z_N4M5-LwurS-r0zUojVKv-NL-YwHovteSSa6z=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJkSMu2SFuhlQRsWt-cSG8lf4",
+            "name": "The Home Depot",
+            "description": "Chain home improvement retailer for tools, appliances & other products (some offer truck rentals).",
+            "reviews": 1035,
+            "website": "https://stores.homedepot.ca/bc/westvancouver/home-improvement-westvancouver-bc-7035.html%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dlocal%26utm_content%3D7035",
+            "owner": {
+                "id": "101034574692177143237",
+                "name": "The Home Depot (Owner)",
+                "link": "https://www.google.com/maps/contrib/101034574692177143237"
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNDlMOenpu2ZGcBL81YssevDpE6ftUJx7epv7wr=w408-h306-k-no",
+            "main_category": "Home improvement store",
+            "categories": [
+                "Home improvement store",
+                "Flooring store",
+                "Garden center",
+                "Hardware store",
+                "Kitchen furniture store",
+                "Lighting store",
+                "Paint store",
+                "Roofing supply store"
+            ],
+            "rating": 4,
+            "workday_timing": "7 a.m.-9 p.m.",
+            "closed_on": [],
+            "phone": "(604) 913-2630",
+            "address": "The Home Depot, 840 Main St, West Vancouver, BC V7T 2Z3",
+            "review_keywords": [
+                {
+                    "keyword": "paint",
+                    "count": 28
+                },
+                {
+                    "keyword": "lumber",
+                    "count": 20
+                },
+                {
+                    "keyword": "stock",
+                    "count": 20
+                },
+                {
+                    "keyword": "tools",
+                    "count": 20
+                },
+                {
+                    "keyword": "employee",
+                    "count": 10
+                },
+                {
+                    "keyword": "flooring",
+                    "count": 9
+                },
+                {
+                    "keyword": "hardware",
+                    "count": 7
+                },
+                {
+                    "keyword": "contractor",
+                    "count": 6
+                },
+                {
+                    "keyword": "boutique",
+                    "count": 5
+                },
+                {
+                    "keyword": "HD",
+                    "count": 5
+                }
+            ],
+            "link": "https://www.google.com/maps/place/The+Home+Depot/data=!4m7!3m6!1s0x54866e21d92e2391:0xfe95bc21717e6bb1!8m2!3d49.3249296!4d-123.1408442!16s%2Fg%2F1tf6x0v9!19sChIJkSMu2SFuhlQRsWt-cSG8lf4?authuser=0&hl=en&rclk=1",
+            "status": "Closed  Opens 8 a.m. Sun",
+            "price_range": "$",
+            "reviews_per_rating": {
+                "1": 88,
+                "2": 38,
+                "3": 123,
+                "4": 296,
+                "5": 490
+            },
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJkSMu2SFuhlQRsWt-cSG8lf4&q=The+Home+Depot&authuser=0&hl=en&gl=CA",
+            "coordinates": {
+                "latitude": 49.3249296,
+                "longitude": -123.14084419999999
+            },
+            "plus_code": "8VF5+XM West Vancouver, British Columbia",
+            "detailed_address": {
+                "ward": null,
+                "street": "840 Main St",
+                "city": "West Vancouver",
+                "postal_code": "V7T 2Z3",
+                "state": "British Columbia",
+                "country_code": "CA"
+            },
+            "time_zone": "America/Vancouver",
+            "cid": "18344775508987636657",
+            "data_id": "0x54866e21d92e2391:0xfe95bc21717e6bb1",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [
+                {
+                    "id": "service_options",
+                    "name": "Service options",
+                    "options": [
+                        {
+                            "name": "Curbside pickup",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Delivery",
+                            "enabled": true
+                        },
+                        {
+                            "name": "In-store pickup",
+                            "enabled": true
+                        },
+                        {
+                            "name": "In-store shopping",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "accessibility",
+                    "name": "Accessibility",
+                    "options": [
+                        {
+                            "name": "Wheelchair-accessible entrance",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Wheelchair-accessible parking lot",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "offerings",
+                    "name": "Offerings",
+                    "options": [
+                        {
+                            "name": "Assembly service",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Repair services",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "payments",
+                    "name": "Payments",
+                    "options": [
+                        {
+                            "name": "Checks",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Credit cards",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Debit cards",
+                            "enabled": true
+                        },
+                        {
+                            "name": "NFC mobile payments",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Credit cards",
+                            "enabled": true
+                        }
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipNDlMOenpu2ZGcBL81YssevDpE6ftUJx7epv7wr=w397-h298-k-no"
+                },
+                {
+                    "about": "Latest",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipNnjAb5V-hxFid0a-PiEGvL3R9bhTAsuOhP7Dgu=w529-h298-k-no"
+                },
+                {
+                    "about": "Videos",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipOJ-KHCs0A3cLwLbkgRVrY7uOmVBr-GhSIcqYL0=w224-h398-k-no"
+                },
+                {
+                    "about": "Inside",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipOm715DyJFh0iqg0E1L0r4ZatVL3oaihGxoM3aV=w397-h298-k-no"
+                },
+                {
+                    "about": "Street View & 360deg",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=U9rYzV0zqohgHcQi48TOJA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=41.49191&pitch=0&thumbfov=100"
+                }
+            ],
+            "hours": [
+                {
+                    "day": "Monday",
+                    "times": [
+                        "7 a.m.-9 p.m."
+                    ]
+                },
+                {
+                    "day": "Tuesday",
+                    "times": [
+                        "7 a.m.-9 p.m."
+                    ]
+                },
+                {
+                    "day": "Wednesday",
+                    "times": [
+                        "7 a.m.-9 p.m."
+                    ]
+                },
+                {
+                    "day": "Thursday",
+                    "times": [
+                        "7 a.m.-9 p.m."
+                    ]
+                },
+                {
+                    "day": "Friday",
+                    "times": [
+                        "7 a.m.-9 p.m."
+                    ]
+                },
+                {
+                    "day": "Saturday",
+                    "times": [
+                        "7 a.m.-8 p.m."
+                    ]
+                },
+                {
+                    "day": "Sunday",
+                    "times": [
+                        "8 a.m.-8 p.m."
+                    ]
+                }
+            ],
+            "featured_reviews": [
+                {
+                    "review_id": "Always organized and helpfull team. It is smaller store comiare with other home depot stores with almost all their products. It is a Little boutique home depot.",
+                    "reviewer_name": "Sassan Rakhshani",
+                    "rating": 5,
+                    "review_text": "Always organized and helpfull team. It is smaller store comiare with other home depot stores with almost all their products. It is a Little boutique home depot.",
+                    "published_at": "a month ago",
+                    "published_at_date": "2023-10-07T03:55:50.238000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 263,
+                    "total_number_of_photos_by_reviewer": 6358,
+                    "reviewer_url": "https://www.google.com/maps/contrib/117652649310988373905/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXef2eP7mvYOqU9RTt3EAHeFoHS0Ieo65u_2g8HtgBndl8=s120-c-rp-mo-ba6-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipMDEB1ChN5TPcl-ter3BJ6kHIek5FYYeZr5i3RO=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipO5_yH7aCvzOoKxd32czFaN87ddzokWQq8ypA6W=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipNFn1HmszvejZI-Xe0gZIrLzBAWHUtQnLOk61gt=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPeu0zORCFDF1SbmKKd2eqR_txjxwvDGSr15WWT=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipOzaOfcVDVeDyvRMuO11g9RsBADPPCauihRlFVS=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipM6RhHLNc9rn7p8wS2t57lQDa6H5KPMl6EZiEg5=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipNxEglrRO44gWUevYKUw0mo6T2EkG2L87_7NAL7=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipOXAqrB7PwraIq3WpXAqERjSoigouRUiAfDMQBu=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPzBto5lkOzs5bL5ycRekjDvxCvQuNA2lVRdhze=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipMKCDiRQdXB3s7v9B18yF3FOoVT2cpVVds_nN6q=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipP6Nj1owtle4Dg4qxd2J4GyxYIuZQah7-DsZX3B=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipOp8I8VESb_ezYnkl5WiUmrNBmP4GMV4e6RGhMX=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipO4p8_Yy60CHFGclkV85FMvAkZ9--0HQ2lEuZ34=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipMdKxyBZqj0oxXAs-MvDMk76ctcVmpjEzP4FHgK=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipNj4bTx6h1qPNuo14d7k9ks73nf1Z1hjgXtscht=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPCJDXamKYIV9gHenl_zMy_fVDqy7OUxuXo57bz=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipNYX77QDTUuyuD8-Sc3HlbyJg_qL18xA7ekcaI0=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipN_CFkiqK1KbRltrVyL5WHH278eBRA6CsDyJU7O=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipOYeYSEP4IvJp_LbY6mjkfLVKloM_gHofIo2LfQ=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPEf68VP8rplC3FlZGRUwYnVbaNsKgOPlK_uis8=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipMcgqjGMxj1uBgyTApQUM6yr3urcW2Nw-Wg2dLC=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipMEoMkEiIWuwR5pHcMSqWkSygkEdkeCLJVrH3B6=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipMDhA976UpXrd8-RaPK2t4YxbgSlnk8pZOIWBKC=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipOOTZ51iYth4Do-V0ZOTcD0f5prdikuP1bDti_N=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipNqJvsMss9LAXmkK4ldDJ4-5DmShvQqB-oeX_Iv=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipMvebCHYe8JQ7ORx0mYJ8JCd5TxzF0hWBWTNnlc=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPlFiP4LBWlUsW0kywPqY8Pd44iyZJdAD7Zjnhg=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipOiZKbGnqmvhgHGsXgzgkW_m-4cOOGUeZIo92aS=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipNihHcNyL5Fd1B3qrozJaUo1tKb1WlpmRk7Q_xD=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipOJWDqhBS154lui3c8gq9tJXG4NWbUJklLmxyJx=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipP9hiBno5m_NUkV3oPZVhOxBmzVXlEcOb6nJKIE=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipNE6f6We_VmL7DnxIc2sYRFet2CxnkkCR3WqWvI=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPnJqhqobXEVWJndQXCZnOYNvTG7efneAZv6ytI=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipNBNYPfR9qsbsM7Nuug4qBO-TDsfJOvf9HXXKFS=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPF8tGz_PMrqbBbuijXvS-yiActts6jP69Oqwdl=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipNFQPsKtF91OYs465nFKQCTQVZmknQ_l09jAUEi=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipMBvOTcwXOs4N1PBg_6_xlKAH8ETRioBRN0-izq=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipOAiro5rUApCs3sLgvuWKA37FsgN5nTbpEQZCmG=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipP8bGKDHXHA5RxQzMD4w9TbVTBZqvDUysuMcosl=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipMSbNFffe-ebNjTBO2c1qGuJpEZ_Q9ajUneDIjX=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipOyP04rbD3zh0hetecmbmygWUg7lRkztReMV2na=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipMd_IhZTP_L6LpGv_zrpnA5OVUk-Tt1Il2U7UhM=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipOyw8-zdSJgSeq-tO9Dvyc-b9Mxz2asNWzyoFLS=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipNqkWQn527Wo8D4Jcjzaqs4WIzXwQslmRcVj_aA=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPJ0Hm1xHlhXdDIsJVKC_TKycGTtJTY2FdpZkyr=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPaLhzuqENggX79czahG2r3iyn5cp54Pwpaqlc-=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipNPSt-0laBHrc4F8bDG4Gmy9L8EQ3gKsEezorL2=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipNcWCGXSQGEjZaaJa-vRBwIJvYPdfrCMTE6jrPp=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipOj8tuIqBwNEnyE-25i0XvPTGmkURl3tw0OgHm1=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipO6awp4nkWKSoUHV_JEjP1XTdK8tw931iYn4E0a=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": "I love this store! Whenever I've come here for whatever product I find the staff very helpful, the prices are much cheaper than other places and they have a huge selection.\n\nNow that the garden works store in North Vancouver is closed I came here and discovered that they have the BEST  prices on their huge selection of pots, flowers, soil etc.\n\nThey do need to change their entrance though. For those with disabilities it's a huge pain to go all the way around to one entrance. It makes more sense to have multiple entrances to welcome people into the store.",
+                    "reviewer_name": "Tazmin Shariff",
+                    "rating": 5,
+                    "review_text": "I love this store! Whenever I've come here for whatever product I find the staff very helpful, the prices are much cheaper than other places and they have a huge selection.\n\nNow that the garden works store in North Vancouver is closed I came here and discovered that they have the BEST  prices on their huge selection of pots, flowers, soil etc.\n\nThey do need to change their entrance though. For those with disabilities it's a huge pain to go all the way around to one entrance. It makes more sense to have multiple entrances to welcome people into the store.",
+                    "published_at": "7 months ago",
+                    "published_at_date": "2023-04-16T03:44:21.133000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 117,
+                    "total_number_of_photos_by_reviewer": 22,
+                    "reviewer_url": "https://www.google.com/maps/contrib/111753274024703060023/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLGU9FBR8y20W6aDGyGWrUHGXf64BAW0xKgiNxqyFVD=s120-c-rp-mo-ba4-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipM3JGwnk7CK_CiTyua-_A9JqLe_-C0SbtnfEqcy=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipMYU2SogISNlayR3BWNSHugvQR0Poym0giAlqPV=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPhKguXtmPiBYHHuU_bMS_Gn9PgKNsd9jCe24nP=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": "They have amazing customer service here. Joy was very kind in helping me find what I needed and was able to answer the questions I had. She was very patient and friendly checking me out at the self checkout area as well, hope to see her again.",
+                    "reviewer_name": "TC",
+                    "rating": 5,
+                    "review_text": "They have amazing customer service here. Joy was very kind in helping me find what I needed and was able to answer the questions I had. She was very patient and friendly checking me out at the self checkout area as well, hope to see her again.",
+                    "published_at": "4 days ago",
+                    "published_at_date": "2023-11-15T02:07:00.113000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 42,
+                    "total_number_of_photos_by_reviewer": 4,
+                    "reviewer_url": "https://www.google.com/maps/contrib/107338284484917319260/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocL_g9RkAw38SNvpU-O2PxGa0OqWqHZEuBM_yN3whE0XWiw=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "the worst customer service experience here, one of the staff was helping to check the quantities on of the items , and he went back in to the warehouse for 15-20mins, come back with coffee and food on his hand . It's clearly he's not helping to go over the inventory and go to his break instead without let the customer know. And even with him comeback , I asked him did you find the items he just run off said there's a line up etc. that's totally disappointing and disrespect.  But I did have another staff help me out and get me a discount on the item. Not a very good shopping experience .",
+                    "reviewer_name": "Long Chen Construction",
+                    "rating": 1,
+                    "review_text": "the worst customer service experience here, one of the staff was helping to check the quantities on of the items , and he went back in to the warehouse for 15-20mins, come back with coffee and food on his hand . It's clearly he's not helping to go over the inventory and go to his break instead without let the customer know. And even with him comeback , I asked him did you find the items he just run off said there's a line up etc. that's totally disappointing and disrespect.  But I did have another staff help me out and get me a discount on the item. Not a very good shopping experience .",
+                    "published_at": "4 days ago",
+                    "published_at_date": "2023-11-15T00:28:30.611000Z",
+                    "response_from_owner_text": "Hello, Thank you for bringing this to our attention, we would like to hear more about this experience.  Please reach out to us by private message at https://thd.co/3iepTKq or DM @homedepotcanada on Twitter or Instagram so that we can continue the conversation. -CU",
+                    "response_from_owner_ago": "3 days ago",
+                    "response_from_owner_date": "2023-11-15T14:12:57.019000Z",
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 5,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/112333078776363519593/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJ8gqRzU6IWaIwqe0821Azs4FLI1tqC_v_vGiSxjCU_=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "I was really disappointed with the level of customer service on three separate visits. All visits were for the same thing. I had come in to purchase a toilet and the new bathroom vanity sink and have them both installed by Home Depot.\n\nMy first visit a few weeks ago, no one seemed available to help me. As it was just to ask a few questions and I had already looked at the items on the shelves, I wasn't too concerned , thinking I would just come back at another time.\n\nThen a little over a week ago, I came in and desperately tried to get staff to help me upstairs, but I got the \"not my department\" response. With one kid simply waving and saying \" over there and saying I can't help you you've got to talk to somebody over there\". In fact, he was pretty rude about it.\n\nat this point since I couldn't reach the person in Kitchen and bathroom design, I thought I would try emailing her. - I found her card on her desk in the kitchen and bathroom design section. Regrettably, she did not respond to my email  nor my phone call. So I escalated to management.\n\nI got a callback from a manager and he set up an appointment for this past Friday which I took time off work for. He even said that he would pop up to the department to make sure everything went smoothly.\n\nSo on Friday I showed up at the 2 o'clock scheduled appointment  only to find that both the person I was supposed to meet and the assistant manager.we're both off that day.\n\nI'm done with Home Depot.",
+                    "reviewer_name": "Dave Smith",
+                    "rating": 1,
+                    "review_text": "I was really disappointed with the level of customer service on three separate visits. All visits were for the same thing. I had come in to purchase a toilet and the new bathroom vanity sink and have them both installed by Home Depot.\n\nMy first visit a few weeks ago, no one seemed available to help me. As it was just to ask a few questions and I had already looked at the items on the shelves, I wasn't too concerned , thinking I would just come back at another time.\n\nThen a little over a week ago, I came in and desperately tried to get staff to help me upstairs, but I got the \"not my department\" response. With one kid simply waving and saying \" over there and saying I can't help you you've got to talk to somebody over there\". In fact, he was pretty rude about it.\n\nat this point since I couldn't reach the person in Kitchen and bathroom design, I thought I would try emailing her. - I found her card on her desk in the kitchen and bathroom design section. Regrettably, she did not respond to my email  nor my phone call. So I escalated to management.\n\nI got a callback from a manager and he set up an appointment for this past Friday which I took time off work for. He even said that he would pop up to the department to make sure everything went smoothly.\n\nSo on Friday I showed up at the 2 o'clock scheduled appointment  only to find that both the person I was supposed to meet and the assistant manager.we're both off that day.\n\nI'm done with Home Depot.",
+                    "published_at": "2 months ago",
+                    "published_at_date": "2023-08-28T13:02:50.903000Z",
+                    "response_from_owner_text": "Thank you for bringing this to our attention, we would like to hear more about this experience.  Please reach out to us by private message at https://thd.co/3iepTKq or DM @homedepotcanada on Twitter or Instagram so that we can continue the conversation. ",
+                    "response_from_owner_ago": "2 months ago",
+                    "response_from_owner_date": "2023-08-28T14:22:33.074000Z",
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 43,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/100379809627267988479/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjU_0h6YSnm4AfCERxr6jySIMtdDm4Zt5lXCdfnXHOJyqQ=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "I had a great experience at Home Depot thanks to Reza! I was unsure about what to buy, but Reza provided excellent guidance on products and their uses. I really appreciate the help and knowledge shared. Thank you so much!",
+                    "reviewer_name": "Sym",
+                    "rating": 5,
+                    "review_text": "I had a great experience at Home Depot thanks to Reza! I was unsure about what to buy, but Reza provided excellent guidance on products and their uses. I really appreciate the help and knowledge shared. Thank you so much!",
+                    "published_at": "a week ago",
+                    "published_at_date": "2023-11-09T23:20:10.255000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 2,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/110717574927757772145/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXbre95nmTMfvteMyKTI2_uCODvJIaNQ-hJaEgRx-kgaA=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "I like Home Depot. Their prices are fair and the selection is good. But what stands out are the staff, many are retired tradesmen who are able to.provide accurate knowledge and guidance. Location is good with ample parking in the lot.",
+                    "reviewer_name": "JL B",
+                    "rating": 5,
+                    "review_text": "I like Home Depot. Their prices are fair and the selection is good. But what stands out are the staff, many are retired tradesmen who are able to.provide accurate knowledge and guidance. Location is good with ample parking in the lot.",
+                    "published_at": "2 weeks ago",
+                    "published_at_date": "2023-10-30T14:13:48.500000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 33,
+                    "total_number_of_photos_by_reviewer": 1,
+                    "reviewer_url": "https://www.google.com/maps/contrib/111159560251299929367/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLivF2Ey3cN2LS8b5E8U90vvenSxwgfZ1iDFnEQwetk=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "This store delivers the highest level of customer care.  Matt from the paint department is a Prince serving customers and he makes us feel like a king.  Reza is very professional,  attentive and committed to keeping customers happy.  I'm grateful to shop here",
+                    "reviewer_name": "Kamran Victory",
+                    "rating": 5,
+                    "review_text": "This store delivers the highest level of customer care.  Matt from the paint department is a Prince serving customers and he makes us feel like a king.  Reza is very professional,  attentive and committed to keeping customers happy.  I'm grateful to shop here",
+                    "published_at": "a month ago",
+                    "published_at_date": "2023-09-24T04:45:24.389000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 26,
+                    "total_number_of_photos_by_reviewer": 1,
+                    "reviewer_url": "https://www.google.com/maps/contrib/109665343369494847944/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJH8LurFUrr6rIA1uHt2NF3G6wZHk1BaAlVMULTCXhD=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJvQzF7il3hlQRvUu3Pxw0SOU",
+            "name": "The Home Depot",
+            "description": "Chain home improvement retailer for tools, appliances & other products (some offer truck rentals).",
+            "reviews": 3051,
+            "website": "https://stores.homedepot.ca/bc/burnaby/home-improvement-burnaby-bc-7047.html%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dlocal%26utm_content%3D7047",
+            "owner": {
+                "id": "115074618129672955317",
+                "name": "The Home Depot (Owner)",
+                "link": "https://www.google.com/maps/contrib/115074618129672955317"
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPEuTE8aDZBDc5EK6dRqWywwU6xCvoPY62dpp_F=w408-h305-k-no",
+            "main_category": "Home improvement store",
+            "categories": [
+                "Home improvement store",
+                "Flooring store",
+                "Garden center",
+                "Hardware store",
+                "Kitchen furniture store",
+                "Lighting store",
+                "Paint store",
+                "Roofing supply store"
+            ],
+            "rating": 4.1,
+            "workday_timing": "6 a.m.-9 p.m.",
+            "closed_on": [],
+            "phone": "(604) 294-3030",
+            "address": "The Home Depot, 3950 Henning Dr, Burnaby, BC V5C 6M2",
+            "review_keywords": [
+                {
+                    "keyword": "tools",
+                    "count": 76
+                },
+                {
+                    "keyword": "aisle",
+                    "count": 30
+                },
+                {
+                    "keyword": "paint",
+                    "count": 29
+                },
+                {
+                    "keyword": "rental",
+                    "count": 28
+                },
+                {
+                    "keyword": "garden centre",
+                    "count": 19
+                },
+                {
+                    "keyword": "DIY",
+                    "count": 18
+                },
+                {
+                    "keyword": "shelf",
+                    "count": 15
+                },
+                {
+                    "keyword": "self checkout",
+                    "count": 13
+                },
+                {
+                    "keyword": "HD",
+                    "count": 12
+                },
+                {
+                    "keyword": "building materials",
+                    "count": 11
+                }
+            ],
+            "link": "https://www.google.com/maps/place/The+Home+Depot/data=!4m7!3m6!1s0x54867729eec50cbd:0xe548341c3fb74bbd!8m2!3d49.2632135!4d-123.0163689!16s%2Fg%2F1th492jh!19sChIJvQzF7il3hlQRvUu3Pxw0SOU?authuser=0&hl=en&rclk=1",
+            "status": "Closed  Opens 8 a.m. Sun",
+            "price_range": "$",
+            "reviews_per_rating": {
+                "1": 215,
+                "2": 98,
+                "3": 381,
+                "4": 958,
+                "5": 1399
+            },
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJvQzF7il3hlQRvUu3Pxw0SOU&q=The+Home+Depot&authuser=0&hl=en&gl=CA",
+            "coordinates": {
+                "latitude": 49.2632135,
+                "longitude": -123.01636889999999
+            },
+            "plus_code": "7X7M+7F Burnaby, British Columbia",
+            "detailed_address": {
+                "ward": null,
+                "street": "3950 Henning Dr",
+                "city": "Burnaby",
+                "postal_code": "V5C 6M2",
+                "state": "British Columbia",
+                "country_code": "CA"
+            },
+            "time_zone": "America/Vancouver",
+            "cid": "16521512528941370301",
+            "data_id": "0x54867729eec50cbd:0xe548341c3fb74bbd",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [
+                {
+                    "id": "service_options",
+                    "name": "Service options",
+                    "options": [
+                        {
+                            "name": "Curbside pickup",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Delivery",
+                            "enabled": true
+                        },
+                        {
+                            "name": "In-store pickup",
+                            "enabled": true
+                        },
+                        {
+                            "name": "In-store shopping",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "accessibility",
+                    "name": "Accessibility",
+                    "options": [
+                        {
+                            "name": "Wheelchair-accessible entrance",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Wheelchair-accessible parking lot",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "offerings",
+                    "name": "Offerings",
+                    "options": [
+                        {
+                            "name": "Assembly service",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Repair services",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "payments",
+                    "name": "Payments",
+                    "options": [
+                        {
+                            "name": "Checks",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Credit cards",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Debit cards",
+                            "enabled": true
+                        },
+                        {
+                            "name": "NFC mobile payments",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Credit cards",
+                            "enabled": true
+                        }
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipPEuTE8aDZBDc5EK6dRqWywwU6xCvoPY62dpp_F=w398-h298-k-no"
+                },
+                {
+                    "about": "Latest",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipP_EFNOrgzFG249H6fu70stGJgqbRj6oNgOAKOF=w224-h298-k-no"
+                },
+                {
+                    "about": "Videos",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipMU7WiNvIbhTm-v8Zy4--i_DhUk7dFxDaHTqCOC=w224-h298-k-no"
+                },
+                {
+                    "about": "Inside",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipP5Thuu_BzPBz0bD7Pma3Jdd95OxUiUHhT4VAM6=w638-h298-k-no"
+                },
+                {
+                    "about": "Street View & 360deg",
+                    "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=YVXtjZSfSYkIsLkcWa4zZQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=204.00372&pitch=0&thumbfov=100"
+                }
+            ],
+            "hours": [
+                {
+                    "day": "Monday",
+                    "times": [
+                        "6 a.m.-9 p.m."
+                    ]
+                },
+                {
+                    "day": "Tuesday",
+                    "times": [
+                        "6 a.m.-9 p.m."
+                    ]
+                },
+                {
+                    "day": "Wednesday",
+                    "times": [
+                        "6 a.m.-9 p.m."
+                    ]
+                },
+                {
+                    "day": "Thursday",
+                    "times": [
+                        "6 a.m.-9 p.m."
+                    ]
+                },
+                {
+                    "day": "Friday",
+                    "times": [
+                        "6 a.m.-9 p.m."
+                    ]
+                },
+                {
+                    "day": "Saturday",
+                    "times": [
+                        "7 a.m.-8 p.m."
+                    ]
+                },
+                {
+                    "day": "Sunday",
+                    "times": [
+                        "8 a.m.-8 p.m."
+                    ]
+                }
+            ],
+            "featured_reviews": [
+                {
+                    "review_id": "I came to this Home Depot to get parts to fix a gutter. I didn't know much, so I approached the team member in the aisle. He was very helpful and gave me some good tips. I managed to get the job done.\n\nHome Depot always has better prices than other hardware stores, so I tend to go to Home Depot before anywhere else.",
+                    "reviewer_name": "Victor Law",
+                    "rating": 5,
+                    "review_text": "I came to this Home Depot to get parts to fix a gutter. I didn't know much, so I approached the team member in the aisle. He was very helpful and gave me some good tips. I managed to get the job done.\n\nHome Depot always has better prices than other hardware stores, so I tend to go to Home Depot before anywhere else.",
+                    "published_at": "7 months ago",
+                    "published_at_date": "2023-04-09T19:35:46.615000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 597,
+                    "total_number_of_photos_by_reviewer": 44022,
+                    "reviewer_url": "https://www.google.com/maps/contrib/104609121824445017950/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLMLyx5AhTGNhn-Mkz5YaSQFdKJBfmNO_48FnB7tS3V=s120-c-rp-mo-ba8-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipN9YRfNnKZztv9HoRRxN5tRzxWRPhZuz6FLeVYz=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipOMx3Po3j4Xw5_cPBCG1BXUOMGrJNS3vR4aiYeW=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipO_ePd2yWC7qimuNKnWMcOdrnFUIVlUjLGdXOQl=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPHAYH9FgYUL5tAEsaah2bRMRoCGEoRDGo0Ytmy=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPNjJeEUrk1XpHtoADH598GIiYPykg3xtQE0kAV=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPmGX-efjD9Ra7AfnZ3NN6YCELUtSPxgR-ZsDP5=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipMRjVILgrB_tUlCk8lv5cBuUcfoe7WlYbx41Zj8=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": "Not so many choices. I guess father's day and Canada day wiped out a majority of good deals but I still have some deals left for myself - so it is still something better than nothing. Store looks like a shortage of staff (or people passed the bucks to each other). It took 15 mins to find a person available to help but then at least one helpful lady showed up and lend me a hand. Her name is Andrea. She nailed it, along with a tall Caucasian guy (dont know his name). I suggest you increase the quantity of staff every single aisle needs help, especially in this home building industry :)",
+                    "reviewer_name": "Quan Nguyen",
+                    "rating": 3,
+                    "review_text": "Not so many choices. I guess father's day and Canada day wiped out a majority of good deals but I still have some deals left for myself - so it is still something better than nothing. Store looks like a shortage of staff (or people passed the bucks to each other). It took 15 mins to find a person available to help but then at least one helpful lady showed up and lend me a hand. Her name is Andrea. She nailed it, along with a tall Caucasian guy (dont know his name). I suggest you increase the quantity of staff every single aisle needs help, especially in this home building industry :)",
+                    "published_at": "4 months ago",
+                    "published_at_date": "2023-07-02T20:04:27.859000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 106,
+                    "total_number_of_photos_by_reviewer": 492,
+                    "reviewer_url": "https://www.google.com/maps/contrib/106742899312669957633/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjV2dZvNOk2LSIIXxnX83T8wvqPPBeyWHMLxgGnFWyXs7Dzs=s120-c-rp-mo-ba5-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipPYLWOKwCZbnr72REtXroCPdHhBKsd-zH23c-Dt=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipNvWSKazor8ImrH9ObbLQ3M_D_klXoe-0bxCuW0=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPZ_7pjAnfafNkn6EgJG0NYR1m_9qVqJ-Kll4Lo=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipM5-cI3z73mxClNPTlNyDukeQODOcff7fDrdMbe=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": "Bought Artika light bars online from home Depot - loved it so much I got 2! Perfect lighting for make up - even works on a dimmer. Pictures don't do it justice, it's hard to decipher the glam level unless viewed in person. Liberace would be proud! ",
+                    "reviewer_name": "lisa s",
+                    "rating": 5,
+                    "review_text": "Bought Artika light bars online from home Depot - loved it so much I got 2! Perfect lighting for make up - even works on a dimmer. Pictures don't do it justice, it's hard to decipher the glam level unless viewed in person. Liberace would be proud! ",
+                    "published_at": "4 months ago",
+                    "published_at_date": "2023-07-06T06:07:47.927000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 37,
+                    "total_number_of_photos_by_reviewer": 22,
+                    "reviewer_url": "https://www.google.com/maps/contrib/112362958934538954888/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjU1AfWHOIXsu-pUzPlI2Nx6hHu6OulJB_DAq9sOgVWibw=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipNVtcVStJ3DfNCAD-FQwthK2FBcWxUG-eNPfsqr=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipN51-ytxnSSo1MD5eGVpQvoqbU9dDr46kyZjXPF=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": "the Tool Rental experience was unacceptable, most tools I rent doesn't work, and they will blame you for their broken tools. The technicians doesn't seem to know what they're doing, they tried fixing it when I brought it back but look at the place! How can any work be done in this setting. Standards have really fallen, just a year ago it was decent and had some helpful workers who were knowledgeable. Even helped my husband fix his personal lawn mower. But I haven't seen those workers in a while sadly.",
+                    "reviewer_name": "Carrie S",
+                    "rating": 1,
+                    "review_text": "the Tool Rental experience was unacceptable, most tools I rent doesn't work, and they will blame you for their broken tools. The technicians doesn't seem to know what they're doing, they tried fixing it when I brought it back but look at the place! How can any work be done in this setting. Standards have really fallen, just a year ago it was decent and had some helpful workers who were knowledgeable. Even helped my husband fix his personal lawn mower. But I haven't seen those workers in a while sadly.",
+                    "published_at": "4 months ago",
+                    "published_at_date": "2023-06-25T22:52:08.219000Z",
+                    "response_from_owner_text": "Hello, Thank you for bringing this to our attention, we would like to hear more about this experience.  Please reach out to us by private message at https://thd.co/3iepTKq or DM @homedepotcanada on Twitter or Instagram so that we can continue the conversation. -CU",
+                    "response_from_owner_ago": "4 months ago",
+                    "response_from_owner_date": "2023-06-26T12:36:29.234000Z",
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 1,
+                    "total_number_of_photos_by_reviewer": 1,
+                    "reviewer_url": "https://www.google.com/maps/contrib/104971299468194624108/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJwFm3IkOOwsUUbSUtlWuHMNq1M7cqFGsUykuqKahWU=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipNhFrz8_hSc5ko8jnIlE-hW-MUfTb4d-HgFTHxu=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": "Staffs are really helpful and friendly and more surprisingly have enough patience.\nI was there looking for hinges or something which could hold mirror on wall.\nAs I was trying to look for it but could not find then approached one of employee who was busy doing her part.\nShe tried to help me all way.well I don't remember her name but she had courtesy to help customer patiently.\nI would like to visit this place again.",
+                    "reviewer_name": "ravi singh",
+                    "rating": 5,
+                    "review_text": "Staffs are really helpful and friendly and more surprisingly have enough patience.\nI was there looking for hinges or something which could hold mirror on wall.\nAs I was trying to look for it but could not find then approached one of employee who was busy doing her part.\nShe tried to help me all way.well I don't remember her name but she had courtesy to help customer patiently.\nI would like to visit this place again.",
+                    "published_at": "a month ago",
+                    "published_at_date": "2023-09-23T06:07:37.686000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 21,
+                    "total_number_of_photos_by_reviewer": 213,
+                    "reviewer_url": "https://www.google.com/maps/contrib/118159165876771599416/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWhBX_iSaMdsd_NBOtc74yISRzTg-xXce5AhGl8okmLL-w=s120-c-rp-mo-ba4-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Wonderful experience, thanks to Mr VIRAL for his kind and outstanding customer service.\n\nI fond a lot of options with various prices ... :)",
+                    "reviewer_name": "Red Meg.",
+                    "rating": 5,
+                    "review_text": "Wonderful experience, thanks to Mr VIRAL for his kind and outstanding customer service.\n\nI fond a lot of options with various prices ... :)",
+                    "published_at": "4 months ago",
+                    "published_at_date": "2023-07-08T01:13:10.394000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 49,
+                    "total_number_of_photos_by_reviewer": 78,
+                    "reviewer_url": "https://www.google.com/maps/contrib/113607790472671896899/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWVaXPbIlPFXUxr8CPL-VnmLQKT2jL3Sp1Xztp7WaJMwA=s120-c-rp-mo-ba4-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipMWVim9514UfjdYi80YY_YC2WCVE7EVi4WjXCE=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipOMNFA-q2HU7hY4BBRs9MSkpcpyDFPvoPSxZnc=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipOMv_uWzc49_jLo4DnN3g1uT1M89bHwVosciuk=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipOiNKPWyVRQWJXGsTHtBYkpm_QQeSZ3uRbc8S4=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipMmka3Q7a5j3qsvVflFkyxt2PSlcDomdyN9a4w=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipMM9l0vmbL9hqBvA6MABYeU4RtAzJivnqXehuE=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipP09g_YdQC0s9RvQKkeXgRzoHiMipxbt2Ac_Cc=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipOUmZKSaJIB7g0jjp9stST0aNUX3xmyQsrVBhc=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": "One individual stood out among the rest - Scott, whose exceptional customer service skills shone through at Home Depot's Henning location.\n\nWhen I couldn't find the desired 24\" x 48\" corrugated plastic sheets due to their unavailability, Scott came to my rescue. Despite only having larger 48\" x 96\" sheets in stock, he willingly offered to cut one in half for me, even though I didn't have any tools with me. Scott's helpfulness was refreshing, especially after encountering three other unhelpful employees. As my young daughter astutely pointed out, Scott was the only staff member who made us feel truly welcome.\n\nThe management team at Home Depot should acknowledge and appreciate employees like Scott, as his outstanding customer service sets an example for his peers to follow.",
+                    "reviewer_name": "ulearn",
+                    "rating": 5,
+                    "review_text": "One individual stood out among the rest - Scott, whose exceptional customer service skills shone through at Home Depot's Henning location.\n\nWhen I couldn't find the desired 24\" x 48\" corrugated plastic sheets due to their unavailability, Scott came to my rescue. Despite only having larger 48\" x 96\" sheets in stock, he willingly offered to cut one in half for me, even though I didn't have any tools with me. Scott's helpfulness was refreshing, especially after encountering three other unhelpful employees. As my young daughter astutely pointed out, Scott was the only staff member who made us feel truly welcome.\n\nThe management team at Home Depot should acknowledge and appreciate employees like Scott, as his outstanding customer service sets an example for his peers to follow.",
+                    "published_at": "5 months ago",
+                    "published_at_date": "2023-05-24T17:28:16.093000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 145,
+                    "total_number_of_photos_by_reviewer": 376,
+                    "reviewer_url": "https://www.google.com/maps/contrib/110192453260705995943/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUAapcBs3ygRe5_zTAQak3O_y-wYtEjRAqo67AplGRgiCWF=s120-c-rp-mo-ba5-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipPLqohiIf3nC-riYrwsIDM-P0AJOjYL3qCLZEkO=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipM9b3OMu7bIkAejL5r_Px9Wk9t-KtcBpekEYsWt=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipOTOm4QcwlA-JW86SFHtdXImVq1L1pna1mm3Ax9=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipO7dUOzBwQrVFkFtqw1j5mTJv9zzgafHYR9UYv9=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": "I absolutely love the events HomeDepot organizes for kids. After attending, my daughter is always in a fantastic mood, which lets me shop in peace. The store layout is intuitive, and I've never had issues finding what I needed. I also want to give a shoutout to the staff at tool rentals--they've been super helpful and truly deserve recognition!",
+                    "reviewer_name": "Ivan Kens",
+                    "rating": 5,
+                    "review_text": "I absolutely love the events HomeDepot organizes for kids. After attending, my daughter is always in a fantastic mood, which lets me shop in peace. The store layout is intuitive, and I've never had issues finding what I needed. I also want to give a shoutout to the staff at tool rentals--they've been super helpful and truly deserve recognition!",
+                    "published_at": "2 months ago",
+                    "published_at_date": "2023-09-12T22:27:14.031000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 3,
+                    "total_number_of_photos_by_reviewer": 8,
+                    "reviewer_url": "https://www.google.com/maps/contrib/105121976944082091502/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjW0zBQzTUpLheYUOuTHMIAEgBwxxaNqg8Ed6K_c8D-a-Gk=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                }
+            ],
+            "is_spending_on_ads": false
+        },
+        {
+            "place_id": "ChIJIT2n06d1hlQR_YUovN1PSQ0",
+            "name": "The Home Depot",
+            "description": "Chain home improvement retailer for tools, appliances & other products (some offer truck rentals).",
+            "reviews": 2758,
+            "website": "https://stores.homedepot.ca/bc/richmond/home-improvement-richmond-bc-7043.html%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_campaign%3Dlocal%26utm_content%3D7043",
+            "owner": {
+                "id": "106327655734386483571",
+                "name": "The Home Depot (Owner)",
+                "link": "https://www.google.com/maps/contrib/106327655734386483571"
+            },
+            "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMS4CMmLRLAdPy6cCFqjCwRk3IuhsfglCfHUgCX=w408-h306-k-no",
+            "main_category": "Home improvement store",
+            "categories": [
+                "Home improvement store",
+                "Flooring store",
+                "Garden center",
+                "Hardware store",
+                "Kitchen furniture store",
+                "Lighting store",
+                "Paint store",
+                "Roofing supply store"
+            ],
+            "rating": 4,
+            "workday_timing": "6 a.m.-9 p.m.",
+            "closed_on": [],
+            "phone": "(604) 303-9882",
+            "address": "The Home Depot, 2700 Sweden Way, Richmond, BC V6V 1K1",
+            "review_keywords": [
+                {
+                    "keyword": "paint",
+                    "count": 38
+                },
+                {
+                    "keyword": "appliances",
+                    "count": 36
+                },
+                {
+                    "keyword": "lumber",
+                    "count": 27
+                },
+                {
+                    "keyword": "aisle",
+                    "count": 22
+                },
+                {
+                    "keyword": "plants",
+                    "count": 21
+                },
+                {
+                    "keyword": "plumbing",
+                    "count": 18
+                },
+                {
+                    "keyword": "shelves",
+                    "count": 16
+                },
+                {
+                    "keyword": "frustration",
+                    "count": 10
+                },
+                {
+                    "keyword": "HD",
+                    "count": 9
+                },
+                {
+                    "keyword": "flooring",
+                    "count": 9
+                }
+            ],
+            "link": "https://www.google.com/maps/place/The+Home+Depot/data=!4m7!3m6!1s0x548675a7d3a73d21:0xd494fddbc2885fd!8m2!3d49.1939587!4d-123.0813904!16s%2Fg%2F1tfchg3_!19sChIJIT2n06d1hlQR_YUovN1PSQ0?authuser=0&hl=en&rclk=1",
+            "status": "Closed  Opens 8 a.m. Sun",
+            "price_range": "$",
+            "reviews_per_rating": {
+                "1": 227,
+                "2": 94,
+                "3": 324,
+                "4": 871,
+                "5": 1242
+            },
+            "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJIT2n06d1hlQR_YUovN1PSQ0&q=The+Home+Depot&authuser=0&hl=en&gl=CA",
+            "coordinates": {
+                "latitude": 49.193958699999996,
+                "longitude": -123.08139039999999
+            },
+            "plus_code": "5WV9+HC Richmond, British Columbia",
+            "detailed_address": {
+                "ward": null,
+                "street": "2700 Sweden Way",
+                "city": "Richmond",
+                "postal_code": "V6V 1K1",
+                "state": "British Columbia",
+                "country_code": "CA"
+            },
+            "time_zone": "America/Vancouver",
+            "cid": "957384209556080125",
+            "data_id": "0x548675a7d3a73d21:0xd494fddbc2885fd",
+            "menu": {
+                "link": null,
+                "source": null
+            },
+            "reservations": [],
+            "order_online_links": [],
+            "about": [
+                {
+                    "id": "service_options",
+                    "name": "Service options",
+                    "options": [
+                        {
+                            "name": "Curbside pickup",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Delivery",
+                            "enabled": true
+                        },
+                        {
+                            "name": "In-store pickup",
+                            "enabled": true
+                        },
+                        {
+                            "name": "In-store shopping",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "accessibility",
+                    "name": "Accessibility",
+                    "options": [
+                        {
+                            "name": "Wheelchair-accessible entrance",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Wheelchair-accessible parking lot",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "offerings",
+                    "name": "Offerings",
+                    "options": [
+                        {
+                            "name": "Assembly service",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Repair services",
+                            "enabled": true
+                        }
+                    ]
+                },
+                {
+                    "id": "payments",
+                    "name": "Payments",
+                    "options": [
+                        {
+                            "name": "Checks",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Credit cards",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Debit cards",
+                            "enabled": true
+                        },
+                        {
+                            "name": "NFC mobile payments",
+                            "enabled": true
+                        },
+                        {
+                            "name": "Credit cards",
+                            "enabled": true
+                        }
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "about": "All",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipMS4CMmLRLAdPy6cCFqjCwRk3IuhsfglCfHUgCX=w397-h298-k-no"
+                },
+                {
+                    "about": "Latest",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipOoGKTwKss9G1PL_eO08l-muszilXvTQXq4y24W=w224-h298-k-no"
+                },
+                {
+                    "about": "Videos",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipM80UHC3Y7_pe2EO8OWprx7oIuLQr74ZiQseHer=w224-h398-k-no"
+                },
+                {
+                    "about": "Inside",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipP6cS4phIE8RJZoiC37TVCpNH_1FF2tTXgu3_7w=w529-h298-k-no"
+                },
+                {
+                    "about": "Street View & 360deg",
+                    "link": "https://lh5.googleusercontent.com/p/AF1QipNPRskNQY7C-_bQi3Dq2ZcQy_UKAYod7s_76EJq=w224-h298-k-no-pi-10-ya200-ro0-fo100"
+                }
+            ],
+            "hours": [
+                {
+                    "day": "Monday",
+                    "times": [
+                        "6 a.m.-9 p.m."
+                    ]
+                },
+                {
+                    "day": "Tuesday",
+                    "times": [
+                        "6 a.m.-9 p.m."
+                    ]
+                },
+                {
+                    "day": "Wednesday",
+                    "times": [
+                        "6 a.m.-9 p.m."
+                    ]
+                },
+                {
+                    "day": "Thursday",
+                    "times": [
+                        "6 a.m.-9 p.m."
+                    ]
+                },
+                {
+                    "day": "Friday",
+                    "times": [
+                        "6 a.m.-9 p.m."
+                    ]
+                },
+                {
+                    "day": "Saturday",
+                    "times": [
+                        "7 a.m.-8 p.m."
+                    ]
+                },
+                {
+                    "day": "Sunday",
+                    "times": [
+                        "8 a.m.-8 p.m."
+                    ]
+                }
+            ],
+            "featured_reviews": [
+                {
+                    "review_id": "Have a great experience at this location . The manager Yak was very nice and knowledgeable. His team was very helpful. I have been looking for a patio set for a while but couldn't find anything I like. Once I saw this set , I fell in love and wanted it in my home right away . My car was too small to fit the big box , Yak was able to arrange fast shipping, and I was able to get it the next day . I was not sure about this set, and Yak gave me his honest opinion. The set is high quality  and very comfortable.  I love it.  Thank you, Yak and his team.  Highly recommend homedepot, especially this location.",
+                    "reviewer_name": "JJ",
+                    "rating": 5,
+                    "review_text": "Have a great experience at this location . The manager Yak was very nice and knowledgeable. His team was very helpful. I have been looking for a patio set for a while but couldn't find anything I like. Once I saw this set , I fell in love and wanted it in my home right away . My car was too small to fit the big box , Yak was able to arrange fast shipping, and I was able to get it the next day . I was not sure about this set, and Yak gave me his honest opinion. The set is high quality  and very comfortable.  I love it.  Thank you, Yak and his team.  Highly recommend homedepot, especially this location.",
+                    "published_at": "3 months ago",
+                    "published_at_date": "2023-07-19T20:17:07.861000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 352,
+                    "total_number_of_photos_by_reviewer": 1463,
+                    "reviewer_url": "https://www.google.com/maps/contrib/109992468158827858128/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVF-ogajmeaAnOaMhtP287iiiY7rkGllOjREy_3V4FP7cnO=s120-c-rp-mo-ba6-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipO97WXMuY_GIrIGSEVIaaWx6dhmauAK7GVIW3u9=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": "Rented a sander and my experience was less than expectations. they did not add a required extension cord (different connection), didn't answer the phone, told me to come back to get the extension cord and seemed completely indifferent to my plight. I talked to the store manager who also seemed indifferent and was offered $30 off for my time. I lost half a day running around so the offer was basically not to charge me for the time they wasted on me. Might be an anomaly, make sure you have been given all parts before leaving store.\n\nEdit/update. Hey HD. Your training program is awful. 4 people trying to help me buy a hot water tank and get install. 30 minutes later, I ask about my pro points and they say they don't know. I will check with some other places since I left without being asked to pay for anything.",
+                    "reviewer_name": "Scot Sorensen",
+                    "rating": 2,
+                    "review_text": "Rented a sander and my experience was less than expectations. they did not add a required extension cord (different connection), didn't answer the phone, told me to come back to get the extension cord and seemed completely indifferent to my plight. I talked to the store manager who also seemed indifferent and was offered $30 off for my time. I lost half a day running around so the offer was basically not to charge me for the time they wasted on me. Might be an anomaly, make sure you have been given all parts before leaving store.\n\nEdit/update. Hey HD. Your training program is awful. 4 people trying to help me buy a hot water tank and get install. 30 minutes later, I ask about my pro points and they say they don't know. I will check with some other places since I left without being asked to pay for anything.",
+                    "published_at": "2 months ago",
+                    "published_at_date": "2023-09-18T17:47:28.955000Z",
+                    "response_from_owner_text": "Hello, Thank you for bringing this to our attention, we would like to hear more about this experience.  Please reach out to us by private message at https://thd.co/3iepTKq or DM @homedepotcanada on Twitter or Instagram so that we can continue the conversation. -CU",
+                    "response_from_owner_ago": "2 months ago",
+                    "response_from_owner_date": "2023-09-05T19:01:52.074000Z",
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 25,
+                    "total_number_of_photos_by_reviewer": 15,
+                    "reviewer_url": "https://www.google.com/maps/contrib/107840030780706394714/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVlFTGQyR34HgQwtysHgdKWQ55CBFKQwulf2jHu691neNM=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipOiC7N5AHW5WTWfudqeBqh1jgsDaaq6u78AaJAp=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": "If you're looking to spruce up your home decor, this is a great place to check out.",
+                    "reviewer_name": "Sally",
+                    "rating": 5,
+                    "review_text": "If you're looking to spruce up your home decor, this is a great place to check out.",
+                    "published_at": "a month ago",
+                    "published_at_date": "2023-10-12T05:28:03.178000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 637,
+                    "total_number_of_photos_by_reviewer": 6499,
+                    "reviewer_url": "https://www.google.com/maps/contrib/117597339590719680398/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWLqNK2CPHrLe075lCb_6vy0e8yjELnD1_5TvpMtqml1qw=s120-c-rp-mo-ba7-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipNt70EIUGJh-6Rsgg1g2AhN8ly4V77io7ogZSCX=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPTHjFj24a0-Ca6MPUKIP17SLVYOPzB1sLuo-K_=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipMds8G80dIqRGxMVlQ0Kum_-mLttVZv_PjTGFgl=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipO6As87ntf7VdzhN4tqY2TWOR4h97inoOrguaLH=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipPxGhEQLWE45Us5L3PKs7Zpfysn7RCxYRtO9YDv=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipNsboaUDQ-OrgnfIaZmfqH_7Rh3dLWwXOEIX3Ea=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipNhg9smGlJ2ckrkL7zAXeYknEfEnwefSTUQkZmI=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": "Worst customer service. How much you can be rude to the customer paying a couple of thousands dollars....Many staff there but all of them are busy all the time. You ask for assistance and every time they say wait for a minutes then never show up. I have to ask 3-4 different staffs and if you are lucky, you'll get help after waiting for at least 30 minutes. Usually I never post bad reviews but I'm really upset that staff cut my baseboard wrong size yesterday. This guy( bold head, rude) don't even listen to you carefully when I was telling him the size of cuts. Now what? I have to go back to customer service and explain what happen for refund and redone another cut? How much I have to waste my time to get my job done with this Home Depot.I  spend so much money but this Home Depot screw you up.",
+                    "reviewer_name": "Tammy",
+                    "rating": 1,
+                    "review_text": "Worst customer service. How much you can be rude to the customer paying a couple of thousands dollars....Many staff there but all of them are busy all the time. You ask for assistance and every time they say wait for a minutes then never show up. I have to ask 3-4 different staffs and if you are lucky, you'll get help after waiting for at least 30 minutes. Usually I never post bad reviews but I'm really upset that staff cut my baseboard wrong size yesterday. This guy( bold head, rude) don't even listen to you carefully when I was telling him the size of cuts. Now what? I have to go back to customer service and explain what happen for refund and redone another cut? How much I have to waste my time to get my job done with this Home Depot.I  spend so much money but this Home Depot screw you up.",
+                    "published_at": "a week ago",
+                    "published_at_date": "2023-11-08T16:11:25.361000Z",
+                    "response_from_owner_text": "Thank you for bringing this to our attention, we would like to hear more about this experience.  Please reach out to us by private message at https://thd.co/3iepTKq or DM @homedepotcanada on Twitter or Instagram so that we can continue the conversation. ",
+                    "response_from_owner_ago": "a month ago",
+                    "response_from_owner_date": "2023-10-11T15:36:10.145000Z",
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 53,
+                    "total_number_of_photos_by_reviewer": 192,
+                    "reviewer_url": "https://www.google.com/maps/contrib/116727454562290269794/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUGvQ2tYYA-cUli-FoVeJ181RJ-ZFqvf1J5oizyWNbKMNU=s120-c-rp-mo-ba4-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Customer service manager Jazz and staff Simran at Store #7043 helped me a lot today. Simran was really patient and kind, She listened me very carefully and provided me solutions to my problem. Her working attitude was serious, and she made me feeling warm and CARED! Jazz is a wonderful customer service manager. He was patient too and reliable! I was a little disappointed with the product i purchased But my experience today made me trust the Home Depot! I will choose the Home Depot again!",
+                    "reviewer_name": "Francesca Wang",
+                    "rating": 5,
+                    "review_text": "Customer service manager Jazz and staff Simran at Store #7043 helped me a lot today. Simran was really patient and kind, She listened me very carefully and provided me solutions to my problem. Her working attitude was serious, and she made me feeling warm and CARED! Jazz is a wonderful customer service manager. He was patient too and reliable! I was a little disappointed with the product i purchased But my experience today made me trust the Home Depot! I will choose the Home Depot again!",
+                    "published_at": "4 days ago",
+                    "published_at_date": "2023-11-15T00:00:44.446000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 2,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/115290179813924604677/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUX67x7Pt1pOkGxGCrmqCF_SJo0IDZEqw5SbNPdz9fSig=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "I bought a dishwasher from yourselves great service with the delivery .The nightmare started with the installation. First attempt the installer got the area wrong and said it was not his area .Second attempt a so called rushed installation another no show .After an hour on the phone .We learned he had another emergency and he would book sometime next week .Please look at your installers Quick contractor's totally useless.We have decided to cancel and find our own contractor .",
+                    "reviewer_name": "Pieter De la Rey",
+                    "rating": 2,
+                    "review_text": "I bought a dishwasher from yourselves great service with the delivery .The nightmare started with the installation. First attempt the installer got the area wrong and said it was not his area .Second attempt a so called rushed installation another no show .After an hour on the phone .We learned he had another emergency and he would book sometime next week .Please look at your installers Quick contractor's totally useless.We have decided to cancel and find our own contractor .",
+                    "published_at": "a week ago",
+                    "published_at_date": "2023-11-07T04:18:27.718000Z",
+                    "response_from_owner_text": "Thank you for bringing this to our attention, we would like to hear more about this. Please reach out to us by private message at www.facebook.com/homedepotcanada or @homedepotcanada on Twitter so that we can continue the conversation. -CM\n",
+                    "response_from_owner_ago": "a week ago",
+                    "response_from_owner_date": "2023-11-07T13:38:22.034000Z",
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 3,
+                    "total_number_of_photos_by_reviewer": 0,
+                    "reviewer_url": "https://www.google.com/maps/contrib/118217576442650932209/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocL9TWRwArcL6AAJQfBD5Mff8PSUITEK7mZ8y3NC5bPX=s120-c-rp-mo-br100",
+                    "is_local_guide": false,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": []
+                },
+                {
+                    "review_id": "Very good hardware store with reasonable prices and offers. If you want anything related and from dewalt, the Home Depot is the best place you can get it from.",
+                    "reviewer_name": "Ali Sahebnasagh",
+                    "rating": 5,
+                    "review_text": "Very good hardware store with reasonable prices and offers. If you want anything related and from dewalt, the Home Depot is the best place you can get it from.",
+                    "published_at": "2 months ago",
+                    "published_at_date": "2023-09-09T15:03:25.149000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 1,
+                    "total_number_of_reviews_by_reviewer": 32,
+                    "total_number_of_photos_by_reviewer": 504,
+                    "reviewer_url": "https://www.google.com/maps/contrib/111096062051740984538/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWxc-CjFtVPH_SgIiTqguRquaOQ4PGm-DBNYLnmdxMDwg=s120-c-rp-mo-ba4-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipNIGFGqutLP83Yn8x2YE2FXvwIjRrM7_e6GuJRP=w150-h150-k-no-p"
+                    ]
+                },
+                {
+                    "review_id": "In the summer, this is one of my favourite places to take my mom and get her something. Staff here speak a multitude of languages and are super kind.",
+                    "reviewer_name": "M H",
+                    "rating": 5,
+                    "review_text": "In the summer, this is one of my favourite places to take my mom and get her something. Staff here speak a multitude of languages and are super kind.",
+                    "published_at": "3 months ago",
+                    "published_at_date": "2023-08-04T04:06:06.067000Z",
+                    "response_from_owner_text": null,
+                    "response_from_owner_ago": null,
+                    "response_from_owner_date": null,
+                    "review_likes_count": 0,
+                    "total_number_of_reviews_by_reviewer": 25,
+                    "total_number_of_photos_by_reviewer": 9,
+                    "reviewer_url": "https://www.google.com/maps/contrib/100713217330899080148/reviews?entry=ttu",
+                    "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJles2kbI259SEmsXwkcWN0cmbcBgEQBJdwnBJHoQAL=s120-c-rp-mo-ba3-br100",
+                    "is_local_guide": true,
+                    "review_translated_text": null,
+                    "response_from_owner_translated_text": null,
+                    "review_photos": [
+                        "https://lh5.googleusercontent.com/p/AF1QipOdFUhFIfYeUIIgCwQNractdOgomnpeAPBirkI7=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipN9c-OX8HvDublhoCaSUf3U4HxTPqQ2m3_wd0ed=w150-h150-k-no-p",
+                        "https://lh5.googleusercontent.com/p/AF1QipM7x4RvqgcVYko-MgaaH-ELm_JG800kSQWntfg9=w150-h150-k-no-p"
+                    ]
+                }
+            ],
+            "is_spending_on_ads": false
+        }
+    ]
+}

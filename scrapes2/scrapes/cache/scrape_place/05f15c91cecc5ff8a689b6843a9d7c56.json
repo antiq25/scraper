@@ -1,0 +1,352 @@
+{
+    "place_id": "ChIJg51xK7lxhlQRQ0aiXinIzVM",
+    "name": "Fitness World",
+    "description": null,
+    "reviews": 217,
+    "website": "https://www.fitnessworld.ca/locations/georgia/",
+    "owner": {
+        "id": "114998447856971919722",
+        "name": "Fitness World (Owner)",
+        "link": "https://www.google.com/maps/contrib/114998447856971919722"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOlTbYAbXHpqnjwZIjnXUCssIfmJn4B3RfVcLS3=w408-h306-k-no",
+    "main_category": "Gym",
+    "categories": [
+        "Gym",
+        "Body shaping class",
+        "Fitness center",
+        "Health spa",
+        "Personal trainer",
+        "Physical fitness program",
+        "Spa and health club",
+        "Women's personal trainer",
+        "Yoga studio"
+    ],
+    "rating": 4.2,
+    "workday_timing": "5 a.m.-10 p.m.",
+    "closed_on": [],
+    "phone": "(604) 558-0807",
+    "address": "Fitness World, 1185 W Georgia St #200, Vancouver, BC V6E 4E6",
+    "review_keywords": [
+        {
+            "keyword": "equipment",
+            "count": 16
+        },
+        {
+            "keyword": "desk",
+            "count": 15
+        },
+        {
+            "keyword": "manager",
+            "count": 14
+        },
+        {
+            "keyword": "personal training",
+            "count": 13
+        },
+        {
+            "keyword": "facility",
+            "count": 8
+        },
+        {
+            "keyword": "goals",
+            "count": 8
+        },
+        {
+            "keyword": "payments",
+            "count": 8
+        },
+        {
+            "keyword": "attitude",
+            "count": 7
+        },
+        {
+            "keyword": "contract",
+            "count": 5
+        },
+        {
+            "keyword": "plan",
+            "count": 5
+        }
+    ],
+    "link": "https://www.google.com/maps/place/Fitness+World/data=!4m7!3m6!1s0x548671b92b719d83:0x53cdc8295ea24643!8m2!3d49.2872573!4d-123.1247192!16s%2Fg%2F11t86c40kc!19sChIJg51xK7lxhlQRQ0aiXinIzVM?authuser=0&hl=en&rclk=1",
+    "status": "Closed  Opens 7 a.m. Sun",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 33,
+        "2": 8,
+        "3": 9,
+        "4": 9,
+        "5": 158
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJg51xK7lxhlQRQ0aiXinIzVM&q=Fitness+World&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.2872573,
+        "longitude": -123.1247192
+    },
+    "plus_code": "7VPG+W4 Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "Central Vancouver",
+        "street": "1185 W Georgia St #200",
+        "city": "Vancouver",
+        "postal_code": "V6E 4E6",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "6038702755380610627",
+    "data_id": "0x548671b92b719d83:0x53cdc8295ea24643",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible parking lot",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOlTbYAbXHpqnjwZIjnXUCssIfmJn4B3RfVcLS3=w397-h298-k-no"
+        },
+        {
+            "about": "Latest",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMPKUuBTfqcxE7_VidFykeCoPd8EyOiqzSsXw9n=w224-h398-k-no"
+        },
+        {
+            "about": "Videos",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMPKUuBTfqcxE7_VidFykeCoPd8EyOiqzSsXw9n=w224-h398-k-no"
+        },
+        {
+            "about": "Gym",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPB4mWrEyk8BARL5Ejk6eCljfek-3-ElakwQ5A0=w397-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=8-JkXcTG8qAPSiLAKSPyZg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=124.16726&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "5 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "5 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "5 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "5 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "5 a.m.-9 p.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "7 a.m.-9 p.m."
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "7 a.m.-9 p.m."
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "I have been a member of FW for some time now, and while I appreciate the friendly staff and the overall atmosphere, I believe it's time for the gym to consider updating its GREEN machines. This equipment appears to be less effective and in need of replacement. While the gym offers a variety of classes and has a decent selection of newer equipment, outdated machines can sometimes affect the quality of the workout experience. I encourage the management to invest in updating their equipment to provide members with a more modern and efficient fitness facility.",
+            "reviewer_name": "It's Nass Fitness",
+            "rating": 3,
+            "review_text": "I have been a member of FW for some time now, and while I appreciate the friendly staff and the overall atmosphere, I believe it's time for the gym to consider updating its GREEN machines. This equipment appears to be less effective and in need of replacement. While the gym offers a variety of classes and has a decent selection of newer equipment, outdated machines can sometimes affect the quality of the workout experience. I encourage the management to invest in updating their equipment to provide members with a more modern and efficient fitness facility.",
+            "published_at": "2 weeks ago",
+            "published_at_date": "2023-10-31T07:27:11.304000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 23,
+            "total_number_of_photos_by_reviewer": 17,
+            "reviewer_url": "https://www.google.com/maps/contrib/111245545016690206906/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXcZs_zaLUk8dbwlXT3H5YC01yb6hF6dv04DYC3M2W8ww=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMPKUuBTfqcxE7_VidFykeCoPd8EyOiqzSsXw9n=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "I love the classes here: Joanne, Andrew, Kim, every class is very enjoyable and great.\nThough I do wish some of the instructors kept the time so that subsequent classes can start on time. It's hard waiting around until after the previous class creeps into the next class time and then your class ends later as a result.\nIt's steadily been a problem for Thursday evenings where we're waiting for dance class and the class beforehand (I think it's More Core?) always goes til 7:15 when the next class is supposed to start.\nOther than that, great bang for your buck. Keep it up FW :)",
+            "reviewer_name": "Ohr Thgil",
+            "rating": 3,
+            "review_text": "I love the classes here: Joanne, Andrew, Kim, every class is very enjoyable and great.\nThough I do wish some of the instructors kept the time so that subsequent classes can start on time. It's hard waiting around until after the previous class creeps into the next class time and then your class ends later as a result.\nIt's steadily been a problem for Thursday evenings where we're waiting for dance class and the class beforehand (I think it's More Core?) always goes til 7:15 when the next class is supposed to start.\nOther than that, great bang for your buck. Keep it up FW :)",
+            "published_at": "a week ago",
+            "published_at_date": "2023-11-07T04:24:11.380000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 24,
+            "total_number_of_photos_by_reviewer": 1,
+            "reviewer_url": "https://www.google.com/maps/contrib/117654532112355436785/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKGq8a7xRZU4M59-vLuWyaL86smd36QdgI2LgD2es8H=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Busy gym, people often aren't very courteous or kind with sharing equipment, respecting personal space etc. Every single time I've been regardless of time, the squat racks are always full and people taking upwards of 20 minutes to complete a set.\nThe equipment is never put back in the right place and there is barely any space to complete your workout. Also the hoist machines are so strange, really not a fan of the machines.\n\nI want to add that the wipe stations are often empty and a number of times I've had to go up to the multiple receptionists behind the desk and let them know. Just really basic stuff that you'd want a gym to be on top of, but they aren't.",
+            "reviewer_name": "Alana McConnell",
+            "rating": 2,
+            "review_text": "Busy gym, people often aren't very courteous or kind with sharing equipment, respecting personal space etc. Every single time I've been regardless of time, the squat racks are always full and people taking upwards of 20 minutes to complete a set.\nThe equipment is never put back in the right place and there is barely any space to complete your workout. Also the hoist machines are so strange, really not a fan of the machines.\n\nI want to add that the wipe stations are often empty and a number of times I've had to go up to the multiple receptionists behind the desk and let them know. Just really basic stuff that you'd want a gym to be on top of, but they aren't.",
+            "published_at": "5 days ago",
+            "published_at_date": "2023-11-14T03:36:28.288000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 3,
+            "total_number_of_reviews_by_reviewer": 6,
+            "total_number_of_photos_by_reviewer": 2,
+            "reviewer_url": "https://www.google.com/maps/contrib/112393031680286408492/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVgTgVKJV6vsRsaTZ8M8kkjlaMg73bTSjOhkMTmVnflgxY=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "I recently visited the  fitness world (Georgia) gym and had the pleasure of encountering an outstanding desk person ( Ivana) who truly made my experience remarkable. From the moment I walked in, she greeted me with a warm and friendly smile, instantly making me feel welcome.\n\nher exceptional customer service skills was evident as she patiently answered all my questions and provided me with a thorough tour of the gym facilities. she took the time to understand my fitness goals and offered valuable insights on various workout routines and classes that would best suit my needs.\n\nWhat impressed me the most was their genuine enthusiasm for helping others.\n\nFurthermore, the desk person displayed excellent knowledge of the gym's amenities, classes, and membership options. She went above and beyond to ensure I had all the information I needed to make an informed decision about becoming a member.\n\nI can confidently say that this desk person is an asset to the gym and plays a significant role in creating a positive and motivating environment for all members. I highly recommend visiting the gym and experiencing their exceptional service firsthand.\nMahsa",
+            "reviewer_name": "Mehrdad Parsa",
+            "rating": 5,
+            "review_text": "I recently visited the  fitness world (Georgia) gym and had the pleasure of encountering an outstanding desk person ( Ivana) who truly made my experience remarkable. From the moment I walked in, she greeted me with a warm and friendly smile, instantly making me feel welcome.\n\nher exceptional customer service skills was evident as she patiently answered all my questions and provided me with a thorough tour of the gym facilities. she took the time to understand my fitness goals and offered valuable insights on various workout routines and classes that would best suit my needs.\n\nWhat impressed me the most was their genuine enthusiasm for helping others.\n\nFurthermore, the desk person displayed excellent knowledge of the gym's amenities, classes, and membership options. She went above and beyond to ensure I had all the information I needed to make an informed decision about becoming a member.\n\nI can confidently say that this desk person is an asset to the gym and plays a significant role in creating a positive and motivating environment for all members. I highly recommend visiting the gym and experiencing their exceptional service firsthand.\nMahsa",
+            "published_at": "3 months ago",
+            "published_at_date": "2023-07-31T17:21:22.685000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/109008116613841484940/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLVYVOkYLn1LJ1UazrusIpUOb1voqIV76T9S5vmjQM7=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Best gym ever! Friendly staff with a great manager, feels like you're part of the most vibrant family! Annasthesia, makes sure all members having great time and makes your experience memorable and unique! she's fun, supportive and very caring!\nThe gym is clean and all facility is new. You'll go to this gym once, you don't want to be anywhere else!",
+            "reviewer_name": "Ella Sharafian",
+            "rating": 5,
+            "review_text": "Best gym ever! Friendly staff with a great manager, feels like you're part of the most vibrant family! Annasthesia, makes sure all members having great time and makes your experience memorable and unique! she's fun, supportive and very caring!\nThe gym is clean and all facility is new. You'll go to this gym once, you don't want to be anywhere else!",
+            "published_at": "5 months ago",
+            "published_at_date": "2023-05-23T21:56:36.685000Z",
+            "response_from_owner_text": "Hi Ella,\n\nThank you for your feedback! I am glad to hear that your experience at Fitness World Georgia is memorable! \n\nSee you during your next workout!\n\nThanks, \n\nAnnastasija ",
+            "response_from_owner_ago": "5 months ago",
+            "response_from_owner_date": "2023-05-26T20:31:05.096000Z",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 17,
+            "total_number_of_photos_by_reviewer": 19,
+            "reviewer_url": "https://www.google.com/maps/contrib/105989177461800606644/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVmR0Oa8rPD_TKtIe4zpxYHX8xmfZArdbVAmvLf69t_x18=s120-c-rp-mo-ba2-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "This is the best gym I have ever been to!! I've been in so many gyms throughout my life and this one is by FAR the cleanest, most organized, and motivating gym. The staff are the best part though, they are amazing!!! I love the general manager here, Annastasija. Huge shout out to her! I've found my forever gym :)",
+            "reviewer_name": "Bella",
+            "rating": 5,
+            "review_text": "This is the best gym I have ever been to!! I've been in so many gyms throughout my life and this one is by FAR the cleanest, most organized, and motivating gym. The staff are the best part though, they are amazing!!! I love the general manager here, Annastasija. Huge shout out to her! I've found my forever gym :)",
+            "published_at": "5 months ago",
+            "published_at_date": "2023-05-29T06:22:00.226000Z",
+            "response_from_owner_text": "Hi Bella,\n\nThis review made our day! It's always great to hear how we're able to support our members in\naccomplishing their goals, and helping them in their fitness journey!\n\nA clean and organized space is something that we take pride in, so to hear that it's working for you is especially\nrewarding.\n\nHave a great day, and thanks for the review!\n\nAnnastasija\n",
+            "response_from_owner_ago": "4 months ago",
+            "response_from_owner_date": "2023-07-05T19:30:42.856000Z",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/116779867724328606898/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocK9yKmuTqV4GCkIR2Yjfy5XnbxwxLuPOsTU2CxxQhcf=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "My rant.... don't even bother joining ....Fitness World..Can't cancel your membership even if you want to.  I was travelling for 2 months and asked them to freeze my membership but they did that only for one month. I still agreed to pay after they emailed me that my payments are not going through. They failed to tell me that it was their fault that they are not accepting Amex anymore. How would I know till you tell me the reason???? After speaking with 2 different associates at Georgia and Bute location on Oct 14,  I was told that only a manager can do it, and only till7 pm from Mon-Fri. So if I am unable to the gym before 7 pm, essentially I can't cancel the membership?? Are you being serious? Then I asked to downgrade the membership, but again I was told only a manager could do it ..oh wait you also have pay a fee to downgrade...and don't forget only till 7 pm Mon-fri. Help me understand what good are these associates for?? Both associates(Gav and don't know the name of the girl)  were rude, especially the girl who had so much attitude and behaved like she was doing me a huge favour. She said if I'm that busy I could \"phone them\". They were both were mocking clients who were phoning right in front of me to cancel their membership. I could hear them making fun of clients while was doing cardio just a few meters away from the counter.\nNot cool at all.\nI've been their client for a while and I'm genuinely disappointed at their customer service. FW, that's disrespectful to your clients!",
+            "reviewer_name": "R Kumar",
+            "rating": 1,
+            "review_text": "My rant.... don't even bother joining ....Fitness World..Can't cancel your membership even if you want to.  I was travelling for 2 months and asked them to freeze my membership but they did that only for one month. I still agreed to pay after they emailed me that my payments are not going through. They failed to tell me that it was their fault that they are not accepting Amex anymore. How would I know till you tell me the reason???? After speaking with 2 different associates at Georgia and Bute location on Oct 14,  I was told that only a manager can do it, and only till7 pm from Mon-Fri. So if I am unable to the gym before 7 pm, essentially I can't cancel the membership?? Are you being serious? Then I asked to downgrade the membership, but again I was told only a manager could do it ..oh wait you also have pay a fee to downgrade...and don't forget only till 7 pm Mon-fri. Help me understand what good are these associates for?? Both associates(Gav and don't know the name of the girl)  were rude, especially the girl who had so much attitude and behaved like she was doing me a huge favour. She said if I'm that busy I could \"phone them\". They were both were mocking clients who were phoning right in front of me to cancel their membership. I could hear them making fun of clients while was doing cardio just a few meters away from the counter.\nNot cool at all.\nI've been their client for a while and I'm genuinely disappointed at their customer service. FW, that's disrespectful to your clients!",
+            "published_at": "a month ago",
+            "published_at_date": "2023-10-15T20:02:45.737000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/117155070967563798665/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLr2Btw3V1cqnkqRwJKPxuZ8oGLiUP-y2zfsZl-TMlj=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Great gym! Lots of space, lots of equipment and never overly busy! Very good value for money as well!",
+            "reviewer_name": "Mark Collins",
+            "rating": 5,
+            "review_text": "Great gym! Lots of space, lots of equipment and never overly busy! Very good value for money as well!",
+            "published_at": "a week ago",
+            "published_at_date": "2023-11-10T01:17:13.033000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/104035741652557424084/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocL7h6oPJnpK4RXKLCHGzTQCt4SxXfNLwuMsdN81c8dVqA=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

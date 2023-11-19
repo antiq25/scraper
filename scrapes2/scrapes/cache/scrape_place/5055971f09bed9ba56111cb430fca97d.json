@@ -1,0 +1,434 @@
+{
+    "place_id": "ChIJs8lGyt1zhlQRssgeHveYgiU",
+    "name": "Canadian Tire",
+    "description": null,
+    "reviews": 3989,
+    "website": "https://www.canadiantire.ca/en/store-details/bc/cambie-7th-bc-389.html?utm_source=google&utm_medium=lss&utm_content=389",
+    "owner": {
+        "id": "116649980637182005219",
+        "name": "Canadian Tire (Owner)",
+        "link": "https://www.google.com/maps/contrib/116649980637182005219"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPgCBfrR56V3sJ-xLn7ANB78YDAV6eq2BRvtko3=w426-h240-k-no",
+    "main_category": "Department store",
+    "categories": [
+        "Department store",
+        "Auto parts store",
+        "Garden center",
+        "Home goods store",
+        "Home improvement store",
+        "Oil change service",
+        "Party store",
+        "Sporting goods store",
+        "Tire shop"
+    ],
+    "rating": 3.7,
+    "workday_timing": "9 a.m.-9 p.m.",
+    "closed_on": [],
+    "phone": "(604) 707-2290",
+    "address": "Canadian Tire, 2290 Cambie St, Vancouver, BC V5Z 2T7",
+    "review_keywords": [
+        {
+            "keyword": "bike",
+            "count": 52
+        },
+        {
+            "keyword": "tires",
+            "count": 33
+        },
+        {
+            "keyword": "tools",
+            "count": 29
+        },
+        {
+            "keyword": "inspection",
+            "count": 17
+        },
+        {
+            "keyword": "gardening",
+            "count": 16
+        },
+        {
+            "keyword": "auto service",
+            "count": 12
+        },
+        {
+            "keyword": "gear",
+            "count": 9
+        },
+        {
+            "keyword": "brake",
+            "count": 8
+        },
+        {
+            "keyword": "parking ticket",
+            "count": 6
+        },
+        {
+            "keyword": "flyer",
+            "count": 5
+        }
+    ],
+    "link": "https://www.google.com/maps/place/Canadian+Tire/data=!4m7!3m6!1s0x548673ddca46c9b3:0x258298f71e1ec8b2!8m2!3d49.2652952!4d-123.1137803!16s%2Fg%2F1ts_68_2!19sChIJs8lGyt1zhlQRssgeHveYgiU?authuser=0&hl=en&rclk=1",
+    "status": "Closed  Opens 9 a.m. Sun",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 600,
+        "2": 242,
+        "3": 544,
+        "4": 1105,
+        "5": 1498
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJs8lGyt1zhlQRssgeHveYgiU&q=Canadian+Tire&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.2652952,
+        "longitude": -123.11378029999999
+    },
+    "plus_code": "7V8P+4F Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "East Vancouver",
+        "street": "2290 Cambie St",
+        "city": "Vancouver",
+        "postal_code": "V5Z 2T7",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "2702890913505396914",
+    "data_id": "0x548673ddca46c9b3:0x258298f71e1ec8b2",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [
+        {
+            "link": "https://www.google.ca/storefront/homepage?sfr=compass&lsf=seller:8421100,store:1653451260348380615,s:m&hl=fr&gl=ca&sts=13&sts=13",
+            "source": "Search items at this store"
+        }
+    ],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "Curbside pickup",
+                    "enabled": true
+                },
+                {
+                    "name": "Delivery",
+                    "enabled": true
+                },
+                {
+                    "name": "In-store pickup",
+                    "enabled": true
+                },
+                {
+                    "name": "In-store shopping",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair-accessible elevator",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible parking lot",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "offerings",
+            "name": "Offerings",
+            "options": [
+                {
+                    "name": "Repair services",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "recycling",
+            "name": "Recycling",
+            "options": [
+                {
+                    "name": "Batteries",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "payments",
+            "name": "Payments",
+            "options": [
+                {
+                    "name": "Credit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "Debit cards",
+                    "enabled": true
+                },
+                {
+                    "name": "NFC mobile payments",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMeCDFoUaDMMohquCAyXrZtJtEXHJyWD8E-lp4Q=w224-h398-k-no"
+        },
+        {
+            "about": "Latest",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMSTrtw-Q31QmWezzNL1TXotUP5lWzZ8KTAjT4=w224-h298-k-no"
+        },
+        {
+            "about": "Videos",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOX5GouaAtkG-ulOuI6hntDxpu-KD6HDT4mvygp=w529-h298-k-no"
+        },
+        {
+            "about": "Inside",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipM-QpFVOG4yvzBev9xkGwEKsJdFp9u8vOZzlrYA=w224-h298-k-no"
+        },
+        {
+            "about": "By owner",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPgCBfrR56V3sJ-xLn7ANB78YDAV6eq2BRvtko3=w529-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Yfy2W6ASwdyslYlz3bSIiQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=343.48184&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "9 a.m.-9 p.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "9 a.m.-9 p.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "9 a.m.-9 p.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "9 a.m.-9 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "9 a.m.-9 p.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "9 a.m.-9 p.m."
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "9 a.m.-9 p.m."
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "Been here a couple times as I've always gone to the Richmond locations. I was completely overwhelmed with the amount of products this location has. This is a good thing! I love walking through isles. Washroom is unbelievably clean! Comparing to the one we have here in Richmond. Both locations have run down dirty washrooms! I love the scenery and the background music as I went through the walk-a-lator. Good call on that! A couple things that turned a 5 star rating to a 4 are: The product that I was looking for, I did not find, and parking is not free... Actually, another one would be, there is a greeter, who does nothing but stare at you!",
+            "reviewer_name": "Jay A",
+            "rating": 4,
+            "review_text": "Been here a couple times as I've always gone to the Richmond locations. I was completely overwhelmed with the amount of products this location has. This is a good thing! I love walking through isles. Washroom is unbelievably clean! Comparing to the one we have here in Richmond. Both locations have run down dirty washrooms! I love the scenery and the background music as I went through the walk-a-lator. Good call on that! A couple things that turned a 5 star rating to a 4 are: The product that I was looking for, I did not find, and parking is not free... Actually, another one would be, there is a greeter, who does nothing but stare at you!",
+            "published_at": "7 months ago",
+            "published_at_date": "2023-03-24T16:57:08.965000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 63,
+            "total_number_of_photos_by_reviewer": 259,
+            "reviewer_url": "https://www.google.com/maps/contrib/102892011182605489743/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWiKOSVsd8SXbUWsBeRIzHPERanq3cOSFs_Mu2gG7nCSbiU=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOHrRlDhBSCVSYkfvbcig7Sp6Uoe_kmKyF68acB=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipNNvMjixM7iglSCTsRfRbkPqQq9zpgID2VN8kCl=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPc_9xGjyPDTAmLEwsQPC4kwbLpRq4X1Ge13_2r=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPEPKc5mW_TulLilw1bLjOMdYfweyQAHGZmLqj3=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMKVOj1GHr1-fnctjXrqzqImDZJv90DVV_Wmrg4=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMW9USCzERy5NHlt6JId5__I12iAN1Cz_T5wqcU=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOS2Vq9Jpat6jSBwyaRCEZLcN8K3R6ZTExCTdvB=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPfME_3OW00aoxEVc-qoc-fypjygctHClU0CMbF=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "No one was available to help in the key section for 15 minutes. When they did finally come they were able to replace my house key, as it was out of stock. I was told it would be back in stock for weeks or even months, for a common house key.\n\nThe lack of stock is understandable, but that lack of care from the staff there was really disappointing. I felt like I was being a burden trying to use their service.",
+            "reviewer_name": "Brendan G",
+            "rating": 2,
+            "review_text": "No one was available to help in the key section for 15 minutes. When they did finally come they were able to replace my house key, as it was out of stock. I was told it would be back in stock for weeks or even months, for a common house key.\n\nThe lack of stock is understandable, but that lack of care from the staff there was really disappointing. I felt like I was being a burden trying to use their service.",
+            "published_at": "3 months ago",
+            "published_at_date": "2023-07-23T20:20:15.180000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 17,
+            "total_number_of_photos_by_reviewer": 4,
+            "reviewer_url": "https://www.google.com/maps/contrib/109192270052502365228/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJv6c5EoFAqTb-i3HXC08Ldq8zeGzQ12-ODOuCn9ang=s120-c-rp-mo-ba2-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNGzb3rZKHXMgSjOd6aho0AFIAsPtCQMxUlOJYP=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "This is by far the best spot for anything automobile related. What truly sets this Canadian Tire apart, however, is their commitment to customer satisfaction. The entire team always go above and beyond to answer any questions or concerns and ultimately, to make sure your leave their facility with a smile on your face. The technicians always deliver high-quality work promptly, and their commitment to customer satisfaction is unparalleled. Keep up the great work!",
+            "reviewer_name": "Frederic Giard",
+            "rating": 5,
+            "review_text": "This is by far the best spot for anything automobile related. What truly sets this Canadian Tire apart, however, is their commitment to customer satisfaction. The entire team always go above and beyond to answer any questions or concerns and ultimately, to make sure your leave their facility with a smile on your face. The technicians always deliver high-quality work promptly, and their commitment to customer satisfaction is unparalleled. Keep up the great work!",
+            "published_at": "2 weeks ago",
+            "published_at_date": "2023-11-03T18:02:35.683000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 26,
+            "total_number_of_photos_by_reviewer": 1,
+            "reviewer_url": "https://www.google.com/maps/contrib/107175638664524685019/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIg-6tWwAHQ_-vciIyu8eIoYD9NUoQgQ3ViqOfP-aDXty8=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Excellent customer service, very friendly and helpful staff! I love the products at this store and some stuff can be surprisingly cheap especially when on sale! I definitely will be planning on going back as there is a wonderful selection of stuff to buy and good staff members there who are helpful!",
+            "reviewer_name": "Andrea Binette",
+            "rating": 5,
+            "review_text": "Excellent customer service, very friendly and helpful staff! I love the products at this store and some stuff can be surprisingly cheap especially when on sale! I definitely will be planning on going back as there is a wonderful selection of stuff to buy and good staff members there who are helpful!",
+            "published_at": "a week ago",
+            "published_at_date": "2023-11-10T23:49:51.425000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 6,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/108153095974111364434/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWZZ6CK7QALGvzd1BcahIRaWQb1Kqw05fyBam5jAe9_ciU=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Extremely Disappointed with Canadian Tire's Customer Service.\nI recently had an extremely disappointing experience at Canadian Tire at this location. I purchased a product that turned out to be defective just a day after purchase. Naturally, I returned to the store to request a refund or exchange.\nHowever, neither the supervisor nor the managers were willing to process the return simply because the packaging was open. This was perplexing as I had to open the packaging to use the product in the first place. When I asked for an exchange, I was informed that they did not have the item in stock.\nInstead of offering a satisfactory solution, they suggested that I purchase other items that I had no need for. The situation escalated to the point where they threatened to call the police and forcibly removed me from the store. To add insult to injury, my shopping was thrown towards me and then out of the store.\nThis experience has left me feeling extremely upset and disrespected. I strongly discourage anyone from shopping at this store due to their poor customer service and lack of understanding towards customers' rights.",
+            "reviewer_name": "Mojtaba Vatani",
+            "rating": 1,
+            "review_text": "Extremely Disappointed with Canadian Tire's Customer Service.\nI recently had an extremely disappointing experience at Canadian Tire at this location. I purchased a product that turned out to be defective just a day after purchase. Naturally, I returned to the store to request a refund or exchange.\nHowever, neither the supervisor nor the managers were willing to process the return simply because the packaging was open. This was perplexing as I had to open the packaging to use the product in the first place. When I asked for an exchange, I was informed that they did not have the item in stock.\nInstead of offering a satisfactory solution, they suggested that I purchase other items that I had no need for. The situation escalated to the point where they threatened to call the police and forcibly removed me from the store. To add insult to injury, my shopping was thrown towards me and then out of the store.\nThis experience has left me feeling extremely upset and disrespected. I strongly discourage anyone from shopping at this store due to their poor customer service and lack of understanding towards customers' rights.",
+            "published_at": "a month ago",
+            "published_at_date": "2023-09-28T04:16:38.934000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 3,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/118104647658725444200/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLTIto2IqWBEesJVjhLgfnAQ9l43O838byUyShbw96D=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "I enjoy shopping here immensely. Especially around the holidays, very exciting for me. I love how they have everything arranged, very easy to find what you are looking for. I can't wait until Halloween to go shopping for stuff or Christmas time, they always have beautiful displays. I love the lights and just about anything you can think of they have it all. Just beautiful.",
+            "reviewer_name": "Tim Riediger",
+            "rating": 5,
+            "review_text": "I enjoy shopping here immensely. Especially around the holidays, very exciting for me. I love how they have everything arranged, very easy to find what you are looking for. I can't wait until Halloween to go shopping for stuff or Christmas time, they always have beautiful displays. I love the lights and just about anything you can think of they have it all. Just beautiful.",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-08-30T02:38:18.257000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 17,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/117410990827176284371/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIAHYhQ6dhMeCgrYW8KFWKZe0cwVRIIuIyQxj-7LgQ9=s120-c-rp-mo-ba2-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Parking can be an issue. If you park on the street, entrance to the store is not overly convenient. I wouldn't want to attempted it with crutches or in a wheelchair. The store is massive and has pretty well anything you could think of AND at a competitive price.\n\nStaff members to answer any questions are in short supply. This has always been the case with any Canadian tire I have visited.\nThis store offers a large touch-screen marquee with a search feature. A few taps will show you where whatever you want is located, how many are stock, and whether it's an online-only product. KUDOS to CT for this, but it doesn't make up for their well earned reputation of being chronically short-staffed in experienced salespeople.\nWhen you do find someone, there's usually one or two people ahead of you.\nTO THEIR CREDIT, my experience has been that staff members are competently versed in the best and weakest points of a product and gear their advice towards you to getting the best value and fit to your particular needs.\nStill, unless you have unlimited time and patience, do your own due diligence BEFORE going to the store. This will prove expeditious and at the same time, help ensure your shopping experience doesn't devolve to an exercise in frustration. XoXo",
+            "reviewer_name": "Walter-KEMBLE WellBredNfed",
+            "rating": 4,
+            "review_text": "Parking can be an issue. If you park on the street, entrance to the store is not overly convenient. I wouldn't want to attempted it with crutches or in a wheelchair. The store is massive and has pretty well anything you could think of AND at a competitive price.\n\nStaff members to answer any questions are in short supply. This has always been the case with any Canadian tire I have visited.\nThis store offers a large touch-screen marquee with a search feature. A few taps will show you where whatever you want is located, how many are stock, and whether it's an online-only product. KUDOS to CT for this, but it doesn't make up for their well earned reputation of being chronically short-staffed in experienced salespeople.\nWhen you do find someone, there's usually one or two people ahead of you.\nTO THEIR CREDIT, my experience has been that staff members are competently versed in the best and weakest points of a product and gear their advice towards you to getting the best value and fit to your particular needs.\nStill, unless you have unlimited time and patience, do your own due diligence BEFORE going to the store. This will prove expeditious and at the same time, help ensure your shopping experience doesn't devolve to an exercise in frustration. XoXo",
+            "published_at": "a month ago",
+            "published_at_date": "2023-09-22T02:08:59.773000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 88,
+            "total_number_of_photos_by_reviewer": 42,
+            "reviewer_url": "https://www.google.com/maps/contrib/117092675432429844793/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWsCJRsCpu3rFl3hw957448NoGQ66pZ1ZpbiuWZi8rB-BX8=s120-c-rp-mo-ba5-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "God forbid the young kids they hire at this location have to do their jobs !\n\nI come here often, I spend alot of cash here and haven't had a problem before. Today I went in and bought a couple of things and when I couldn't find something I asked Employee #1 where it was. He had his back turned towards me and was slow and reluctant to turn around and assist. He told me the aisle where it was, but his attitude was like I was really putting him out by *GASP* asking him to do his job.\n\nWent to the aisle, item wasn't there, asking Employee #2, I asked him where said item was, he was looking through a  flyer intently, and again, his attitude was like \"how dare you ask me a question!?\" He muttered something and just pointed to the wall, I said I was looking for a specific item, he goes \"those ARE them\" (they were intact NOT them)  he had a major attitude with me, is this how kids act these days? I get it, you don't need any discernible skill to be a stock boy, but THE LEAST you could do is act like you like your job and be pleasant to customers. I would think that, that is the the bare minimum your hiring manager would want you to do, for your minimum wage job.\n\nEmployee #1 was a tall young man, fair hair and light eyes restocking in the tools section 230 ish November 4th, Employee #2 was \"Jack\" working the bike counter.",
+            "reviewer_name": "A.",
+            "rating": 1,
+            "review_text": "God forbid the young kids they hire at this location have to do their jobs !\n\nI come here often, I spend alot of cash here and haven't had a problem before. Today I went in and bought a couple of things and when I couldn't find something I asked Employee #1 where it was. He had his back turned towards me and was slow and reluctant to turn around and assist. He told me the aisle where it was, but his attitude was like I was really putting him out by *GASP* asking him to do his job.\n\nWent to the aisle, item wasn't there, asking Employee #2, I asked him where said item was, he was looking through a  flyer intently, and again, his attitude was like \"how dare you ask me a question!?\" He muttered something and just pointed to the wall, I said I was looking for a specific item, he goes \"those ARE them\" (they were intact NOT them)  he had a major attitude with me, is this how kids act these days? I get it, you don't need any discernible skill to be a stock boy, but THE LEAST you could do is act like you like your job and be pleasant to customers. I would think that, that is the the bare minimum your hiring manager would want you to do, for your minimum wage job.\n\nEmployee #1 was a tall young man, fair hair and light eyes restocking in the tools section 230 ish November 4th, Employee #2 was \"Jack\" working the bike counter.",
+            "published_at": "2 weeks ago",
+            "published_at_date": "2023-11-04T22:11:47.897000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 11,
+            "total_number_of_photos_by_reviewer": 1,
+            "reviewer_url": "https://www.google.com/maps/contrib/116702627792365921899/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWVYaMNybZV4_86Q7WttlGt-2499mLTklcYkEt65heKaT8=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

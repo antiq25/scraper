@@ -1,0 +1,356 @@
+{
+    "place_id": "ChIJkfWVdO9zhlQR92DRH884KUU",
+    "name": "Fitness World",
+    "description": null,
+    "reviews": 549,
+    "website": "https://www.fitnessworld.ca/locations/downtown/",
+    "owner": {
+        "id": "108436888354745508995",
+        "name": "Fitness World (Owner)",
+        "link": "https://www.google.com/maps/contrib/108436888354745508995"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMaD382fJpn8pnfiaOGCelXpRHyyM5uMoN95YBz=w408-h862-k-no",
+    "main_category": "Gym",
+    "categories": [
+        "Gym",
+        "Fitness center",
+        "Health spa",
+        "Indoor cycling",
+        "Personal trainer",
+        "Yoga studio"
+    ],
+    "rating": 4.3,
+    "workday_timing": "6 a.m.-10 p.m.",
+    "closed_on": [],
+    "phone": "(604) 558-4964",
+    "address": "Fitness World, 1214 Howe St, Vancouver, BC V6Z 1R5",
+    "review_keywords": [
+        {
+            "keyword": "personal trainer",
+            "count": 44
+        },
+        {
+            "keyword": "equipment",
+            "count": 42
+        },
+        {
+            "keyword": "goals",
+            "count": 20
+        },
+        {
+            "keyword": "pay",
+            "count": 16
+        },
+        {
+            "keyword": "working out",
+            "count": 14
+        },
+        {
+            "keyword": "management",
+            "count": 12
+        },
+        {
+            "keyword": "desk",
+            "count": 11
+        },
+        {
+            "keyword": "email",
+            "count": 8
+        },
+        {
+            "keyword": "steve nash",
+            "count": 7
+        },
+        {
+            "keyword": "floors",
+            "count": 5
+        }
+    ],
+    "link": "https://www.google.com/maps/place/Fitness+World/data=!4m7!3m6!1s0x548673ef7495f591:0x452938cf1fd160f7!8m2!3d49.2775605!4d-123.1273321!16s%2Fg%2F11jrl2q93t!19sChIJkfWVdO9zhlQR92DRH884KUU?authuser=0&hl=en&rclk=1",
+    "status": "Closed  Opens 8 a.m. Sun",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 70,
+        "2": 9,
+        "3": 16,
+        "4": 29,
+        "5": 425
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJkfWVdO9zhlQR92DRH884KUU&q=Fitness+World&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.2775605,
+        "longitude": -123.12733209999999
+    },
+    "plus_code": "7VHF+23 Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "Downtown Vancouver",
+        "street": "1214 Howe St",
+        "city": "Vancouver",
+        "postal_code": "V6Z 1R5",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "4983576924905365751",
+    "data_id": "0x548673ef7495f591:0x452938cf1fd160f7",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "service_options",
+            "name": "Service options",
+            "options": [
+                {
+                    "name": "Online classes",
+                    "enabled": true
+                }
+            ]
+        },
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMaD382fJpn8pnfiaOGCelXpRHyyM5uMoN95YBz=w224-h473-k-no"
+        },
+        {
+            "about": "Gym",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMYBFhYkFTtbYxd9huEHF2UpEPJxdAcx1CbJcEV=w224-h298-k-no"
+        },
+        {
+            "about": "Videos",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMsipYOBRL4b2KUG9BIirG9iLRu28C9-2pKfz-H=w224-h398-k-no"
+        },
+        {
+            "about": "By owner",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMgPbikI-UXo-W53kvldGUB-uyAhzAmCDZmcnA5=w569-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=3K9lfoAqAf4r-MtYQup9CQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=69.57309&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "6 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "6 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "6 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "6 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "6 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "8 a.m.-8 p.m."
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "8 a.m.-8 p.m."
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "Fairly friendly staff, some are more on the reserved side and don't come across as friendly but that's okay.\n\nA great selection of equipment spread out over two huge floors. Can be a little busy at times but everyone is pretty respectful.\n\nMy five star review goes to the trainers, specifically Ryan. During my time training with Ryan he's attentive to my goals and needs and aware of minor adjustments needed to see a change in posture, stance and aesthetics. Highly recommend training with him.",
+            "reviewer_name": "Saleste Mele",
+            "rating": 5,
+            "review_text": "Fairly friendly staff, some are more on the reserved side and don't come across as friendly but that's okay.\n\nA great selection of equipment spread out over two huge floors. Can be a little busy at times but everyone is pretty respectful.\n\nMy five star review goes to the trainers, specifically Ryan. During my time training with Ryan he's attentive to my goals and needs and aware of minor adjustments needed to see a change in posture, stance and aesthetics. Highly recommend training with him.",
+            "published_at": "a month ago",
+            "published_at_date": "2023-10-11T22:20:47.431000Z",
+            "response_from_owner_text": "Hi Saleste,\nWe appreciate the kind words! We love hearing from our members, especially when we're able to\nmake a positive difference in your fitness journey!\nI know Ryan works super hard to make our club the best place to achieve your fitness\ngoals, so I'll be sure to pass off your positive feedback to them.\nThanks again, see you in the club soon!\nJordan",
+            "response_from_owner_ago": "a week ago",
+            "response_from_owner_date": "2023-11-07T17:51:40.047000Z",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 16,
+            "total_number_of_photos_by_reviewer": 1,
+            "reviewer_url": "https://www.google.com/maps/contrib/112224938146920687739/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWCHGciwcehnIHb47UEmiv0nVPjd-PLM8NdR5fB7dRHCx0=s120-c-rp-mo-ba2-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "I had a great personal training session with Jared J here at Fitness World Howe and Davie. I highly recommend this coach he is super experienced. He knows about nutrition and how to put technique and fun together in a workout session. I was feeling the difference working out with him, his guidance was so much better than group sessions I had with coaches in the past. Another thing I like about my gym is how focused everyone is here when it comes to working out and how nice and friendly the staff is.",
+            "reviewer_name": "Salvador Cornelio Mari",
+            "rating": 5,
+            "review_text": "I had a great personal training session with Jared J here at Fitness World Howe and Davie. I highly recommend this coach he is super experienced. He knows about nutrition and how to put technique and fun together in a workout session. I was feeling the difference working out with him, his guidance was so much better than group sessions I had with coaches in the past. Another thing I like about my gym is how focused everyone is here when it comes to working out and how nice and friendly the staff is.",
+            "published_at": "8 months ago",
+            "published_at_date": "2023-03-12T18:16:13.340000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 91,
+            "total_number_of_photos_by_reviewer": 27,
+            "reviewer_url": "https://www.google.com/maps/contrib/106080646778464885538/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXZhT_FTlxylqPLNa9_paJ72aBi44n3Br7TbiKzraEFgZtz=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipNsSeU5RzdpnrU_aiweABNczk_2Vpt5tdXWxfna=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipMK6ILbiAoLm3kprplaxbW2vDp7kfW3rCHipmV_=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Overall not a bad gym, except for a couple things:\n1) to cancel you have to do a notice a month ahead as they don't have immediate cancellation\n2) They don't like to talk about extra payment , I had a medium subscription and asked if I can use a massage chair and will it be for free as I don't remember what was included. Then the other customer came and the girl just said the number of the chair. So I thought it's all good and was extra charged later.\nIt's cheap and it's good for the price and quality you get.\nUpdate: So, while I was waiting my cancellation I got x2 payment somehow",
+            "reviewer_name": "Veronika Sherriuble",
+            "rating": 2,
+            "review_text": "Overall not a bad gym, except for a couple things:\n1) to cancel you have to do a notice a month ahead as they don't have immediate cancellation\n2) They don't like to talk about extra payment , I had a medium subscription and asked if I can use a massage chair and will it be for free as I don't remember what was included. Then the other customer came and the girl just said the number of the chair. So I thought it's all good and was extra charged later.\nIt's cheap and it's good for the price and quality you get.\nUpdate: So, while I was waiting my cancellation I got x2 payment somehow",
+            "published_at": "3 months ago",
+            "published_at_date": "2023-07-21T22:44:41.353000Z",
+            "response_from_owner_text": "Hi Veronika,\nThank you for taking the time to leave a review. We appreciate all feedback, good or bad, as it helps us\nto become an even better facility for our members.\nMy name's Jordan and I'm the General Manager here. Would you be able to email me at gmdowntown@fitnessworld.ca and let me\nknow what we could do better for you?\nThanks, and have a great day,\nJordan",
+            "response_from_owner_ago": "a month ago",
+            "response_from_owner_date": "2023-10-10T18:56:23.213000Z",
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 1,
+            "reviewer_url": "https://www.google.com/maps/contrib/104595273539806621161/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWJ15nsRAhy_IFe-r1Vm8sCUziiGiRB0ScUkL7uC4Sntbeq=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "I joined this gym last month and I'm very happy with my decision. The gym is very nice and has all the equipment and facilities I need. The staff is very polite and helpful, especially Katy who helped me in the hassle free membership process. She was very friendly and professional and answered all my questions. I would recommend this gym to anyone who is looking for a great place to work out.",
+            "reviewer_name": "Siddharth Singh",
+            "rating": 5,
+            "review_text": "I joined this gym last month and I'm very happy with my decision. The gym is very nice and has all the equipment and facilities I need. The staff is very polite and helpful, especially Katy who helped me in the hassle free membership process. She was very friendly and professional and answered all my questions. I would recommend this gym to anyone who is looking for a great place to work out.",
+            "published_at": "6 months ago",
+            "published_at_date": "2023-05-09T00:04:36.955000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 7,
+            "total_number_of_photos_by_reviewer": 1,
+            "reviewer_url": "https://www.google.com/maps/contrib/104364238316762583464/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWSa18tPYGi-qGUULCSyH1EOxWL0RhlTvZc7grniQMRDV8=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Shota and Andrew are good personal trainers! I had a couple of sessions with Shota for deadlift. it was great. I also had the chance to learn deadlift with Andrew on Member Appreciation Day. He is also good! The gym is always busy when I'm there, but it's a nice place!",
+            "reviewer_name": "Taeny Kim",
+            "rating": 5,
+            "review_text": "Shota and Andrew are good personal trainers! I had a couple of sessions with Shota for deadlift. it was great. I also had the chance to learn deadlift with Andrew on Member Appreciation Day. He is also good! The gym is always busy when I'm there, but it's a nice place!",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-08T15:42:37.643000Z",
+            "response_from_owner_text": "Hi Taeny,\nWe appreciate the kind words! We love hearing from our members, especially when we're able to\nmake a positive difference in your fitness journey!\nI know Shota and Andrew work super hard to make our club the best place to achieve your fitness\ngoals, so I'll be sure to pass off your positive feedback to them.\nThanks again, see you in the club soon!\nJordan",
+            "response_from_owner_ago": "a week ago",
+            "response_from_owner_date": "2023-11-07T17:53:44.451000Z",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 124,
+            "total_number_of_photos_by_reviewer": 184,
+            "reviewer_url": "https://www.google.com/maps/contrib/100919464443396715123/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVb8MXwcg1zSC4K37VS1s9QNpqhxF1EIOyBWdgxRvYykSw=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Not bad, but could be better. You get what you pay for.\nImprovement:\n1- Cleanliness: the place is very dirty, the washrooms are smelly and disgusting sometimes\n2- Customer service: front desk people are bad  they have no idea how to deal with customers\n\nI consider myself a picky customer and  sometimes I expect a lot, but personally this location performance is way below average.",
+            "reviewer_name": "Erika Orjuela",
+            "rating": 2,
+            "review_text": "Not bad, but could be better. You get what you pay for.\nImprovement:\n1- Cleanliness: the place is very dirty, the washrooms are smelly and disgusting sometimes\n2- Customer service: front desk people are bad  they have no idea how to deal with customers\n\nI consider myself a picky customer and  sometimes I expect a lot, but personally this location performance is way below average.",
+            "published_at": "3 months ago",
+            "published_at_date": "2023-07-27T23:47:43.115000Z",
+            "response_from_owner_text": "Hi Erika,\nThank you for taking the time to leave a review. We appreciate all feedback, good or bad, as it helps us\nto become an even better facility for our members.\nMy name's Jordan and I'm the General Manager here. Would you be able to email me at gmdowntown@fitnessworld.ca and let me\nknow what we could do better for you?\nThanks, and have a great day,\nJordan",
+            "response_from_owner_ago": "2 months ago",
+            "response_from_owner_date": "2023-09-12T01:18:44.191000Z",
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 3,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/109924429463669134506/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVlJkj34eo7aeKaTNs0NeNTjLrvlQX8UYAT0d2qajyAruM=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Katy was very helpful, professional, courteous and solved my problem effortlessly. I am moving back to California, and needed to cancel my membership. Katy was able to work out a solution that avoided me paying out the rest of my term.\n\nAdditionally, the gym is spacious and well stocked with every possible machine and weight to effectively exercise every muscle in the body.\n\nI am also very impressed with the trainers. I was given an assessment and a free session when I started my membership. This helped me to make great strides towards my fitness goal.\n\nExcellent gym, great membership prices, highly recommend and if I am back in Vancouver I will definitely get another membership here! ",
+            "reviewer_name": "Tino Calenda",
+            "rating": 5,
+            "review_text": "Katy was very helpful, professional, courteous and solved my problem effortlessly. I am moving back to California, and needed to cancel my membership. Katy was able to work out a solution that avoided me paying out the rest of my term.\n\nAdditionally, the gym is spacious and well stocked with every possible machine and weight to effectively exercise every muscle in the body.\n\nI am also very impressed with the trainers. I was given an assessment and a free session when I started my membership. This helped me to make great strides towards my fitness goal.\n\nExcellent gym, great membership prices, highly recommend and if I am back in Vancouver I will definitely get another membership here! ",
+            "published_at": "6 months ago",
+            "published_at_date": "2023-05-08T22:58:57.661000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/100628669215755416237/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUS6JaTt3sdEy96uMaZNZbPB5mHaSrUswu92yRJL5sIKK84=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Love this gym at Downtown so far. There is so much equipment available to start you on your fitness journey. Also, there are classes available which I loved it and there are recovery machines to help you feel better.   It has a friendly and helpful staff, and cleaned constantly.",
+            "reviewer_name": "Stefany Martinez",
+            "rating": 5,
+            "review_text": "Love this gym at Downtown so far. There is so much equipment available to start you on your fitness journey. Also, there are classes available which I loved it and there are recovery machines to help you feel better.   It has a friendly and helpful staff, and cleaned constantly.",
+            "published_at": "5 months ago",
+            "published_at_date": "2023-05-24T18:10:04.191000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/114400940563113497372/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJ7ZYjY0HfdUzkKk1XGU6zI6JpSMEAungUbxAbi7pTy=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

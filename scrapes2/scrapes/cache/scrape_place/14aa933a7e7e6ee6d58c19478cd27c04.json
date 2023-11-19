@@ -1,0 +1,351 @@
+{
+    "place_id": "ChIJ2YV1WsZzhlQRWlMOIW6U6Pk",
+    "name": "Fitness World",
+    "description": null,
+    "reviews": 856,
+    "website": "https://www.fitnessworld.ca/locations/cambie/",
+    "owner": {
+        "id": "100623364942473717545",
+        "name": "Fitness World (Owner)",
+        "link": "https://www.google.com/maps/contrib/100623364942473717545"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMlnN_fJgJqOIGfQ3nSSZ1ryhakVnG_VbZvK33r=w408-h272-k-no",
+    "main_category": "Gym",
+    "categories": [
+        "Gym",
+        "Fitness center",
+        "Health spa",
+        "Indoor cycling",
+        "Personal trainer",
+        "Yoga studio"
+    ],
+    "rating": 4,
+    "workday_timing": "6 a.m.-10 p.m.",
+    "closed_on": [],
+    "phone": "(604) 558-4962",
+    "address": "Fitness World, 555 W 12th Ave, Vancouver, BC V5Z 3X7",
+    "review_keywords": [
+        {
+            "keyword": "personal training",
+            "count": 114
+        },
+        {
+            "keyword": "manager",
+            "count": 55
+        },
+        {
+            "keyword": "goals",
+            "count": 40
+        },
+        {
+            "keyword": "equipment",
+            "count": 39
+        },
+        {
+            "keyword": "desk",
+            "count": 39
+        },
+        {
+            "keyword": "working out",
+            "count": 36
+        },
+        {
+            "keyword": "fee",
+            "count": 30
+        },
+        {
+            "keyword": "pay",
+            "count": 28
+        },
+        {
+            "keyword": "contract",
+            "count": 18
+        },
+        {
+            "keyword": "harassed",
+            "count": 5
+        }
+    ],
+    "link": "https://www.google.com/maps/place/Fitness+World/data=!4m7!3m6!1s0x548673c65a7585d9:0xf9e8946e210e535a!8m2!3d49.2607234!4d-123.117342!16s%2Fg%2F11jq74kg6r!19sChIJ2YV1WsZzhlQRWlMOIW6U6Pk?authuser=0&hl=en&rclk=1",
+    "status": "Closed  Opens 7 a.m. Sun",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 140,
+        "2": 29,
+        "3": 46,
+        "4": 94,
+        "5": 547
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ2YV1WsZzhlQRWlMOIW6U6Pk&q=Fitness+World&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.260723399999996,
+        "longitude": -123.117342
+    },
+    "plus_code": "7V6M+73 Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "West Side",
+        "street": "555 W 12th Ave",
+        "city": "Vancouver",
+        "postal_code": "V5Z 3X7",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "18007806310762828634",
+    "data_id": "0x548673c65a7585d9:0xf9e8946e210e535a",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible parking lot",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMlnN_fJgJqOIGfQ3nSSZ1ryhakVnG_VbZvK33r=w447-h298-k-no"
+        },
+        {
+            "about": "Latest",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPqZf1grqB-xsDeadW89fcM94MOHOPP9QdkMea2=w224-h398-k-no"
+        },
+        {
+            "about": "Gym",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMnWpCu3RGSKjViGLNOq7YO-OfiXXLqK0qQ6IQK=w397-h298-k-no"
+        },
+        {
+            "about": "By owner",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOZ2Y_rSEmtDjk2ShwgQR3jGLDvqBQSqaqVi2q5=w397-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=VsP2g-mHgxVNHewwiOZLhA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=349.78995&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "6 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "6 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "6 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "6 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "6 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "7 a.m.-8 p.m."
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "7 a.m.-8 p.m."
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "I've been coming to this gym for a while as a guest, and I finally ended up subscribing. They have affordable packages befitting for your goals and plenty of clean and working equipment. However, keep in mind that it is usually crowded at peak times. Staff is friendly and willing to help you, Eve (personal trainers) helped me to identify exercise posture and muscle to be trained on. She was really sweet.\nOverall, I find this gym functional for workout beginners and experienced people. You can monitor your progress with a personal trainer or with the equipment available.",
+            "reviewer_name": "Karla Olguin",
+            "rating": 5,
+            "review_text": "I've been coming to this gym for a while as a guest, and I finally ended up subscribing. They have affordable packages befitting for your goals and plenty of clean and working equipment. However, keep in mind that it is usually crowded at peak times. Staff is friendly and willing to help you, Eve (personal trainers) helped me to identify exercise posture and muscle to be trained on. She was really sweet.\nOverall, I find this gym functional for workout beginners and experienced people. You can monitor your progress with a personal trainer or with the equipment available.",
+            "published_at": "11 months ago",
+            "published_at_date": "2022-12-12T23:18:20.064000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 6,
+            "total_number_of_reviews_by_reviewer": 145,
+            "total_number_of_photos_by_reviewer": 36,
+            "reviewer_url": "https://www.google.com/maps/contrib/116614622998251684521/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXHJ_vHaPKvocsaKjDVrNo9hum6I6lDxW11AjGNgq1YuYc=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipOXP-z3k8mLhYPvjSjBZ6Mb17k8rOvUDAtwoLoX=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPOgXhmai8ChUchOWYf-RolQNvayCx-no7NeH4J=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOHPgOs1AqNJxYFxwVaaRCTImgbyJMVGjZOYs5s=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Have been a member for >2 years, and still love it. I joined at some point in Covid and I was pretty grumpy... and this gym has helped me lose >30 pounds and make some big fitness gains. The manager (Dylan) is fantastic and relentlessly positive, and the staff is generally great. I recently experimented with some personal training with Mike and can't recommend him enough - he is super knowledgeable, patient, supportive, and knows how to push people really effectively. When I can afford training regularly, I'll try to get Mike - just a couple of professional moves away for me:) But my workouts with him were outstanding - highly highly recommend.",
+            "reviewer_name": "Leanne Ramer",
+            "rating": 5,
+            "review_text": "Have been a member for >2 years, and still love it. I joined at some point in Covid and I was pretty grumpy... and this gym has helped me lose >30 pounds and make some big fitness gains. The manager (Dylan) is fantastic and relentlessly positive, and the staff is generally great. I recently experimented with some personal training with Mike and can't recommend him enough - he is super knowledgeable, patient, supportive, and knows how to push people really effectively. When I can afford training regularly, I'll try to get Mike - just a couple of professional moves away for me:) But my workouts with him were outstanding - highly highly recommend.",
+            "published_at": "a month ago",
+            "published_at_date": "2023-10-04T15:53:29.569000Z",
+            "response_from_owner_text": "Hi Leanne, \n\nYou're the best. Thank you for the amazing comments.\n\nDylan Campanaro\nGeneral Manager",
+            "response_from_owner_ago": "a month ago",
+            "response_from_owner_date": "2023-10-10T20:12:00.634000Z",
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 5,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/107313421968895190036/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLkK5rpPxwNJmM_PAFg0Z8qvdfH5PHiuCm4S9Th7gkA=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "I have been doing personal training with Sarah H. for the past month and absolutely loving the sessions! She is so thoughtful and always encourages me to push myself so I can grow. I am excited to continue working with her!\n\nI also really appreciate how approachable and welcoming all the staff are. Members are usually pretty good about working in when it's busy too.\n\nIn general, I feel a lot safer in this gym than others I have been to (yay for being a woman ) because coaches are always around training someone and keeping an eye on things.",
+            "reviewer_name": "Jessica Luporini",
+            "rating": 5,
+            "review_text": "I have been doing personal training with Sarah H. for the past month and absolutely loving the sessions! She is so thoughtful and always encourages me to push myself so I can grow. I am excited to continue working with her!\n\nI also really appreciate how approachable and welcoming all the staff are. Members are usually pretty good about working in when it's busy too.\n\nIn general, I feel a lot safer in this gym than others I have been to (yay for being a woman ) because coaches are always around training someone and keeping an eye on things.",
+            "published_at": "3 months ago",
+            "published_at_date": "2023-08-10T00:34:04.336000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 4,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/114736479540145685760/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUx-qcXEVXvRU80qNCS0TTVRLatz6FrS8IHbyqbnR3sBA=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Love this place! My Personal Trainer Julie Tran has given me all the tools and resources to target my goals and feel amazing. She has been super supportive and has made me fall in love with fitness! 100% recommend training with her!!!",
+            "reviewer_name": "Emilia Aguilar",
+            "rating": 5,
+            "review_text": "Love this place! My Personal Trainer Julie Tran has given me all the tools and resources to target my goals and feel amazing. She has been super supportive and has made me fall in love with fitness! 100% recommend training with her!!!",
+            "published_at": "3 weeks ago",
+            "published_at_date": "2023-10-24T03:55:46.963000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 12,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/113467665896985626013/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJa369PEMJhuTMGFD4_3GDplpKI96YKn8gOdH-eXTrN0g=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "This is a great gym! A wide range of equipment, lots of different spaces to work out in and everyone is really friendly. They've got great massage chairs too.\nI've been doing personal training with Jason and would highly recommend.",
+            "reviewer_name": "Emily Paul",
+            "rating": 5,
+            "review_text": "This is a great gym! A wide range of equipment, lots of different spaces to work out in and everyone is really friendly. They've got great massage chairs too.\nI've been doing personal training with Jason and would highly recommend.",
+            "published_at": "a month ago",
+            "published_at_date": "2023-10-04T01:36:38.174000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/101932568658424166098/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIsGxrw245bDIk7Yv_IyNl2EZrdnTTA11VZ7PM35mZh=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "I have had such a wonderful experience working out at Fitness World Cambie location over the past couple years. It is an affordable gym with a decent variety of equipment. What makes this gym truly stand out are the employees. They put a smile on my face whenever I come to the gym and that is saying a lot since I usually arrive at 6am slightly sleepy and grumpy. I'd like to give a big shout out to Benny. He is one of the friendliest people I've ever met. He is very diligent, remembers everyone's names and it is clear he is passionate about his job and the members of Fitness World. Although there are larger gyms in the area, the sense of community Fitness World creates in their gym is unbeatable. Thanks for making all of my workouts such a pleasant experience.",
+            "reviewer_name": "Rachel Beckett",
+            "rating": 5,
+            "review_text": "I have had such a wonderful experience working out at Fitness World Cambie location over the past couple years. It is an affordable gym with a decent variety of equipment. What makes this gym truly stand out are the employees. They put a smile on my face whenever I come to the gym and that is saying a lot since I usually arrive at 6am slightly sleepy and grumpy. I'd like to give a big shout out to Benny. He is one of the friendliest people I've ever met. He is very diligent, remembers everyone's names and it is clear he is passionate about his job and the members of Fitness World. Although there are larger gyms in the area, the sense of community Fitness World creates in their gym is unbeatable. Thanks for making all of my workouts such a pleasant experience.",
+            "published_at": "2 weeks ago",
+            "published_at_date": "2023-10-31T22:42:12.089000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 4,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/110934754032352217844/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjX0lGBTc_yP6fpgyCUsILdBhACQXRvF_WZayqTzW2-hKj8=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Great, affordable gym to be working out at. The staff are honestly the friendliest I've met - especially Bennie! What a guy.\n\nI would also recommend getting a PT session from Alex. He was a fountain of knowledge, fixed issues that other PT's in previous gyms have completely missed, really pushed me as hard as I could and was super motivating the whole session. I am training for an Ironman and he was on it with the sports performance side. If I ever had any questions he was always available to message also.\n\nAs cringe as it sounds, I honestly feel so much more confident and happier following only a couple of weeks working with Alex. He also helped with a nutrition plan (which has always been my weak point!).\n\nThanks again Team!\n\nMark",
+            "reviewer_name": "Marky Travels",
+            "rating": 5,
+            "review_text": "Great, affordable gym to be working out at. The staff are honestly the friendliest I've met - especially Bennie! What a guy.\n\nI would also recommend getting a PT session from Alex. He was a fountain of knowledge, fixed issues that other PT's in previous gyms have completely missed, really pushed me as hard as I could and was super motivating the whole session. I am training for an Ironman and he was on it with the sports performance side. If I ever had any questions he was always available to message also.\n\nAs cringe as it sounds, I honestly feel so much more confident and happier following only a couple of weeks working with Alex. He also helped with a nutrition plan (which has always been my weak point!).\n\nThanks again Team!\n\nMark",
+            "published_at": "a month ago",
+            "published_at_date": "2023-10-18T04:16:00.217000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/112054481517090961520/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjW34onpxfHcBndNKivNZWUsda4S0OYfA61nw25Bq5F1L34=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Currently been going to this gym for the past couple of months, at first was bit iffy but turned out to be great since I joined with a personal Trainer there! At first was going for once a week which was fine budget wise but after awhile turned it to two times a week and am seeing better results, like how he teaches the exercises and isn't all that harsh when it comes to pushing through and finishing the reps, going fantastic and always do look forward to the PT sessions with Mike :D",
+            "reviewer_name": "Tanesha Johansen",
+            "rating": 5,
+            "review_text": "Currently been going to this gym for the past couple of months, at first was bit iffy but turned out to be great since I joined with a personal Trainer there! At first was going for once a week which was fine budget wise but after awhile turned it to two times a week and am seeing better results, like how he teaches the exercises and isn't all that harsh when it comes to pushing through and finishing the reps, going fantastic and always do look forward to the PT sessions with Mike :D",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-11T07:24:49.261000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/106940001326750301006/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIT3KvvaLifqb3gQvmyHV6_sblT8tZqzl5fwtfJNiKXAA=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

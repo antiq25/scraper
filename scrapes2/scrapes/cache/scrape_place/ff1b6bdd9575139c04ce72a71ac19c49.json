@@ -1,0 +1,351 @@
+{
+    "place_id": "ChIJ4zMyONhzhlQRRfD4ySb5r0o",
+    "name": "Fitness World",
+    "description": null,
+    "reviews": 649,
+    "website": "https://www.fitnessworld.ca/locations/kitsilano/",
+    "owner": {
+        "id": "114214983423004108479",
+        "name": "Fitness World (Owner)",
+        "link": "https://www.google.com/maps/contrib/114214983423004108479"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOwdMherR2dk2_UMAr7oijTwZ5g_692V1LJcuAG=w408-h612-k-no",
+    "main_category": "Gym",
+    "categories": [
+        "Gym",
+        "Fitness center",
+        "Health spa",
+        "Indoor cycling",
+        "Personal trainer",
+        "Yoga studio"
+    ],
+    "rating": 4.3,
+    "workday_timing": "6 a.m.-10 p.m.",
+    "closed_on": [],
+    "phone": "(604) 558-4968",
+    "address": "Fitness World, 2150 W Broadway #200, Vancouver, BC V6K 4L9",
+    "review_keywords": [
+        {
+            "keyword": "personal trainer",
+            "count": 58
+        },
+        {
+            "keyword": "desk",
+            "count": 32
+        },
+        {
+            "keyword": "goals",
+            "count": 21
+        },
+        {
+            "keyword": "working out",
+            "count": 18
+        },
+        {
+            "keyword": "women's",
+            "count": 16
+        },
+        {
+            "keyword": "fee",
+            "count": 15
+        },
+        {
+            "keyword": "steve nash",
+            "count": 7
+        },
+        {
+            "keyword": "wipes",
+            "count": 6
+        },
+        {
+            "keyword": "credit card",
+            "count": 6
+        },
+        {
+            "keyword": "policies",
+            "count": 5
+        }
+    ],
+    "link": "https://www.google.com/maps/place/Fitness+World/data=!4m7!3m6!1s0x548673d8383233e3:0x4aaff926c9f8f045!8m2!3d49.2636075!4d-123.1537636!16s%2Fg%2F11jq77jgkr!19sChIJ4zMyONhzhlQRRfD4ySb5r0o?authuser=0&hl=en&rclk=1",
+    "status": "Closed  Opens 8 a.m. Sun",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 78,
+        "2": 18,
+        "3": 33,
+        "4": 33,
+        "5": 487
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ4zMyONhzhlQRRfD4ySb5r0o&q=Fitness+World&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.2636075,
+        "longitude": -123.15376359999999
+    },
+    "plus_code": "7R7W+CF Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "West Side",
+        "street": "2150 W Broadway #200",
+        "city": "Vancouver",
+        "postal_code": "V6K 4L9",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "5381794024723640389",
+    "data_id": "0x548673d8383233e3:0x4aaff926c9f8f045",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible parking lot",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOwdMherR2dk2_UMAr7oijTwZ5g_692V1LJcuAG=w224-h336-k-no"
+        },
+        {
+            "about": "Latest",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipNNrYpeDFdEoID86Hvm4YQav9irwhdytvZpm3Fq=w397-h298-k-no"
+        },
+        {
+            "about": "Videos",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipONbOJIIX-weT8LRBvIrqEkw5FGzS-oU4cVAr5q=w224-h497-k-no"
+        },
+        {
+            "about": "Gym",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOASh8Ix_3oYSYUWuSusTdDbITFOxDKW4ckeCsP=w397-h298-k-no"
+        },
+        {
+            "about": "By owner",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOUuheb7TI3R5x4wo79bKAH43k9Ajmt-ZLZjxWt=w397-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=PAbrlIITj7e3i3k6vDTiMw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=207.04051&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "6 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "6 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "6 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "6 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "6 a.m.-10 p.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "8 a.m.-8 p.m."
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "8 a.m.-8 p.m."
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "As a man who just turned 40 and has never been to a gym in his life, doing three personal trainer sessions really helped me get started and gave me the confidence to go to the gym regularly.\n\nMy trainer Dylan Hunt was absolutely fantastic and always checks in on me when he sees me at the gym. This is a really busy gym but they make sure you feel a part of the community and everyone is super helpful.\n\nBig shout out to Dylan though, he made everything super easy to understand and gave me a great work out plan. I love catching up with him when I see him",
+            "reviewer_name": "Alan Hennessy",
+            "rating": 5,
+            "review_text": "As a man who just turned 40 and has never been to a gym in his life, doing three personal trainer sessions really helped me get started and gave me the confidence to go to the gym regularly.\n\nMy trainer Dylan Hunt was absolutely fantastic and always checks in on me when he sees me at the gym. This is a really busy gym but they make sure you feel a part of the community and everyone is super helpful.\n\nBig shout out to Dylan though, he made everything super easy to understand and gave me a great work out plan. I love catching up with him when I see him",
+            "published_at": "a month ago",
+            "published_at_date": "2023-10-17T00:00:37.651000Z",
+            "response_from_owner_text": "Hi Alan,\n\nWe are so happy to see your feedback and glad that you enjoy your personal training sessions with Dylan! It is never too late to start weight training and taking care of your health :) This is what we take pride of as a trainer is to help our clients to achieve their fitness goals.\n\nAgain, thank you for your positive comments. Enjoy your workout!\n\nEve \nGeneral Manager",
+            "response_from_owner_ago": "3 weeks ago",
+            "response_from_owner_date": "2023-10-24T21:52:22.044000Z",
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 4,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/101184590182646284461/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJ6e0aO8rYuYmFt5-j3tGz_3RL-i4ol5VmId323WFVe=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Jogpaul is an exceptional personal trainer! His dedication and expertise transformed my fitness journey, helping me reach goals I never thought possible. The results speak volumes, and I couldn't be happier with my progress. Highly recommended for anyone seeking a motivating and knowledgeable fitness partner!",
+            "reviewer_name": "thezyth",
+            "rating": 5,
+            "review_text": "Jogpaul is an exceptional personal trainer! His dedication and expertise transformed my fitness journey, helping me reach goals I never thought possible. The results speak volumes, and I couldn't be happier with my progress. Highly recommended for anyone seeking a motivating and knowledgeable fitness partner!",
+            "published_at": "a month ago",
+            "published_at_date": "2023-09-22T00:34:03.452000Z",
+            "response_from_owner_text": "Hi Thezyth,\n\nThank you for your positive feedback. We are extremely happy that you are seeing results with our personal trainer Jogpaul. Our personal trainer do provide a great training program with nutrition supports to help our clients to achieve their fitness goals!\n\nEve\nGeneral Manager",
+            "response_from_owner_ago": "a month ago",
+            "response_from_owner_date": "2023-09-26T22:35:24.728000Z",
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 4,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/100418288332568473437/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLOLTzQqIKddVdvmkQ2PizP6-TTtAy4iCpkh7PmGr8N=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Decent Equipment, friendly staff but when I switched Gyms due to work reasons, I was informed I would have to pay the next two bills (1 month) + an upcoming $50 Annual Enhancement Fee before cancellation. Feeling a bit robbed by their policies.",
+            "reviewer_name": "Neo",
+            "rating": 1,
+            "review_text": "Decent Equipment, friendly staff but when I switched Gyms due to work reasons, I was informed I would have to pay the next two bills (1 month) + an upcoming $50 Annual Enhancement Fee before cancellation. Feeling a bit robbed by their policies.",
+            "published_at": "2 weeks ago",
+            "published_at_date": "2023-11-05T01:47:39.415000Z",
+            "response_from_owner_text": "Hi Neo,\n\nThank you for writing a review. We are glad that you enjoyed our equipment and our staff are friendly to welcome all members.\n\nIf you'd like to talk more, please feel free to reach out to me personally at GMKitsilano@fitnessworld.ca\n\nThanks again,\nEve\nGeneral Manager",
+            "response_from_owner_ago": "a week ago",
+            "response_from_owner_date": "2023-11-07T22:36:55.832000Z",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 3,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/107782317620283204252/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUniHinEFYmmWP6jZoMh9_F2kBwGHkZBmXldIvBEXJ8Hnk=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Newcomer to the gym, delighted with the facilities! Great experience with PT Alex S who ran through a personal trainer session with me. Showed a great mix of technical knowledge, enthusiasm, and support that made it so enjoyable! Really happy with things",
+            "reviewer_name": "Michael D",
+            "rating": 5,
+            "review_text": "Newcomer to the gym, delighted with the facilities! Great experience with PT Alex S who ran through a personal trainer session with me. Showed a great mix of technical knowledge, enthusiasm, and support that made it so enjoyable! Really happy with things",
+            "published_at": "3 months ago",
+            "published_at_date": "2023-08-07T19:11:37.163000Z",
+            "response_from_owner_text": "Hi Michael,\n\nThank you for your review! We love hearing from our members, especially newcomers when we are able to make a positive change in your fitness experience!\n\nI know Alex S works super hard to help our members and clients to achieve your fitness goals, so I'll be sure to pass off your positive feedback to him and the team.\n\nThanks again,\nEve\nGeneral Manager",
+            "response_from_owner_ago": "2 months ago",
+            "response_from_owner_date": "2023-08-31T22:19:13.159000Z",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/104691604757876866221/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKop_QqP9yMmz3N9d6Bd4oj5wYWnx5TKcpHqyewCmPN=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "I couldn't find any comment on the parking situation. Yes there is parking but it is very limited. People are driving on each other to get one during rush hours. Due to my job, I have to go there during the rush hours. It is hard to find a place to work out let alone finding an empty machine. The only good thing about the place is that they have a lot of cardio machines. The place is relatively clean when you consider the volume of people visiting. Good place to start working out but definitely not a place to go if you are experienced.",
+            "reviewer_name": "Hal K",
+            "rating": 2,
+            "review_text": "I couldn't find any comment on the parking situation. Yes there is parking but it is very limited. People are driving on each other to get one during rush hours. Due to my job, I have to go there during the rush hours. It is hard to find a place to work out let alone finding an empty machine. The only good thing about the place is that they have a lot of cardio machines. The place is relatively clean when you consider the volume of people visiting. Good place to start working out but definitely not a place to go if you are experienced.",
+            "published_at": "3 weeks ago",
+            "published_at_date": "2023-10-27T05:24:46.937000Z",
+            "response_from_owner_text": "Hi Hal,\n\nThank you for taking the time to write this review. We are happy to hear your experience with our equipment and cleanliness. \n\nHowever, we are sorry to hear about the parking situation in the building. I understand that it could get busy over the peak hours. May you have any other concerns, you can reach me at GMKitsilano@fitnessworld.ca\n\nThanks again for your feedback,\nEve\nGeneral Manager",
+            "response_from_owner_ago": "a week ago",
+            "response_from_owner_date": "2023-11-07T22:20:01.932000Z",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 113,
+            "total_number_of_photos_by_reviewer": 7,
+            "reviewer_url": "https://www.google.com/maps/contrib/117380690650387137424/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVshbokgWUsm6QMJirqAf8HiC-02vB8i4yBhaAL6S9oFeI=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Jogpaul is the best personal trainer out there! If you're looking to get a personal trainer, highly recommend asking for him. My goal was to put on more muscle and we did exactly that. All of our sessions were fun and challenging at the same time. Definitely made me look forward to our sessions. I would recommend him to my friends and family.",
+            "reviewer_name": "Simran Nahal",
+            "rating": 5,
+            "review_text": "Jogpaul is the best personal trainer out there! If you're looking to get a personal trainer, highly recommend asking for him. My goal was to put on more muscle and we did exactly that. All of our sessions were fun and challenging at the same time. Definitely made me look forward to our sessions. I would recommend him to my friends and family.",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-05T00:53:12.602000Z",
+            "response_from_owner_text": "Hi Simran,\n\nThis review made our day! It's always great to hear how our personal trainer can help our members to accomplish their fitness goals! \n\nI know Jogpaul really makes a difference with his clients and provides quality service. Thank you for your support and review.\n\nEve \nGeneral Manager",
+            "response_from_owner_ago": "a month ago",
+            "response_from_owner_date": "2023-09-26T21:51:49.610000Z",
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 3,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/113037209572923029563/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJZoXDU3zRvvhfAFIf_6LfWj98Sr2Y3Tm_r6Eiuj4wO=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "I recommend this gym - I've been taking PT with Jogpaul for a couple of months and have only praise to share! He's a genuine guy that won't beat around the bush - his straightforward demeanor and approach to training makes working out with him effective. It's refreshing to see a PT with real passion behind his work and it absolutely shows in what he puts on the table and the energy he brings to sessions ",
+            "reviewer_name": "Ryan Smith",
+            "rating": 5,
+            "review_text": "I recommend this gym - I've been taking PT with Jogpaul for a couple of months and have only praise to share! He's a genuine guy that won't beat around the bush - his straightforward demeanor and approach to training makes working out with him effective. It's refreshing to see a PT with real passion behind his work and it absolutely shows in what he puts on the table and the energy he brings to sessions ",
+            "published_at": "a month ago",
+            "published_at_date": "2023-09-21T02:21:48.468000Z",
+            "response_from_owner_text": "Hi Ryan,\n\nThank you for your review and we are glad that you enjoy your training sessions with Jogpaul! Passion is one of our core values in Fitness World! We do take pride of that and help our clients to success!\n\nThanks again for your review,\nEve\nGeneral Manager",
+            "response_from_owner_ago": "a month ago",
+            "response_from_owner_date": "2023-09-26T22:29:38.710000Z",
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 3,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/117482747969364513850/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJ6mpeo-Sk0Yr7xgqdOA33Tt49aiDik1HflmiElZF_M=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Paul is hands down the worst trainer I've ever had the misfortune of meeting.\n\nHighly unprofessional, socially awkward, inappropriate and downright condescending.\n\n1. Within minutes of meeting him for the very first time ever, he proceeded to talk to me about his dating life and how he has dated girls at the gym in the past, how they \"ghosted\" him and how he actively tries to meet chicks at the gym.\n\n2. When I made a mistake while counting reps during one of the exercises, he straight up said \"wow, you\nsuck at math\". How encouraging!\n\n3. Being new to fitness, I asked him if I could wear weightlifting gloves to ease  the pain from my calluses and he proceeded to tell me, \"that's kind of embarrassing cause you're lifting light weights\"\n\n4. The cherry on top of this is that he was unable to physically perform some of the exercises he was showing me how to do. Surely being fit and in shape is the most basic fundamental requirement to being a personal trainer?\n\nI would encourage all women (and those new to fitness) to stay clear from this incredibly unpleasant human being",
+            "reviewer_name": "Lacky",
+            "rating": 1,
+            "review_text": "Paul is hands down the worst trainer I've ever had the misfortune of meeting.\n\nHighly unprofessional, socially awkward, inappropriate and downright condescending.\n\n1. Within minutes of meeting him for the very first time ever, he proceeded to talk to me about his dating life and how he has dated girls at the gym in the past, how they \"ghosted\" him and how he actively tries to meet chicks at the gym.\n\n2. When I made a mistake while counting reps during one of the exercises, he straight up said \"wow, you\nsuck at math\". How encouraging!\n\n3. Being new to fitness, I asked him if I could wear weightlifting gloves to ease  the pain from my calluses and he proceeded to tell me, \"that's kind of embarrassing cause you're lifting light weights\"\n\n4. The cherry on top of this is that he was unable to physically perform some of the exercises he was showing me how to do. Surely being fit and in shape is the most basic fundamental requirement to being a personal trainer?\n\nI would encourage all women (and those new to fitness) to stay clear from this incredibly unpleasant human being",
+            "published_at": "a week ago",
+            "published_at_date": "2023-11-09T01:21:13.132000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 34,
+            "total_number_of_photos_by_reviewer": 3,
+            "reviewer_url": "https://www.google.com/maps/contrib/106687945049709162481/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocIMesec_k97Ngt0IMYesTE7mKBycP-LXirUaTml5JgK=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

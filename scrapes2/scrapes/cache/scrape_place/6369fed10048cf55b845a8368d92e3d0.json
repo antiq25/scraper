@@ -1,0 +1,353 @@
+{
+    "place_id": "ChIJb8VS88dyhlQRFGAEVfZScSY",
+    "name": "Gold's Gym University Market Place",
+    "description": null,
+    "reviews": 425,
+    "website": "https://goldsgymbc.ca/ubc-gym",
+    "owner": {
+        "id": "115284004878927636134",
+        "name": "Gold's Gym University Market Place (Owner)",
+        "link": "https://www.google.com/maps/contrib/115284004878927636134"
+    },
+    "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPpmlOT9KOTbH_U7nv9e1-RGYc9x5JC-mZEe4fA=w408-h272-k-no",
+    "main_category": "Gym",
+    "categories": [
+        "Gym",
+        "Fitness center",
+        "Personal trainer",
+        "Physical fitness program",
+        "Weight loss service",
+        "Weightlifting area",
+        "Women's personal trainer"
+    ],
+    "rating": 4.1,
+    "workday_timing": "6 a.m.-10:30 p.m.",
+    "closed_on": [],
+    "phone": "(604) 224-4699",
+    "address": "Gold's Gym University Market Place, 2155 Allison Rd, Vancouver, BC V6T 1T5",
+    "review_keywords": [
+        {
+            "keyword": "equipment",
+            "count": 37
+        },
+        {
+            "keyword": "fee",
+            "count": 16
+        },
+        {
+            "keyword": "students",
+            "count": 14
+        },
+        {
+            "keyword": "contract",
+            "count": 14
+        },
+        {
+            "keyword": "plan",
+            "count": 14
+        },
+        {
+            "keyword": "campus",
+            "count": 13
+        },
+        {
+            "keyword": "deadlift",
+            "count": 8
+        },
+        {
+            "keyword": "employee",
+            "count": 6
+        },
+        {
+            "keyword": "sponsor",
+            "count": 5
+        },
+        {
+            "keyword": "session",
+            "count": 5
+        }
+    ],
+    "link": "https://www.google.com/maps/place/Gold%E2%80%99s+Gym+University+Market+Place/data=!4m7!3m6!1s0x548672c7f352c56f:0x267152f655046014!8m2!3d49.2661725!4d-123.2423678!16s%2Fg%2F1tdd0ccn!19sChIJb8VS88dyhlQRFGAEVfZScSY?authuser=0&hl=en&rclk=1",
+    "status": "Closed  Opens 8 a.m. Sun",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 72,
+        "2": 17,
+        "3": 14,
+        "4": 15,
+        "5": 307
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJb8VS88dyhlQRFGAEVfZScSY&q=Gold%E2%80%99s+Gym+University+Market+Place&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.266172499999996,
+        "longitude": -123.2423678
+    },
+    "plus_code": "7Q85+F3 Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "UBC",
+        "street": "2155 Allison Rd",
+        "city": "Vancouver",
+        "postal_code": "V6T 1T5",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "2770086463751348244",
+    "data_id": "0x548672c7f352c56f:0x267152f655046014",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [
+        {
+            "id": "accessibility",
+            "name": "Accessibility",
+            "options": [
+                {
+                    "name": "Wheelchair-accessible entrance",
+                    "enabled": true
+                },
+                {
+                    "name": "Wheelchair-accessible parking lot",
+                    "enabled": true
+                }
+            ]
+        }
+    ],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipPpmlOT9KOTbH_U7nv9e1-RGYc9x5JC-mZEe4fA=w446-h298-k-no"
+        },
+        {
+            "about": "Gym",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipN3uyPotd48zeS-UTyi3Uxvo_b3P84Cy5Wi7HF1=w446-h298-k-no"
+        },
+        {
+            "about": "Videos",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipO4CGUSkh5pO7EcylkAABVmHId7p51l_ziKMcZm=w529-h298-k-no"
+        },
+        {
+            "about": "By owner",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipMTG6a4Ooa3eYtNTfuNrqlW2L92xsMM25n6Muqo=w446-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=thhqhhTAjL7-AKa08BSamQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=162.8621&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "6 a.m.-10:30 p.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "6 a.m.-10:30 p.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "6 a.m.-10:30 p.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "6 a.m.-10:30 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "6 a.m.-9:30 p.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "8 a.m.-8 p.m."
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "8 a.m.-7 p.m."
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "The parking lot in the basement, especially this spot has no \"do not back in\" sign although the spot next to it has it. Don't back in on that spot. The yellow frame is not visible on the rear mirror nor the camera when you back up. That's the bad part about this gym. Gym itself is good though. But there goes my 800 dollars.",
+            "reviewer_name": "Steve Weon",
+            "rating": 1,
+            "review_text": "The parking lot in the basement, especially this spot has no \"do not back in\" sign although the spot next to it has it. Don't back in on that spot. The yellow frame is not visible on the rear mirror nor the camera when you back up. That's the bad part about this gym. Gym itself is good though. But there goes my 800 dollars.",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-08-31T19:47:50.786000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 3,
+            "total_number_of_reviews_by_reviewer": 4,
+            "total_number_of_photos_by_reviewer": 5,
+            "reviewer_url": "https://www.google.com/maps/contrib/106511461669411089942/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjW172m-QVJAuzQFQdp1aKdILljCeG_dJ40PxT1swWSZSA=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMtGclSciJrYjdQ2dLNOhsDbj9KGndN2xtn0ZlM=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipO_3AFTLp7BZInrEKJxhuFbPd_UP451KX0EgC6V=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipOZVqMIdC9LXHZPSRlyXakqMC7qxuJuAi9Lxj1s=w150-h150-k-no-p",
+                "https://lh5.googleusercontent.com/p/AF1QipPQCH2Mgfy9MKDJPYrAiRvVkBVhvQgGC353VXnI=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "I have been working out for almost 9 months with the Gold's Gym University Market Place and It has satisfied my expectations so far. There are drawbacks that if it could be addressed, I'd be happier. 1- for a reason they removed the paper towels from the men's locker room and the hand dryer is the noisiest dryer that I have ever seen. 2- More bench presses are needed. I always need to wait a long time to do a bench press.",
+            "reviewer_name": "Ali Khajezade",
+            "rating": 4,
+            "review_text": "I have been working out for almost 9 months with the Gold's Gym University Market Place and It has satisfied my expectations so far. There are drawbacks that if it could be addressed, I'd be happier. 1- for a reason they removed the paper towels from the men's locker room and the hand dryer is the noisiest dryer that I have ever seen. 2- More bench presses are needed. I always need to wait a long time to do a bench press.",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-05T20:29:10.222000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/104931934750293558497/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocI4rq2IP-CIqGhh7FgdNFi6PFnzwtVMfInkJ_iVGgbX=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Outdated equipment, horrible staff except for a few, no maintenance work, too busy with too many dumb annoying students wanting attention on social media for their lackluster workouts & the guys are insufferable simps that need to talk to & bother everyone for self benefit with no self awareness & a ton of half naked women giving each workout 25 percent at best & 100 percent \"look at me but don't approach me vibes.\" Place is a Effing joke. Do not expect to meet good people. Nice people have agendas too & they will talk to you & suck the soul out of every workout you try to do.",
+            "reviewer_name": "Apple Bite",
+            "rating": 1,
+            "review_text": "Outdated equipment, horrible staff except for a few, no maintenance work, too busy with too many dumb annoying students wanting attention on social media for their lackluster workouts & the guys are insufferable simps that need to talk to & bother everyone for self benefit with no self awareness & a ton of half naked women giving each workout 25 percent at best & 100 percent \"look at me but don't approach me vibes.\" Place is a Effing joke. Do not expect to meet good people. Nice people have agendas too & they will talk to you & suck the soul out of every workout you try to do.",
+            "published_at": "a month ago",
+            "published_at_date": "2023-10-02T16:54:30.144000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/111640880103641944299/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUfgIx6Ct-IoOleH6Tt-ZSakV6_lxpJxbN4MJEeaq1LMJk=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "A great gym with good equipment and friendly staff. The main reason for the review is to flag how helpful Yash Modi was for myself and my partner. As a member of the gym's staff, he was incredibly friendly, informative and provided great advice around membership.\n\nWould recommend asking for him if you're looking for membership information.",
+            "reviewer_name": "Rupert O'Donovan",
+            "rating": 5,
+            "review_text": "A great gym with good equipment and friendly staff. The main reason for the review is to flag how helpful Yash Modi was for myself and my partner. As a member of the gym's staff, he was incredibly friendly, informative and provided great advice around membership.\n\nWould recommend asking for him if you're looking for membership information.",
+            "published_at": "4 months ago",
+            "published_at_date": "2023-06-30T18:57:00.232000Z",
+            "response_from_owner_text": "Hi, Rupert. Thanks for taking the time to share your positive experience. We truly appreciate it! - Gold's Gym University Market Place Team.\r",
+            "response_from_owner_ago": "4 months ago",
+            "response_from_owner_date": "2023-06-30T20:33:44.680000Z",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/113735620317563397157/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJKR0pMt2o3QMPbIB4FJwJAW9u9h_3CMdNVxiN9yXM=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Honestly this place doesn't even deserve one star.\nHere is the thing. I've heard golds gym ages ago also had an amazing tour in LA's where the staffs are also super friendly.Since i have membership with good life i didn't know the golds gym is also running business in Canada. So recently I've booked a free one day pass and really looking forward.After 1hr drive from where i live to UBC golds gym( they have four locations, UBC,west broadway. Langley and another i couldn't remember). I planned to go for a run after work out so i chose ubc one. Ok direct to the point now. I was told unfortunately I'm not allowed to work out here cuz i don't live near by within 10km or you can become the membership with us then i asked them to prove that regulation cuz i wouldn't even come if i saw this information. Then they showed me a sentence on the website says must be local resident. Please tell me how to define LOCAL. No matter which location i chose will be out of 10km. At the end i was told either pay 15 bucks or leave. Really don't wanna ruined my day so i paid. Booked a one day free pass turns out been charged. Hilarious. Besides that. All the equipments are super old. Oldies but not goodies.",
+            "reviewer_name": "Chris Chen",
+            "rating": 1,
+            "review_text": "Honestly this place doesn't even deserve one star.\nHere is the thing. I've heard golds gym ages ago also had an amazing tour in LA's where the staffs are also super friendly.Since i have membership with good life i didn't know the golds gym is also running business in Canada. So recently I've booked a free one day pass and really looking forward.After 1hr drive from where i live to UBC golds gym( they have four locations, UBC,west broadway. Langley and another i couldn't remember). I planned to go for a run after work out so i chose ubc one. Ok direct to the point now. I was told unfortunately I'm not allowed to work out here cuz i don't live near by within 10km or you can become the membership with us then i asked them to prove that regulation cuz i wouldn't even come if i saw this information. Then they showed me a sentence on the website says must be local resident. Please tell me how to define LOCAL. No matter which location i chose will be out of 10km. At the end i was told either pay 15 bucks or leave. Really don't wanna ruined my day so i paid. Booked a one day free pass turns out been charged. Hilarious. Besides that. All the equipments are super old. Oldies but not goodies.",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-09-03T17:04:42.217000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/116102914702817908524/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVDCha8prMP6Au3USCwzF3ck7yI-ZYqY0ZavwZAqqqLmw=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Golds gym has an amazing environment for people anywhere along their gym journey. The staff are really friendly. The fitness consultant shaiyan has a lot of knowledge and gives great tips to plan my workout.",
+            "reviewer_name": "advay Patodia",
+            "rating": 5,
+            "review_text": "Golds gym has an amazing environment for people anywhere along their gym journey. The staff are really friendly. The fitness consultant shaiyan has a lot of knowledge and gives great tips to plan my workout.",
+            "published_at": "5 months ago",
+            "published_at_date": "2023-06-07T21:34:13.970000Z",
+            "response_from_owner_text": "Thank you so much for your kind words, Advay. We really appreciate you taking the time to share your positive experience with us. Warmly, Gold's Gym University Market Place Team.",
+            "response_from_owner_ago": "5 months ago",
+            "response_from_owner_date": "2023-06-08T22:45:05.753000Z",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/100158808703444278722/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLMtVytckjRWl8tDfY8q_RN4QoVjnIqZcLLqt_88itc=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "The staff are really nice and pleasant. There is a good variety of free weights and machines. The negative is waiting for weeks for a machine to get repaired. For a name like Golds, customers shouldn't have to wait weeks for repairs. Currently, the leg press, biceps curls, and bench are all down. Otherwise, its a solid gym.",
+            "reviewer_name": "John Favela",
+            "rating": 3,
+            "review_text": "The staff are really nice and pleasant. There is a good variety of free weights and machines. The negative is waiting for weeks for a machine to get repaired. For a name like Golds, customers shouldn't have to wait weeks for repairs. Currently, the leg press, biceps curls, and bench are all down. Otherwise, its a solid gym.",
+            "published_at": "6 months ago",
+            "published_at_date": "2023-04-26T21:52:09.482000Z",
+            "response_from_owner_text": "\nThank you for taking the time to leave us a review, John. We put great effort into creating positive member experiences, and we're sorry to hear that we missed the mark here. We hope to ensure a positive experience with us moving forward. Thank you, Gold's Gym University Market Place Team.\n",
+            "response_from_owner_ago": "6 months ago",
+            "response_from_owner_date": "2023-04-28T03:02:34.640000Z",
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/105031935216341962091/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXchmhazul8OftoTLEfKodgLZc5pmzurPvHEWGJ4qOs4PE=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "the customer service here was amazing: front desk was super receptive even though I was new to this gym! Will definitely be considering joining :)",
+            "reviewer_name": "Nikita Li",
+            "rating": 5,
+            "review_text": "the customer service here was amazing: front desk was super receptive even though I was new to this gym! Will definitely be considering joining :)",
+            "published_at": "5 months ago",
+            "published_at_date": "2023-06-07T22:41:48.513000Z",
+            "response_from_owner_text": "Hi, Nikita. Thanks for the review! We appreciate the kind words and are glad we could provide you with a positive fitness experience at Gold's Gym University Market Place. Kindly, Gold's Gym University Market Place Team.\r",
+            "response_from_owner_ago": "5 months ago",
+            "response_from_owner_date": "2023-06-08T22:45:55.715000Z",
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/101562609286040149297/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWRaMfyJxd1H90DxPLKeylQ2L7DFIT5olhqKDXXKLPdCUIl=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

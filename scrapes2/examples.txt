@@ -1,0 +1,15 @@
+Generate Data -----------------------------
+
+curl -X POST http://localhost:3000/collect-reviews \
+-H "Content-Type: application/json" \
+-d '{"companyNames": ["Home Depot", "Canadian Tire"], "companyLocations": ["Vancouver BC", "Vancouver BC"]}'
+
+
+Import To DB ----------------------------------------------------
+
+curl -X POST http://localhost:3000/import-reviews
+
+
+You can see the database queries by running prisma studio  or by calling the api.
+
+---------------------------------------------------------------------------------

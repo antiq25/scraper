@@ -1,0 +1,312 @@
+{
+    "place_id": "ChIJrecsT9VzhlQRGyqpAZrQ4o4",
+    "name": "Elafon Mechanical Ltd",
+    "description": null,
+    "reviews": 28,
+    "website": "http://elafonmechanical.ca/",
+    "owner": {
+        "id": "103622165564266649177",
+        "name": "Elafon Mechanical Ltd (Owner)",
+        "link": "https://www.google.com/maps/contrib/103622165564266649177"
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=TzHzDNeg0yrcMGhq5S7MLw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=14.153078&pitch=0&thumbfov=100",
+    "main_category": "Mechanical contractor",
+    "categories": [
+        "Mechanical contractor"
+    ],
+    "rating": 3.1,
+    "workday_timing": "8 a.m.-4 p.m.",
+    "closed_on": [
+        "Saturday",
+        "Sunday"
+    ],
+    "phone": "(604) 688-0001",
+    "address": "Elafon Mechanical Ltd, 970 Burrard St, Vancouver, BC V6Z 2R4",
+    "review_keywords": [
+        {
+            "keyword": "building",
+            "count": 5
+        },
+        {
+            "keyword": "technician",
+            "count": 5
+        },
+        {
+            "keyword": "company",
+            "count": 5
+        },
+        {
+            "keyword": "meeting",
+            "count": 3
+        },
+        {
+            "keyword": "leak",
+            "count": 3
+        },
+        {
+            "keyword": "knowledge",
+            "count": 3
+        },
+        {
+            "keyword": "price",
+            "count": 3
+        }
+    ],
+    "link": "https://www.google.com/maps/place/Elafon+Mechanical+Ltd/@49.2812653,-123.1254477,17z/data=!3m1!4b1!4m6!3m5!1s0x548673d54f2ce7ad:0x8ee2d09a01a92a1b!8m2!3d49.2812653!4d-123.1254477!16s%2Fg%2F1hc7xqy80?authuser=0&entry=ttu",
+    "status": "Closed  Opens 8 a.m. Mon",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 13,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 14
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJrecsT9VzhlQRGyqpAZrQ4o4&q=Elafon+Mechanical+Ltd&authuser=0&hl=en&gl=CA",
+    "coordinates": {
+        "latitude": 49.2812653,
+        "longitude": -123.1254477
+    },
+    "plus_code": "7VJF+GR Vancouver, British Columbia",
+    "detailed_address": {
+        "ward": "Downtown Vancouver",
+        "street": "970 Burrard St",
+        "city": "Vancouver",
+        "postal_code": "V6Z 2R4",
+        "state": "British Columbia",
+        "country_code": "CA"
+    },
+    "time_zone": "America/Vancouver",
+    "cid": "10296021057993779739",
+    "data_id": "0x548673d54f2ce7ad:0x8ee2d09a01a92a1b",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=TzHzDNeg0yrcMGhq5S7MLw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=14.153078&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Machine",
+            "link": "https://lh5.googleusercontent.com/p/AF1QipOAyZ2kbqvs6PeJvh7GUXchdqsfu58ofwrdTJ6L=w447-h298-k-no"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=TzHzDNeg0yrcMGhq5S7MLw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=14.153078&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Monday",
+            "times": [
+                "8 a.m.-4 p.m."
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "times": [
+                "8 a.m.-4 p.m."
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "8 a.m.-4 p.m."
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "8 a.m.-4 p.m."
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "8 a.m.-4 p.m."
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "Closed"
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "Closed"
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "BE AWARE. This company serviced our AC unit in a suite in the Electra Building. The tech did not hook up the condensate pump correctly which caused damage to the flooring. Our family agreed on a cash settlement with the owner Evan. We have been trying to collect the money for 3 years. DO NOT trust this company.",
+            "reviewer_name": "Truckguy 6.7",
+            "rating": 1,
+            "review_text": "BE AWARE. This company serviced our AC unit in a suite in the Electra Building. The tech did not hook up the condensate pump correctly which caused damage to the flooring. Our family agreed on a cash settlement with the owner Evan. We have been trying to collect the money for 3 years. DO NOT trust this company.",
+            "published_at": "5 months ago",
+            "published_at_date": "2023-06-15T18:47:52.006000Z",
+            "response_from_owner_text": "Truck Guy, we brought in our contractor to provide a cost of repairs to the unit. After the estimate was supplied, we waited months for the go-ahead on the agreed price. When your family informed us that your nephew completed the repairs, we asked you for the receipt of the actual costs. We then waited, found the unit was sold, and asked again for proof of work. \nToday you sent an email stating that the repairs were never completed and the unit was sold. \nPlease be truthful when leaving a reply.\n",
+            "response_from_owner_ago": "5 months ago",
+            "response_from_owner_date": "2023-06-15T22:20:55.502000Z",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/104913725781339404777/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjX55kFtKyOeybEVp2MOBF8aJZmPZXWDDspDih4CihZQiQ=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "I'm very satisfied with the work done by Elafon Mechnical Ltd. today - !! I was instructed that repairing a leaky faucet with a shower diverter issue would probably take up to 3 hrs.\n\nGuess what? Kevin, who visited my place today, took only 20 mins to get the job done. What's more incredible is that my 2 month old sleeping baby didn't wake up at all while he was fixing the issue like 3 meters away from her with the washroom door closed. Knowing how she is sensitive to noises, this is truly amazing.\n\nMy wife and I couldn't stop chitchatting about how fast, accurate, and silent he finished his job.\n\nElafon Mechnical Ltd. will be my go-to company for a long time.",
+            "reviewer_name": "Sang Min Kim",
+            "rating": 5,
+            "review_text": "I'm very satisfied with the work done by Elafon Mechnical Ltd. today - !! I was instructed that repairing a leaky faucet with a shower diverter issue would probably take up to 3 hrs.\n\nGuess what? Kevin, who visited my place today, took only 20 mins to get the job done. What's more incredible is that my 2 month old sleeping baby didn't wake up at all while he was fixing the issue like 3 meters away from her with the washroom door closed. Knowing how she is sensitive to noises, this is truly amazing.\n\nMy wife and I couldn't stop chitchatting about how fast, accurate, and silent he finished his job.\n\nElafon Mechnical Ltd. will be my go-to company for a long time.",
+            "published_at": "5 months ago",
+            "published_at_date": "2023-05-29T16:08:45.983000Z",
+            "response_from_owner_text": "Thank you ",
+            "response_from_owner_ago": "5 months ago",
+            "response_from_owner_date": "2023-06-15T22:21:39.366000Z",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 24,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/110952358606361870900/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJGaVwaAykrWSN1D5TkVgyzd5GyFqjCX5Lu3outtgh1yA=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "These guys are about as shady is it comes. They say that their values are service, performance , trust..Add scamming people into it. They will try to invoice people just for smiling their way. They came to check the temp of the water in the suite, didn't do any work or fix anything but are charging for mileage and parts..Come on, you guys are scamming innocent people.",
+            "reviewer_name": "Patrick Man",
+            "rating": 1,
+            "review_text": "These guys are about as shady is it comes. They say that their values are service, performance , trust..Add scamming people into it. They will try to invoice people just for smiling their way. They came to check the temp of the water in the suite, didn't do any work or fix anything but are charging for mileage and parts..Come on, you guys are scamming innocent people.",
+            "published_at": "2 months ago",
+            "published_at_date": "2023-08-29T17:02:01.517000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 197,
+            "total_number_of_photos_by_reviewer": 71,
+            "reviewer_url": "https://www.google.com/maps/contrib/114308518062982113445/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLOodAMLi18caBgrXGjePNuPd3x5QTjkxUoIMH0Ly5Y=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": [
+                "https://lh5.googleusercontent.com/p/AF1QipMULpe97DHwkFVey2Uz2qXZi2TaRNsyoquGkCrX=w150-h150-k-no-p"
+            ]
+        },
+        {
+            "review_id": "Terrible and scared labor fee!\nMy council called this company to replace a shower cartridge for my son's unit.\nI saw that their technitian replaced the cartridge for 30 minutes.\nThat was all thing that their plumber was done.\nMy son asked him the replacement fee, and the plumber told us not expensive.\nBut I got a shocking by their invoce.\nTheir technitian just replaced the shower cartridge due to leaking, and they charged total $695.\nReally is this not expensive?\nNever contact this company in any situation!\n\nAbout your replying! (Review again)\n\nMy son already paid $695 through our council, and he didn't get any credit till now.\nCouncil told my son that this company didn't want to give any credit or discount.\nAnd your technitian stayed and worked  around in my unit for 30 minutes with the council members, and they are witness.\nOne more thing, my son doesn't know you personally.\nI can't trust you again because of your false replying.",
+            "reviewer_name": "Thomas",
+            "rating": 1,
+            "review_text": "Terrible and scared labor fee!\nMy council called this company to replace a shower cartridge for my son's unit.\nI saw that their technitian replaced the cartridge for 30 minutes.\nThat was all thing that their plumber was done.\nMy son asked him the replacement fee, and the plumber told us not expensive.\nBut I got a shocking by their invoce.\nTheir technitian just replaced the shower cartridge due to leaking, and they charged total $695.\nReally is this not expensive?\nNever contact this company in any situation!\n\nAbout your replying! (Review again)\n\nMy son already paid $695 through our council, and he didn't get any credit till now.\nCouncil told my son that this company didn't want to give any credit or discount.\nAnd your technitian stayed and worked  around in my unit for 30 minutes with the council members, and they are witness.\nOne more thing, my son doesn't know you personally.\nI can't trust you again because of your false replying.",
+            "published_at": "a year ago",
+            "published_at_date": "2022-11-02T11:37:42.140000Z",
+            "response_from_owner_text": "Mr. Kim.\n\nPlease email the office with more information in regards to your site location so that I can confirm and review your invoice.\n\nSincerely \nOwner ",
+            "response_from_owner_ago": "a year ago",
+            "response_from_owner_date": "2022-10-14T22:21:20.377000Z",
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 10,
+            "total_number_of_photos_by_reviewer": 3,
+            "reviewer_url": "https://www.google.com/maps/contrib/110144585001476012653/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjVPeKAhDx15fP67UU1pVF3uEvKClzijT5foa3B1--7VObI=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "I called Elafon to repair a slight leak I had at the base of my kitchen tap while the tap was running. The issue was minor and had been going on for at least a month, and was more of a nuisance than anything. Elafon sent out a repair man to fix the sink, however the leak in fact was not only worse following his attempted repair, but was leaking constantly even when the tap was in off position. I had to call and report this to Elafon; they apologized and sent out an emergency repair order, then charged me for both visits. I was appalled! When I called the company to understand this additional charge, they claimed the new leak was a \"coincidence,\" denied their responsibility, and justified the charge. The workmanship was poor, and honestly, the sink was working better before the 2nd fix (in which they must have tightened things too much and the lever to the sink was extremely stiff). I had to have the tap replaced because of this. Please caution with this company! I advise you to seek out repairs elsewhere!",
+            "reviewer_name": "Crystal Wells",
+            "rating": 1,
+            "review_text": "I called Elafon to repair a slight leak I had at the base of my kitchen tap while the tap was running. The issue was minor and had been going on for at least a month, and was more of a nuisance than anything. Elafon sent out a repair man to fix the sink, however the leak in fact was not only worse following his attempted repair, but was leaking constantly even when the tap was in off position. I had to call and report this to Elafon; they apologized and sent out an emergency repair order, then charged me for both visits. I was appalled! When I called the company to understand this additional charge, they claimed the new leak was a \"coincidence,\" denied their responsibility, and justified the charge. The workmanship was poor, and honestly, the sink was working better before the 2nd fix (in which they must have tightened things too much and the lever to the sink was extremely stiff). I had to have the tap replaced because of this. Please caution with this company! I advise you to seek out repairs elsewhere!",
+            "published_at": "a year ago",
+            "published_at_date": "2022-03-30T09:30:38.537000Z",
+            "response_from_owner_text": "Crystal\nThank you for the review, negative or positive. Elafon s technician attended your suite on August 5th, where he found the source of the leak to be a loose spray head hose connection. The technical removed the spray head, cleaned, tightened, and tested and found no other issues at that time besides that your garburator was jammed, and after trying to clear the jam, he was not given authorization from you or your boyfriend to replace the garburator.\nAugust 10th, you made the phone call, and we dispatched a technician, and he found the leak to be coming from your actual faucet cartridge, a completely different leak from the original. He disassembled, cleaned, and restored it to service without further issues.\nFrom what Elafon determined, there were two different leaks and service calls.\nI would have credited the call if the second call were a warranty issue. Unfortunately, it was not.\nSincerely Owner",
+            "response_from_owner_ago": "a year ago",
+            "response_from_owner_date": "2022-10-14T22:34:45.928000Z",
+            "review_likes_count": 3,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/112095607235782253574/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWsNmORvUhCXRtqOwZS1Rg-C80_1runsqDouPWfTZYhA3E=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "I had the fantastic pleasure of meeting the crew from Elafon via our strata. They did great work for our building so I asked them for help with my unit. Katrina was fantastic with bookings who set me up with Ryan, a fantastic and knowledgeable plumber. He helped walk me through what he was doing and his professional recommendations to help fix my plumbing problems. More than happy to recommend recommend the team at Elafon!",
+            "reviewer_name": "Kevin Ho",
+            "rating": 5,
+            "review_text": "I had the fantastic pleasure of meeting the crew from Elafon via our strata. They did great work for our building so I asked them for help with my unit. Katrina was fantastic with bookings who set me up with Ryan, a fantastic and knowledgeable plumber. He helped walk me through what he was doing and his professional recommendations to help fix my plumbing problems. More than happy to recommend recommend the team at Elafon!",
+            "published_at": "2 years ago",
+            "published_at_date": "2020-11-28T07:55:20.243000Z",
+            "response_from_owner_text": "Thank you for the positive feedback.",
+            "response_from_owner_ago": "a year ago",
+            "response_from_owner_date": "2022-03-14T07:27:49.791000Z",
+            "review_likes_count": 5,
+            "total_number_of_reviews_by_reviewer": 35,
+            "total_number_of_photos_by_reviewer": 13,
+            "reviewer_url": "https://www.google.com/maps/contrib/113677654293962336782/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjWfg2_KxpwTI9XH_6eYNRWGJXzrW5VqlB4QXjcmdrhEfcJj=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "We called them on an emergency basis and were so impressed with their professionalism and the work they did that strata asked them to do our regular building maintenance. That was two years ago and one of the best decisions made. Evan and Bryan have high standards and take pride in their work as do all the plumbers I have met who work for them. They solved long standing problems that the last company could not figure out. I know because I witnessed it in person so it wasn't them just saying it.\nI also know that they are very particular about the employees who represent them and that is how they keep the standards so high. Big thumbs up.",
+            "reviewer_name": "Patricia Lobel",
+            "rating": 5,
+            "review_text": "We called them on an emergency basis and were so impressed with their professionalism and the work they did that strata asked them to do our regular building maintenance. That was two years ago and one of the best decisions made. Evan and Bryan have high standards and take pride in their work as do all the plumbers I have met who work for them. They solved long standing problems that the last company could not figure out. I know because I witnessed it in person so it wasn't them just saying it.\nI also know that they are very particular about the employees who represent them and that is how they keep the standards so high. Big thumbs up.",
+            "published_at": "2 years ago",
+            "published_at_date": "2021-04-11T17:49:22.021000Z",
+            "response_from_owner_text": "Thank you for review Elafon is very happy to be providing you with service and meeting the need and requirements of the strata.\n\nSincerely\nEvan Lanaras\nOwner.",
+            "response_from_owner_ago": "2 years ago",
+            "response_from_owner_date": "2021-04-18T21:39:10.528000Z",
+            "review_likes_count": 4,
+            "total_number_of_reviews_by_reviewer": 3,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/116106279207724517172/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocLnqCi1_t9gF9gEwjglx122mHo8pxPYq_ZoBNl2fjy1=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "I had Elefan come out for an AC repair a second time after my tenant complained about the AC not working.  The first time around they serviced the unit, the technician said that if the problem persists they need to come back and take the unit off-premises for repair at their shops.  The second time they were called, it was with the understanding that they would take the unit off-premises for repair, like their technician had advised the first time.  However, they only changed the filter the second time around and never took the unit for repair.  They charged me close to $300 for changing a filter.  I complained about this and they never owned up to the fact that the initial technician had advised differently and they said that I had to pay the two hour minimum (all this for a filter change).  They claimed that the second technician took the unit apart for service, however according to my tenant who was present, he only changed the filter.  After a-lot of back and forth they gave me a $30 discount (so overly generous of them)!!!!!  DO NOT TRUST THIS COMPANY.  THEY ARE A BUNCH OF UNPROFESSIONAL INDIVIDUALS WHO ARE OUT TO TAKE ADVANTAGE OF CUSTOMERS.",
+            "reviewer_name": "F. Mav",
+            "rating": 1,
+            "review_text": "I had Elefan come out for an AC repair a second time after my tenant complained about the AC not working.  The first time around they serviced the unit, the technician said that if the problem persists they need to come back and take the unit off-premises for repair at their shops.  The second time they were called, it was with the understanding that they would take the unit off-premises for repair, like their technician had advised the first time.  However, they only changed the filter the second time around and never took the unit for repair.  They charged me close to $300 for changing a filter.  I complained about this and they never owned up to the fact that the initial technician had advised differently and they said that I had to pay the two hour minimum (all this for a filter change).  They claimed that the second technician took the unit apart for service, however according to my tenant who was present, he only changed the filter.  After a-lot of back and forth they gave me a $30 discount (so overly generous of them)!!!!!  DO NOT TRUST THIS COMPANY.  THEY ARE A BUNCH OF UNPROFESSIONAL INDIVIDUALS WHO ARE OUT TO TAKE ADVANTAGE OF CUSTOMERS.",
+            "published_at": "a year ago",
+            "published_at_date": "2022-07-27T18:55:38.303000Z",
+            "response_from_owner_text": "Farhad\nWhen the service call was placed, you were instructed that there was a two-hour minimum call for the service. The technician arrived on site checked the heat pump operation and found the only issue was a plugged filter. This warranted the heat pump not being pulled and brought off-site, which would have cost you more than the two-hour service call. Since the service, you have gone through two heat spells without issues with the heat pump operation. Elafon also provided you with a seniors discount to offset your invoice.\nI'm sorry you feel the way you do, but in closing, Elafon provided service, repaired your problem, and provided you with a discount.\nElafon is not in the business of ripping people off we went out of our way to help you, and in the end, fairy resolved this issue.\n\nSincerely Owner",
+            "response_from_owner_ago": "a year ago",
+            "response_from_owner_date": "2022-07-27T20:33:42.308000Z",
+            "review_likes_count": 3,
+            "total_number_of_reviews_by_reviewer": 4,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/108298860492854874747/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjUMSQprbvlU9oO0u6xCX8ju9TIkHpsB1wL9xmdrt0MhZl4=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}

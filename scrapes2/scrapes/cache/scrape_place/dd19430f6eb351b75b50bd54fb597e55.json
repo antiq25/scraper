@@ -1,0 +1,283 @@
+{
+    "place_id": "ChIJ9eMVKwAVrjsR4jH6PD98m7g",
+    "name": "Webgen",
+    "description": null,
+    "reviews": 37,
+    "website": "https://www.webgen.in/",
+    "owner": {
+        "id": "117156846212994871472",
+        "name": "Webgen (Owner)",
+        "link": "https://www.google.com/maps/contrib/117156846212994871472"
+    },
+    "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=B6Mn7LxgNxurQD0JgC-8Sg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=172.21611&pitch=0&thumbfov=100",
+    "main_category": "Website designer",
+    "categories": [
+        "Website designer",
+        "Advertising agency",
+        "Internet marketing service",
+        "Marketing agency",
+        "Web hosting company"
+    ],
+    "rating": 4.1,
+    "workday_timing": "Open 24 hours",
+    "closed_on": [],
+    "phone": "+91 72591 04089",
+    "address": "Webgen, 73, 10th Main Rd, KEB Colony, 1st Stage, BTM 1st Stage, Bengaluru, Karnataka 560029, India",
+    "review_keywords": [
+        {
+            "keyword": "company",
+            "count": 4
+        }
+    ],
+    "link": "https://www.google.com/maps/place/Webgen/data=!4m7!3m6!1s0x3bae15002b15e3f5:0xb89b7c3f3cfa31e2!8m2!3d12.9198523!4d77.6074941!16s%2Fg%2F12q4t3y8x!19sChIJ9eMVKwAVrjsR4jH6PD98m7g?authuser=0&hl=en&rclk=1",
+    "status": "Open 24 hours",
+    "price_range": null,
+    "reviews_per_rating": {
+        "1": 6,
+        "2": 0,
+        "3": 2,
+        "4": 5,
+        "5": 24
+    },
+    "reviews_link": "https://search.google.com/local/reviews?placeid=ChIJ9eMVKwAVrjsR4jH6PD98m7g&q=Webgen&authuser=0&hl=en&gl=IN",
+    "coordinates": {
+        "latitude": 12.919852299999999,
+        "longitude": 77.6074941
+    },
+    "plus_code": "WJ94+WX Bengaluru, Karnataka, India",
+    "detailed_address": {
+        "ward": "KEB Colony, 1st Stage, BTM 1st Stage",
+        "street": "73, 10th Main Rd",
+        "city": "Bengaluru",
+        "postal_code": "560029",
+        "state": "Karnataka",
+        "country_code": "IN"
+    },
+    "time_zone": "Asia/Calcutta",
+    "cid": "13302362535416705506",
+    "data_id": "0x3bae15002b15e3f5:0xb89b7c3f3cfa31e2",
+    "menu": {
+        "link": null,
+        "source": null
+    },
+    "reservations": [],
+    "order_online_links": [],
+    "about": [],
+    "images": [
+        {
+            "about": "All",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=B6Mn7LxgNxurQD0JgC-8Sg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=172.21611&pitch=0&thumbfov=100"
+        },
+        {
+            "about": "Street View & 360deg",
+            "link": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=B6Mn7LxgNxurQD0JgC-8Sg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=172.21611&pitch=0&thumbfov=100"
+        }
+    ],
+    "hours": [
+        {
+            "day": "Tuesday",
+            "times": [
+                "Open 24 hours"
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "times": [
+                "Open 24 hours"
+            ]
+        },
+        {
+            "day": "Thursday",
+            "times": [
+                "Open 24 hours"
+            ]
+        },
+        {
+            "day": "Friday",
+            "times": [
+                "Open 24 hours"
+            ]
+        },
+        {
+            "day": "Saturday",
+            "times": [
+                "Open 24 hours"
+            ]
+        },
+        {
+            "day": "Sunday",
+            "times": [
+                "Open 24 hours"
+            ]
+        },
+        {
+            "day": "Monday",
+            "times": [
+                "Open 24 hours"
+            ]
+        }
+    ],
+    "featured_reviews": [
+        {
+            "review_id": "Recently I made a website it was delivered outstanding. Slightly higher but I am really happy with the results.",
+            "reviewer_name": "MANJU'S NEPALI KITCHEN",
+            "rating": 5,
+            "review_text": "Recently I made a website it was delivered outstanding. Slightly higher but I am really happy with the results.",
+            "published_at": "3 months ago",
+            "published_at_date": "2023-08-04T15:50:01.747000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/111716733088731013510/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXaXuLl_yjSbaAShMQwtmofsQx5uh17pLYMYUaZzvO6IDc=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "It's a fraud company,\nEven mentioned address also fake,\nTaking orders and getting payment then horrayy.\nNot available, you can not reach to him\nBe careful when you are dealing such companies..",
+            "reviewer_name": "Hayati Dasbilek",
+            "rating": 1,
+            "review_text": "It's a fraud company,\nEven mentioned address also fake,\nTaking orders and getting payment then horrayy.\nNot available, you can not reach to him\nBe careful when you are dealing such companies..",
+            "published_at": "a year ago",
+            "published_at_date": "2022-11-16T15:19:37.662000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 4,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/116311624520286100135/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjV5PaCmq9o2ueWjxA4MCXpd2rtsd99Bn_mgbM6RBm6KSsg=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Too expensive web services they're offering",
+            "reviewer_name": "Jagadish Vajjal",
+            "rating": 4,
+            "review_text": "Too expensive web services they're offering",
+            "published_at": "6 months ago",
+            "published_at_date": "2023-05-16T06:24:57.173000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 44,
+            "total_number_of_photos_by_reviewer": 30,
+            "reviewer_url": "https://www.google.com/maps/contrib/106625894087475145428/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a-/ALV-UjXkLSts_B5UOVBrVf10zKUcpFQC_JFYLDAwDd-ynGxBR7aJ=s120-c-rp-mo-ba4-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "creative websites are just awesome. worth paying for. designs are unique & of international standards. good service. trust worthy company.\n\nthanks",
+            "reviewer_name": "Jolly D",
+            "rating": 5,
+            "review_text": "creative websites are just awesome. worth paying for. designs are unique & of international standards. good service. trust worthy company.\n\nthanks",
+            "published_at": "8 years ago",
+            "published_at_date": "2015-07-19T17:56:49.975000Z",
+            "response_from_owner_text": "Thanks a lot jolly. Happy to serve you.",
+            "response_from_owner_ago": "8 years ago",
+            "response_from_owner_date": "2015-07-19T20:48:03.758000Z",
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 1,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/117245265026305971456/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKgtTm8zYF2S6IqvWwW-4BBdJatyVNmtHs_goV8iejm=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "I Would really like to appreciate the work done by this company,the way they manage to design the site in less time.Reachable 24X7.Price is bit high but the Web-site provided really worth it.Great Work Done!!",
+            "reviewer_name": "mahima shahi",
+            "rating": 5,
+            "review_text": "I Would really like to appreciate the work done by this company,the way they manage to design the site in less time.Reachable 24X7.Price is bit high but the Web-site provided really worth it.Great Work Done!!",
+            "published_at": "9 years ago",
+            "published_at_date": "2014-09-18T17:07:54.799000Z",
+            "response_from_owner_text": "thank you mahima :)",
+            "response_from_owner_ago": "8 years ago",
+            "response_from_owner_date": "2015-02-23T19:22:26.797000Z",
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 4,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/105246585232920468101/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocJnHN2HrzasbZEH-tziM1rwi3bGVg7tMpVRQb1Dxm9S=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "We got our website developed by webgen. They got some really awesome designs which i haven't found it anywhere else. Really happy with their service.\nThanks.",
+            "reviewer_name": "Ankur das",
+            "rating": 5,
+            "review_text": "We got our website developed by webgen. They got some really awesome designs which i haven't found it anywhere else. Really happy with their service.\nThanks.",
+            "published_at": "9 years ago",
+            "published_at_date": "2014-04-26T10:45:00.992000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 0,
+            "total_number_of_reviews_by_reviewer": 2,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/117357372369456384838/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocILmLp706okLur_I4UC5zS6syCJzPGVRZ3bUODIHq1t=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "Had amazing experience with webgen. Undoubtedly one of the best web design company in Bangalore.",
+            "reviewer_name": "Linford D'Souza",
+            "rating": 5,
+            "review_text": "Had amazing experience with webgen. Undoubtedly one of the best web design company in Bangalore.",
+            "published_at": "2 years ago",
+            "published_at_date": "2021-05-26T10:09:09.187000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 2,
+            "total_number_of_reviews_by_reviewer": 35,
+            "total_number_of_photos_by_reviewer": 7,
+            "reviewer_url": "https://www.google.com/maps/contrib/116647638049752503767/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKIuo37vuNRPfrB78t7hf8RbCubuDWlW4H66nKWOd60=s120-c-rp-mo-ba3-br100",
+            "is_local_guide": true,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        },
+        {
+            "review_id": "very bad team\neven they don't know to update their address in Google page",
+            "reviewer_name": "me too",
+            "rating": 1,
+            "review_text": "very bad team\neven they don't know to update their address in Google page",
+            "published_at": "3 years ago",
+            "published_at_date": "2020-02-27T07:37:58.174000Z",
+            "response_from_owner_text": null,
+            "response_from_owner_ago": null,
+            "response_from_owner_date": null,
+            "review_likes_count": 1,
+            "total_number_of_reviews_by_reviewer": 3,
+            "total_number_of_photos_by_reviewer": 0,
+            "reviewer_url": "https://www.google.com/maps/contrib/110004052122737431973/reviews?entry=ttu",
+            "reviewer_profile_picture": "https://lh3.googleusercontent.com/a/ACg8ocKnKiqCNOWyAw2sVpr3rg3e9DBObKToXdlcGYJVOz8n=s120-c-rp-mo-br100",
+            "is_local_guide": false,
+            "review_translated_text": null,
+            "response_from_owner_translated_text": null,
+            "review_photos": []
+        }
+    ],
+    "is_spending_on_ads": false
+}
